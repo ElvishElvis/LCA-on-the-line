@@ -1,0 +1,3902 @@
+
+imagenet_AlexNet_10
+top 1 leaf acc for imagenet_AlexNet_10 is 0.56556
+top 5 leaf acc for imagenet_AlexNet_10 is 0.76806
+top 10 leaf acc for imagenet_AlexNet_10 is 0.84414
+Top 1 imagenet_AlexNet_10 LCA: 7.010167028715422 
+Top 5 imagenet_AlexNet_10 LCA: 6.554232488039838 
+
+imagenet_ConvNeXt_12
+top 1 leaf acc for imagenet_ConvNeXt_12 is 0.82134
+top 5 leaf acc for imagenet_ConvNeXt_12 is 0.9513999999999999
+top 10 leaf acc for imagenet_ConvNeXt_12 is 0.9763
+Top 1 imagenet_ConvNeXt_12 LCA: 6.291690990439575 
+Top 5 imagenet_ConvNeXt_12 LCA: 5.748654945283938 
+
+imagenet_DenseNet_2
+top 1 leaf acc for imagenet_DenseNet_2 is 0.76886
+top 5 leaf acc for imagenet_DenseNet_2 is 0.9210599999999999
+top 10 leaf acc for imagenet_DenseNet_2 is 0.95688
+Top 1 imagenet_DenseNet_2 LCA: 6.425745535028117 
+Top 5 imagenet_DenseNet_2 LCA: 5.875087454800193 
+
+imagenet_DenseNet_27
+top 1 leaf acc for imagenet_DenseNet_27 is 0.74438
+top 5 leaf acc for imagenet_DenseNet_27 is 0.9056400000000001
+top 10 leaf acc for imagenet_DenseNet_27 is 0.9473200000000002
+Top 1 imagenet_DenseNet_27 LCA: 6.537300208363559 
+Top 5 imagenet_DenseNet_27 LCA: 5.979799148168532 
+
+imagenet_DenseNet_28
+top 1 leaf acc for imagenet_DenseNet_28 is 0.77112
+top 5 leaf acc for imagenet_DenseNet_28 is 0.9241199999999999
+top 10 leaf acc for imagenet_DenseNet_28 is 0.95928
+Top 1 imagenet_DenseNet_28 LCA: 6.429384035684618 
+Top 5 imagenet_DenseNet_28 LCA: 5.858562470773966 
+
+imagenet_DenseNet_29
+top 1 leaf acc for imagenet_DenseNet_29 is 0.75588
+top 5 leaf acc for imagenet_DenseNet_29 is 0.9154399999999999
+top 10 leaf acc for imagenet_DenseNet_29 is 0.9536800000000001
+Top 1 imagenet_DenseNet_29 LCA: 6.4569934811188405 
+Top 5 imagenet_DenseNet_29 LCA: 5.911004005917088 
+
+imagenet_EfficientNet_1
+top 1 leaf acc for imagenet_EfficientNet_1 is 0.77672
+top 5 leaf acc for imagenet_EfficientNet_1 is 0.92402
+top 10 leaf acc for imagenet_EfficientNet_1 is 0.9596600000000001
+Top 1 imagenet_EfficientNet_1 LCA: 6.379389417012445 
+Top 5 imagenet_EfficientNet_1 LCA: 5.881395200756854 
+
+imagenet_GoogLeNet_21
+top 1 leaf acc for imagenet_GoogLeNet_21 is 0.69772
+top 5 leaf acc for imagenet_GoogLeNet_21 is 0.8791800000000001
+top 10 leaf acc for imagenet_GoogLeNet_21 is 0.92884
+Top 1 imagenet_GoogLeNet_21 LCA: 6.614532463943739 
+Top 5 imagenet_GoogLeNet_21 LCA: 6.092005548958624 
+
+imagenet_Inception3_6
+top 1 leaf acc for imagenet_Inception3_6 is 0.69522
+top 5 leaf acc for imagenet_Inception3_6 is 0.8704999999999998
+top 10 leaf acc for imagenet_Inception3_6 is 0.9198999999999999
+Top 1 imagenet_Inception3_6 LCA: 6.6634802016152115 
+Top 5 imagenet_Inception3_6 LCA: 6.238506323933861 
+
+imagenet_MNASNet_18
+top 1 leaf acc for imagenet_MNASNet_18 is 0.6775
+top 5 leaf acc for imagenet_MNASNet_18 is 0.85736
+top 10 leaf acc for imagenet_MNASNet_18 is 0.9123399999999999
+Top 1 imagenet_MNASNet_18 LCA: 6.784575329849879 
+Top 5 imagenet_MNASNet_18 LCA: 6.293406983439372 
+
+imagenet_MNASNet_19
+top 1 leaf acc for imagenet_MNASNet_19 is 0.70882
+top 5 leaf acc for imagenet_MNASNet_19 is 0.8866999999999999
+top 10 leaf acc for imagenet_MNASNet_19 is 0.9352000000000001
+Top 1 imagenet_MNASNet_19 LCA: 6.597268623534325 
+Top 5 imagenet_MNASNet_19 LCA: 6.041867765203395 
+
+imagenet_MNASNet_20
+top 1 leaf acc for imagenet_MNASNet_20 is 0.73468
+top 5 leaf acc for imagenet_MNASNet_20 is 0.9007599999999999
+top 10 leaf acc for imagenet_MNASNet_20 is 0.94352
+Top 1 imagenet_MNASNet_20 LCA: 6.538429842034725 
+Top 5 imagenet_MNASNet_20 LCA: 6.001007424061533 
+
+imagenet_MNASNet_3
+top 1 leaf acc for imagenet_MNASNet_3 is 0.76076
+top 5 leaf acc for imagenet_MNASNet_3 is 0.91958
+top 10 leaf acc for imagenet_MNASNet_3 is 0.95768
+Top 1 imagenet_MNASNet_3 LCA: 6.440310605460971 
+Top 5 imagenet_MNASNet_3 LCA: 5.873301720814307 
+
+imagenet_MobileNetV3_30
+top 1 leaf acc for imagenet_MobileNetV3_30 is 0.67668
+top 5 leaf acc for imagenet_MobileNetV3_30 is 0.8560000000000001
+top 10 leaf acc for imagenet_MobileNetV3_30 is 0.9128999999999999
+Top 1 imagenet_MobileNetV3_30 LCA: 6.759152502630646 
+Top 5 imagenet_MobileNetV3_30 LCA: 6.260673783616023 
+
+imagenet_MobileNetV3_31
+top 1 leaf acc for imagenet_MobileNetV3_31 is 0.75314
+top 5 leaf acc for imagenet_MobileNetV3_31 is 0.91276
+top 10 leaf acc for imagenet_MobileNetV3_31 is 0.9527000000000001
+Top 1 imagenet_MobileNetV3_31 LCA: 6.487850500218834 
+Top 5 imagenet_MobileNetV3_31 LCA: 5.94997460824215 
+
+imagenet_RN101
+top 1 leaf acc for imagenet_RN101 is 0.6065
+top 5 leaf acc for imagenet_RN101 is 0.84462
+top 10 leaf acc for imagenet_RN101 is 0.9150200000000001
+Top 1 imagenet_RN101 LCA: 6.284171182758588 
+Top 5 imagenet_RN101 LCA: 5.823628559691741 
+
+imagenet_RN50
+top 1 leaf acc for imagenet_RN50 is 0.5788
+top 5 leaf acc for imagenet_RN50 is 0.82306
+top 10 leaf acc for imagenet_RN50 is 0.90262
+Top 1 imagenet_RN50 LCA: 6.326690363963776 
+Top 5 imagenet_RN50 LCA: 5.8952528272818485 
+
+imagenet_RN50x4
+top 1 leaf acc for imagenet_RN50x4 is 0.64082
+top 5 leaf acc for imagenet_RN50x4 is 0.8693799999999999
+top 10 leaf acc for imagenet_RN50x4 is 0.93136
+Top 1 imagenet_RN50x4 LCA: 6.1656024138301255 
+Top 5 imagenet_RN50x4 LCA: 5.756914548337808 
+
+imagenet_RegNet_4
+top 1 leaf acc for imagenet_RegNet_4 is 0.80734
+top 5 leaf acc for imagenet_RegNet_4 is 0.9441999999999999
+top 10 leaf acc for imagenet_RegNet_4 is 0.9712999999999999
+Top 1 imagenet_RegNet_4 LCA: 6.254104491066893 
+Top 5 imagenet_RegNet_4 LCA: 5.784386236690583 
+
+imagenet_ResNet_0
+top 1 leaf acc for imagenet_ResNet_0 is 0.80346
+top 5 leaf acc for imagenet_ResNet_0 is 0.9408999999999998
+top 10 leaf acc for imagenet_ResNet_0 is 0.96992
+Top 1 imagenet_ResNet_0 LCA: 6.310438129928678 
+Top 5 imagenet_ResNet_0 LCA: 5.825383232118792 
+
+imagenet_ResNet_11
+top 1 leaf acc for imagenet_ResNet_11 is 0.82348
+top 5 leaf acc for imagenet_ResNet_11 is 0.9517599999999999
+top 10 leaf acc for imagenet_ResNet_11 is 0.9759599999999999
+Top 1 imagenet_ResNet_11 LCA: 6.2203943283849075 
+Top 5 imagenet_ResNet_11 LCA: 5.760909544983923 
+
+imagenet_ResNet_12
+top 1 leaf acc for imagenet_ResNet_12 is 0.6976
+top 5 leaf acc for imagenet_ResNet_12 is 0.874
+top 10 leaf acc for imagenet_ResNet_12 is 0.92598
+Top 1 imagenet_ResNet_12 LCA: 6.642525316949829 
+Top 5 imagenet_ResNet_12 LCA: 6.110947925735617 
+
+imagenet_ResNet_13
+top 1 leaf acc for imagenet_ResNet_13 is 0.73302
+top 5 leaf acc for imagenet_ResNet_13 is 0.89914
+top 10 leaf acc for imagenet_ResNet_13 is 0.94266
+Top 1 imagenet_ResNet_13 LCA: 6.538921817680058 
+Top 5 imagenet_ResNet_13 LCA: 5.994676892978392 
+
+imagenet_ResNet_5
+top 1 leaf acc for imagenet_ResNet_5 is 0.81672
+top 5 leaf acc for imagenet_ResNet_5 is 0.94836
+top 10 leaf acc for imagenet_ResNet_5 is 0.97306
+Top 1 imagenet_ResNet_5 LCA: 6.245730607274888 
+Top 5 imagenet_ResNet_5 LCA: 5.783265370881723 
+
+imagenet_ResNet_6
+top 1 leaf acc for imagenet_ResNet_6 is 0.82346
+top 5 leaf acc for imagenet_ResNet_6 is 0.95062
+top 10 leaf acc for imagenet_ResNet_6 is 0.97556
+Top 1 imagenet_ResNet_6 LCA: 6.213651119289487 
+Top 5 imagenet_ResNet_6 LCA: 5.743882804490973 
+
+imagenet_ShuffleNetV2_9
+top 1 leaf acc for imagenet_ShuffleNetV2_9 is 0.76194
+top 5 leaf acc for imagenet_ShuffleNetV2_9 is 0.9166
+top 10 leaf acc for imagenet_ShuffleNetV2_9 is 0.9544799999999999
+Top 1 imagenet_ShuffleNetV2_9 LCA: 6.549421734274569 
+Top 5 imagenet_ShuffleNetV2_9 LCA: 6.007203800897364 
+
+imagenet_SqueezeNet_22
+top 1 leaf acc for imagenet_SqueezeNet_22 is 0.58096
+top 5 leaf acc for imagenet_SqueezeNet_22 is 0.7807799999999999
+top 10 leaf acc for imagenet_SqueezeNet_22 is 0.8552
+Top 1 imagenet_SqueezeNet_22 LCA: 7.000524107125465 
+Top 5 imagenet_SqueezeNet_22 LCA: 6.530428458436493 
+
+imagenet_SqueezeNet_23
+top 1 leaf acc for imagenet_SqueezeNet_23 is 0.58188
+top 5 leaf acc for imagenet_SqueezeNet_23 is 0.78288
+top 10 leaf acc for imagenet_SqueezeNet_23 is 0.8568399999999999
+Top 1 imagenet_SqueezeNet_23 LCA: 7.028829354520066 
+Top 5 imagenet_SqueezeNet_23 LCA: 6.535890978013837 
+
+imagenet_SwinTransformer_5
+top 1 leaf acc for imagenet_SwinTransformer_5 is 0.83172
+top 5 leaf acc for imagenet_SwinTransformer_5 is 0.957
+top 10 leaf acc for imagenet_SwinTransformer_5 is 0.9790800000000001
+Top 1 imagenet_SwinTransformer_5 LCA: 6.2046768440172775 
+Top 5 imagenet_SwinTransformer_5 LCA: 5.666399395609854 
+
+imagenet_VGG_10
+top 1 leaf acc for imagenet_VGG_10 is 0.74242
+top 5 leaf acc for imagenet_VGG_10 is 0.9044399999999999
+top 10 leaf acc for imagenet_VGG_10 is 0.9462599999999999
+Top 1 imagenet_VGG_10 LCA: 6.495703405767661 
+Top 5 imagenet_VGG_10 LCA: 5.918963133564517 
+
+imagenet_VGG_14
+top 1 leaf acc for imagenet_VGG_14 is 0.6904
+top 5 leaf acc for imagenet_VGG_14 is 0.8693
+top 10 leaf acc for imagenet_VGG_14 is 0.9233399999999999
+Top 1 imagenet_VGG_14 LCA: 6.647957037087848 
+Top 5 imagenet_VGG_14 LCA: 6.11834338398411 
+
+imagenet_VGG_15
+top 1 leaf acc for imagenet_VGG_15 is 0.6994
+top 5 leaf acc for imagenet_VGG_15 is 0.8769999999999999
+top 10 leaf acc for imagenet_VGG_15 is 0.92666
+Top 1 imagenet_VGG_15 LCA: 6.611162640363139 
+Top 5 imagenet_VGG_15 LCA: 6.067421789174934 
+
+imagenet_VGG_16
+top 1 leaf acc for imagenet_VGG_16 is 0.71586
+top 5 leaf acc for imagenet_VGG_16 is 0.8883800000000001
+top 10 leaf acc for imagenet_VGG_16 is 0.93622
+Top 1 imagenet_VGG_16 LCA: 6.5799962977417525 
+Top 5 imagenet_VGG_16 LCA: 6.019772449169303 
+
+imagenet_VGG_17
+top 1 leaf acc for imagenet_VGG_17 is 0.72394
+top 5 leaf acc for imagenet_VGG_17 is 0.8934000000000001
+top 10 leaf acc for imagenet_VGG_17 is 0.9389000000000001
+Top 1 imagenet_VGG_17 LCA: 6.576004012317171 
+Top 5 imagenet_VGG_17 LCA: 6.007325281031315 
+
+imagenet_VGG_24
+top 1 leaf acc for imagenet_VGG_24 is 0.7038
+top 5 leaf acc for imagenet_VGG_24 is 0.88076
+top 10 leaf acc for imagenet_VGG_24 is 0.9313399999999998
+Top 1 imagenet_VGG_24 LCA: 6.59267891526332 
+Top 5 imagenet_VGG_24 LCA: 6.022982635067023 
+
+imagenet_VGG_25
+top 1 leaf acc for imagenet_VGG_25 is 0.71554
+top 5 leaf acc for imagenet_VGG_25 is 0.8883199999999999
+top 10 leaf acc for imagenet_VGG_25 is 0.9367800000000001
+Top 1 imagenet_VGG_25 LCA: 6.550675369698715 
+Top 5 imagenet_VGG_25 LCA: 5.997821923497361 
+
+imagenet_VGG_26
+top 1 leaf acc for imagenet_VGG_26 is 0.7337
+top 5 leaf acc for imagenet_VGG_26 is 0.89992
+top 10 leaf acc for imagenet_VGG_26 is 0.94482
+Top 1 imagenet_VGG_26 LCA: 6.531522172399765 
+Top 5 imagenet_VGG_26 LCA: 5.9483704499138055 
+
+imagenet_VisionTransformer_7
+top 1 leaf acc for imagenet_VisionTransformer_7 is 0.75912
+top 5 leaf acc for imagenet_VisionTransformer_7 is 0.91208
+top 10 leaf acc for imagenet_VisionTransformer_7 is 0.9493800000000001
+Top 1 imagenet_VisionTransformer_7 LCA: 6.493654854099314 
+Top 5 imagenet_VisionTransformer_7 LCA: 6.006149413466069 
+
+imagenet_VisionTransformer_8
+top 1 leaf acc for imagenet_VisionTransformer_8 is 0.7696
+top 5 leaf acc for imagenet_VisionTransformer_8 is 0.91888
+top 10 leaf acc for imagenet_VisionTransformer_8 is 0.95448
+Top 1 imagenet_VisionTransformer_8 LCA: 6.471048266360897 
+Top 5 imagenet_VisionTransformer_8 LCA: 5.983181909547815 
+
+imagenet_a_AlexNet_10
+top 1 leaf acc for imagenet_a_AlexNet_10 is 0.018133333333333335
+top 5 leaf acc for imagenet_a_AlexNet_10 is 0.0944
+top 10 leaf acc for imagenet_a_AlexNet_10 is 0.19773333333333334
+Top 1 imagenet_a_AlexNet_10 LCA: 8.576465305550519 
+Top 5 imagenet_a_AlexNet_10 LCA: 8.468456017148831 
+
+imagenet_a_ConvNeXt_12
+top 1 leaf acc for imagenet_a_ConvNeXt_12 is 0.24413333333333334
+top 5 leaf acc for imagenet_a_ConvNeXt_12 is 0.5586666666666666
+top 10 leaf acc for imagenet_a_ConvNeXt_12 is 0.7141333333333333
+Top 1 imagenet_a_ConvNeXt_12 LCA: 8.110016419807128 
+Top 5 imagenet_a_ConvNeXt_12 LCA: 7.4162105773701334 
+
+imagenet_a_DenseNet_2
+top 1 leaf acc for imagenet_a_DenseNet_2 is 0.037866666666666667
+top 5 leaf acc for imagenet_a_DenseNet_2 is 0.2162666666666667
+top 10 leaf acc for imagenet_a_DenseNet_2 is 0.3798666666666667
+Top 1 imagenet_a_DenseNet_2 LCA: 8.381104601897428 
+Top 5 imagenet_a_DenseNet_2 LCA: 8.084795470062996 
+
+imagenet_a_DenseNet_27
+top 1 leaf acc for imagenet_a_DenseNet_27 is 0.021333333333333333
+top 5 leaf acc for imagenet_a_DenseNet_27 is 0.17626666666666665
+top 10 leaf acc for imagenet_a_DenseNet_27 is 0.33546666666666664
+Top 1 imagenet_a_DenseNet_27 LCA: 8.414966808762411 
+Top 5 imagenet_a_DenseNet_27 LCA: 8.173070139421096 
+
+imagenet_a_DenseNet_28
+top 1 leaf acc for imagenet_a_DenseNet_28 is 0.0416
+top 5 leaf acc for imagenet_a_DenseNet_28 is 0.23706666666666668
+top 10 leaf acc for imagenet_a_DenseNet_28 is 0.40080000000000005
+Top 1 imagenet_a_DenseNet_28 LCA: 8.378869350524885 
+Top 5 imagenet_a_DenseNet_28 LCA: 8.049120609234127 
+
+imagenet_a_DenseNet_29
+top 1 leaf acc for imagenet_a_DenseNet_29 is 0.0316
+top 5 leaf acc for imagenet_a_DenseNet_29 is 0.19946666666666665
+top 10 leaf acc for imagenet_a_DenseNet_29 is 0.36066666666666664
+Top 1 imagenet_a_DenseNet_29 LCA: 8.409023632065486 
+Top 5 imagenet_a_DenseNet_29 LCA: 8.127884124638648 
+
+imagenet_a_EfficientNet_1
+top 1 leaf acc for imagenet_a_EfficientNet_1 is 0.0684
+top 5 leaf acc for imagenet_a_EfficientNet_1 is 0.2906666666666667
+top 10 leaf acc for imagenet_a_EfficientNet_1 is 0.45960000000000006
+Top 1 imagenet_a_EfficientNet_1 LCA: 8.25707721422975 
+Top 5 imagenet_a_EfficientNet_1 LCA: 7.888550297050397 
+
+imagenet_a_GoogLeNet_21
+top 1 leaf acc for imagenet_a_GoogLeNet_21 is 0.016933333333333335
+top 5 leaf acc for imagenet_a_GoogLeNet_21 is 0.13146666666666665
+top 10 leaf acc for imagenet_a_GoogLeNet_21 is 0.25653333333333334
+Top 1 imagenet_a_GoogLeNet_21 LCA: 8.537280806372275 
+Top 5 imagenet_a_GoogLeNet_21 LCA: 8.370127632924657 
+
+imagenet_a_Inception3_6
+top 1 leaf acc for imagenet_a_Inception3_6 is 0.051866666666666665
+top 5 leaf acc for imagenet_a_Inception3_6 is 0.19333333333333333
+top 10 leaf acc for imagenet_a_Inception3_6 is 0.3218666666666667
+Top 1 imagenet_a_Inception3_6 LCA: 8.375896218998985 
+Top 5 imagenet_a_Inception3_6 LCA: 8.191769811212358 
+
+imagenet_a_MNASNet_18
+top 1 leaf acc for imagenet_a_MNASNet_18 is 0.0184
+top 5 leaf acc for imagenet_a_MNASNet_18 is 0.13253333333333334
+top 10 leaf acc for imagenet_a_MNASNet_18 is 0.26039999999999996
+Top 1 imagenet_a_MNASNet_18 LCA: 8.49871676695981 
+Top 5 imagenet_a_MNASNet_18 LCA: 8.342354725470459 
+
+imagenet_a_MNASNet_19
+top 1 leaf acc for imagenet_a_MNASNet_19 is 0.0404
+top 5 leaf acc for imagenet_a_MNASNet_19 is 0.20959999999999998
+top 10 leaf acc for imagenet_a_MNASNet_19 is 0.3821333333333333
+Top 1 imagenet_a_MNASNet_19 LCA: 8.345604395121544 
+Top 5 imagenet_a_MNASNet_19 LCA: 8.047825927426747 
+
+imagenet_a_MNASNet_20
+top 1 leaf acc for imagenet_a_MNASNet_20 is 0.028533333333333334
+top 5 leaf acc for imagenet_a_MNASNet_20 is 0.1812
+top 10 leaf acc for imagenet_a_MNASNet_20 is 0.3485333333333333
+Top 1 imagenet_a_MNASNet_20 LCA: 8.358982140290246 
+Top 5 imagenet_a_MNASNet_20 LCA: 8.109313464903275 
+
+imagenet_a_MNASNet_3
+top 1 leaf acc for imagenet_a_MNASNet_3 is 0.08213333333333334
+top 5 leaf acc for imagenet_a_MNASNet_3 is 0.3148
+top 10 leaf acc for imagenet_a_MNASNet_3 is 0.5024
+Top 1 imagenet_a_MNASNet_3 LCA: 8.218627309140418 
+Top 5 imagenet_a_MNASNet_3 LCA: 7.787235287225848 
+
+imagenet_a_MobileNetV3_30
+top 1 leaf acc for imagenet_a_MobileNetV3_30 is 0.026
+top 5 leaf acc for imagenet_a_MobileNetV3_30 is 0.1448
+top 10 leaf acc for imagenet_a_MobileNetV3_30 is 0.28613333333333335
+Top 1 imagenet_a_MobileNetV3_30 LCA: 8.438525670936633 
+Top 5 imagenet_a_MobileNetV3_30 LCA: 8.264288600565054 
+
+imagenet_a_MobileNetV3_31
+top 1 leaf acc for imagenet_a_MobileNetV3_31 is 0.05506666666666667
+top 5 leaf acc for imagenet_a_MobileNetV3_31 is 0.26439999999999997
+top 10 leaf acc for imagenet_a_MobileNetV3_31 is 0.44439999999999996
+Top 1 imagenet_a_MobileNetV3_31 LCA: 8.295512294614785 
+Top 5 imagenet_a_MobileNetV3_31 LCA: 7.935089693255358 
+
+imagenet_a_RN101
+top 1 leaf acc for imagenet_a_RN101 is 0.27986666666666665
+top 5 leaf acc for imagenet_a_RN101 is 0.5569333333333333
+top 10 leaf acc for imagenet_a_RN101 is 0.7061333333333333
+Top 1 imagenet_a_RN101 LCA: 7.671215383452668 
+Top 5 imagenet_a_RN101 LCA: 7.222425673499895 
+
+imagenet_a_RN50
+top 1 leaf acc for imagenet_a_RN50 is 0.218
+top 5 leaf acc for imagenet_a_RN50 is 0.4849333333333333
+top 10 leaf acc for imagenet_a_RN50 is 0.6542666666666667
+Top 1 imagenet_a_RN50 LCA: 7.86109964374593 
+Top 5 imagenet_a_RN50 LCA: 7.384529205420902 
+
+imagenet_a_RN50x4
+top 1 leaf acc for imagenet_a_RN50x4 is 0.3837333333333333
+top 5 leaf acc for imagenet_a_RN50x4 is 0.6642666666666667
+top 10 leaf acc for imagenet_a_RN50x4 is 0.7914666666666668
+Top 1 imagenet_a_RN50x4 LCA: 7.495588450862552 
+Top 5 imagenet_a_RN50x4 LCA: 6.99462332285056 
+
+imagenet_a_RegNet_4
+top 1 leaf acc for imagenet_a_RegNet_4 is 0.18773333333333334
+top 5 leaf acc for imagenet_a_RegNet_4 is 0.4828
+top 10 leaf acc for imagenet_a_RegNet_4 is 0.6410666666666667
+Top 1 imagenet_a_RegNet_4 LCA: 8.11240458312447 
+Top 5 imagenet_a_RegNet_4 LCA: 7.551092650972059 
+
+imagenet_a_ResNet_0
+top 1 leaf acc for imagenet_a_ResNet_0 is 0.16693333333333332
+top 5 leaf acc for imagenet_a_ResNet_0 is 0.4477333333333333
+top 10 leaf acc for imagenet_a_ResNet_0 is 0.6141333333333333
+Top 1 imagenet_a_ResNet_0 LCA: 8.128790966951199 
+Top 5 imagenet_a_ResNet_0 LCA: 7.61008005452828 
+
+imagenet_a_ResNet_11
+top 1 leaf acc for imagenet_a_ResNet_11 is 0.2476
+top 5 leaf acc for imagenet_a_ResNet_11 is 0.5336
+top 10 leaf acc for imagenet_a_ResNet_11 is 0.6809333333333334
+Top 1 imagenet_a_ResNet_11 LCA: 8.022747886022932 
+Top 5 imagenet_a_ResNet_11 LCA: 7.498550451745359 
+
+imagenet_a_ResNet_12
+top 1 leaf acc for imagenet_a_ResNet_12 is 0.0112
+top 5 leaf acc for imagenet_a_ResNet_12 is 0.12506666666666666
+top 10 leaf acc for imagenet_a_ResNet_12 is 0.26826666666666665
+Top 1 imagenet_a_ResNet_12 LCA: 8.449212516238726 
+Top 5 imagenet_a_ResNet_12 LCA: 8.25667564194026 
+
+imagenet_a_ResNet_13
+top 1 leaf acc for imagenet_a_ResNet_13 is 0.018266666666666667
+top 5 leaf acc for imagenet_a_ResNet_13 is 0.16253333333333334
+top 10 leaf acc for imagenet_a_ResNet_13 is 0.3102666666666667
+Top 1 imagenet_a_ResNet_13 LCA: 8.42407524798656 
+Top 5 imagenet_a_ResNet_13 LCA: 8.192517817139596 
+
+imagenet_a_ResNet_5
+top 1 leaf acc for imagenet_a_ResNet_5 is 0.1904
+top 5 leaf acc for imagenet_a_ResNet_5 is 0.47653333333333336
+top 10 leaf acc for imagenet_a_ResNet_5 is 0.6294666666666666
+Top 1 imagenet_a_ResNet_5 LCA: 8.111472139214676 
+Top 5 imagenet_a_ResNet_5 LCA: 7.598233937915645 
+
+imagenet_a_ResNet_6
+top 1 leaf acc for imagenet_a_ResNet_6 is 0.22773333333333334
+top 5 leaf acc for imagenet_a_ResNet_6 is 0.5128
+top 10 leaf acc for imagenet_a_ResNet_6 is 0.6634666666666668
+Top 1 imagenet_a_ResNet_6 LCA: 8.067995950248607 
+Top 5 imagenet_a_ResNet_6 LCA: 7.542920063232853 
+
+imagenet_a_ShuffleNetV2_9
+top 1 leaf acc for imagenet_a_ShuffleNetV2_9 is 0.050133333333333335
+top 5 leaf acc for imagenet_a_ShuffleNetV2_9 is 0.2601333333333333
+top 10 leaf acc for imagenet_a_ShuffleNetV2_9 is 0.4445333333333333
+Top 1 imagenet_a_ShuffleNetV2_9 LCA: 8.35225645048455 
+Top 5 imagenet_a_ShuffleNetV2_9 LCA: 7.985090610208808 
+
+imagenet_a_SqueezeNet_22
+top 1 leaf acc for imagenet_a_SqueezeNet_22 is 0.012666666666666666
+top 5 leaf acc for imagenet_a_SqueezeNet_22 is 0.0824
+top 10 leaf acc for imagenet_a_SqueezeNet_22 is 0.1824
+Top 1 imagenet_a_SqueezeNet_22 LCA: 8.573223560391895 
+Top 5 imagenet_a_SqueezeNet_22 LCA: 8.493223273736266 
+
+imagenet_a_SqueezeNet_23
+top 1 leaf acc for imagenet_a_SqueezeNet_23 is 0.011466666666666667
+top 5 leaf acc for imagenet_a_SqueezeNet_23 is 0.08693333333333333
+top 10 leaf acc for imagenet_a_SqueezeNet_23 is 0.19013333333333335
+Top 1 imagenet_a_SqueezeNet_23 LCA: 8.585720287720603 
+Top 5 imagenet_a_SqueezeNet_23 LCA: 8.469942854961076 
+
+imagenet_a_SwinTransformer_5
+top 1 leaf acc for imagenet_a_SwinTransformer_5 is 0.3350666666666667
+top 5 leaf acc for imagenet_a_SwinTransformer_5 is 0.6293333333333334
+top 10 leaf acc for imagenet_a_SwinTransformer_5 is 0.7568
+Top 1 imagenet_a_SwinTransformer_5 LCA: 7.98357994406372 
+Top 5 imagenet_a_SwinTransformer_5 LCA: 7.368127329252812 
+
+imagenet_a_VGG_10
+top 1 leaf acc for imagenet_a_VGG_10 is 0.028666666666666667
+top 5 leaf acc for imagenet_a_VGG_10 is 0.1928
+top 10 leaf acc for imagenet_a_VGG_10 is 0.35813333333333336
+Top 1 imagenet_a_VGG_10 LCA: 8.359376017390849 
+Top 5 imagenet_a_VGG_10 LCA: 8.067159872938594 
+
+imagenet_a_VGG_14
+top 1 leaf acc for imagenet_a_VGG_14 is 0.016
+top 5 leaf acc for imagenet_a_VGG_14 is 0.12506666666666666
+top 10 leaf acc for imagenet_a_VGG_14 is 0.2672
+Top 1 imagenet_a_VGG_14 LCA: 8.45158153345634 
+Top 5 imagenet_a_VGG_14 LCA: 8.270046573751173 
+
+imagenet_a_VGG_15
+top 1 leaf acc for imagenet_a_VGG_15 is 0.0184
+top 5 leaf acc for imagenet_a_VGG_15 is 0.14253333333333335
+top 10 leaf acc for imagenet_a_VGG_15 is 0.29106666666666664
+Top 1 imagenet_a_VGG_15 LCA: 8.413585356038794 
+Top 5 imagenet_a_VGG_15 LCA: 8.223722177693075 
+
+imagenet_a_VGG_16
+top 1 leaf acc for imagenet_a_VGG_16 is 0.025733333333333334
+top 5 leaf acc for imagenet_a_VGG_16 is 0.1644
+top 10 leaf acc for imagenet_a_VGG_16 is 0.3169333333333333
+Top 1 imagenet_a_VGG_16 LCA: 8.382788816003192 
+Top 5 imagenet_a_VGG_16 LCA: 8.169120513373953 
+
+imagenet_a_VGG_17
+top 1 leaf acc for imagenet_a_VGG_17 is 0.020133333333333333
+top 5 leaf acc for imagenet_a_VGG_17 is 0.16706666666666667
+top 10 leaf acc for imagenet_a_VGG_17 is 0.31919999999999993
+Top 1 imagenet_a_VGG_17 LCA: 8.379583187770665 
+Top 5 imagenet_a_VGG_17 LCA: 8.143068905948088 
+
+imagenet_a_VGG_24
+top 1 leaf acc for imagenet_a_VGG_24 is 0.0172
+top 5 leaf acc for imagenet_a_VGG_24 is 0.14520000000000002
+top 10 leaf acc for imagenet_a_VGG_24 is 0.29479999999999995
+Top 1 imagenet_a_VGG_24 LCA: 8.426974995405619 
+Top 5 imagenet_a_VGG_24 LCA: 8.19902635287227 
+
+imagenet_a_VGG_25
+top 1 leaf acc for imagenet_a_VGG_25 is 0.0208
+top 5 leaf acc for imagenet_a_VGG_25 is 0.1632
+top 10 leaf acc for imagenet_a_VGG_25 is 0.32266666666666666
+Top 1 imagenet_a_VGG_25 LCA: 8.382677476247379 
+Top 5 imagenet_a_VGG_25 LCA: 8.136804792018085 
+
+imagenet_a_VGG_26
+top 1 leaf acc for imagenet_a_VGG_26 is 0.025733333333333334
+top 5 leaf acc for imagenet_a_VGG_26 is 0.18986666666666668
+top 10 leaf acc for imagenet_a_VGG_26 is 0.3582666666666667
+Top 1 imagenet_a_VGG_26 LCA: 8.376576223661644 
+Top 5 imagenet_a_VGG_26 LCA: 8.074827781289791 
+
+imagenet_a_VisionTransformer_7
+top 1 leaf acc for imagenet_a_VisionTransformer_7 is 0.09373333333333334
+top 5 leaf acc for imagenet_a_VisionTransformer_7 is 0.30493333333333333
+top 10 leaf acc for imagenet_a_VisionTransformer_7 is 0.4782666666666667
+Top 1 imagenet_a_VisionTransformer_7 LCA: 8.241015700593527 
+Top 5 imagenet_a_VisionTransformer_7 LCA: 7.888517577051754 
+
+imagenet_a_VisionTransformer_8
+top 1 leaf acc for imagenet_a_VisionTransformer_8 is 0.1196
+top 5 leaf acc for imagenet_a_VisionTransformer_8 is 0.3509333333333333
+top 10 leaf acc for imagenet_a_VisionTransformer_8 is 0.5205333333333333
+Top 1 imagenet_a_VisionTransformer_8 LCA: 8.21424804912266 
+Top 5 imagenet_a_VisionTransformer_8 LCA: 7.80392159677983 
+
+imagenet_a_albef_feature_extractor
+top 1 leaf acc for imagenet_a_albef_feature_extractor is 0.17733333333333334
+top 5 leaf acc for imagenet_a_albef_feature_extractor is 0.374
+top 10 leaf acc for imagenet_a_albef_feature_extractor is 0.5133333333333333
+Top 1 imagenet_a_albef_feature_extractor LCA: 7.815879808562273 
+Top 5 imagenet_a_albef_feature_extractor LCA: 7.510338504242196 
+
+imagenet_a_blip_feature_extractor
+top 1 leaf acc for imagenet_a_blip_feature_extractor is 0.22693333333333332
+top 5 leaf acc for imagenet_a_blip_feature_extractor is 0.4390666666666666
+top 10 leaf acc for imagenet_a_blip_feature_extractor is 0.5785333333333332
+Top 1 imagenet_a_blip_feature_extractor LCA: 7.956252427531287 
+Top 5 imagenet_a_blip_feature_extractor LCA: 7.585807640671834 
+
+imagenet_a_vitb16
+top 1 leaf acc for imagenet_a_vitb16 is 0.4756
+top 5 leaf acc for imagenet_a_vitb16 is 0.7450666666666667
+top 10 leaf acc for imagenet_a_vitb16 is 0.8457333333333334
+Top 1 imagenet_a_vitb16 LCA: 7.54310158049554 
+Top 5 imagenet_a_vitb16 LCA: 6.925395100622631 
+
+imagenet_a_vitb32
+top 1 leaf acc for imagenet_a_vitb32 is 0.2992
+top 5 leaf acc for imagenet_a_vitb32 is 0.5728
+top 10 leaf acc for imagenet_a_vitb32 is 0.7217333333333333
+Top 1 imagenet_a_vitb32 LCA: 7.792307743422625 
+Top 5 imagenet_a_vitb32 LCA: 7.259310714268055 
+
+imagenet_a_vitl14
+top 1 leaf acc for imagenet_a_vitl14 is 0.6804
+top 5 leaf acc for imagenet_a_vitl14 is 0.8692
+top 10 leaf acc for imagenet_a_vitl14 is 0.9225333333333333
+Top 1 imagenet_a_vitl14 LCA: 7.422942544919171 
+Top 5 imagenet_a_vitl14 LCA: 6.803559250905395 
+
+imagenet_a_vitl14_336
+top 1 leaf acc for imagenet_a_vitl14_336 is 0.7481333333333333
+top 5 leaf acc for imagenet_a_vitl14_336 is 0.9084
+top 10 leaf acc for imagenet_a_vitl14_336 is 0.9477333333333333
+Top 1 imagenet_a_vitl14_336 LCA: 7.383141181760111 
+Top 5 imagenet_a_vitl14_336 LCA: 6.7398126589241025 
+
+imagenet_albef_feature_extractor
+top 1 leaf acc for imagenet_albef_feature_extractor is 0.3383
+top 5 leaf acc for imagenet_albef_feature_extractor is 0.5695
+top 10 leaf acc for imagenet_albef_feature_extractor is 0.6824
+Top 1 imagenet_albef_feature_extractor LCA: 6.4929486416882245 
+Top 5 imagenet_albef_feature_extractor LCA: 6.351379086596086 
+
+imagenet_blip_feature_extractor
+top 1 leaf acc for imagenet_blip_feature_extractor is 0.41134
+top 5 leaf acc for imagenet_blip_feature_extractor is 0.6515
+top 10 leaf acc for imagenet_blip_feature_extractor is 0.76232
+Top 1 imagenet_blip_feature_extractor LCA: 6.5489666964213775 
+Top 5 imagenet_blip_feature_extractor LCA: 6.3951255083078795 
+
+imagenet_r_AlexNet_10
+top 1 leaf acc for imagenet_r_AlexNet_10 is 0.21836666666666665
+top 5 leaf acc for imagenet_r_AlexNet_10 is 0.35473333333333334
+top 10 leaf acc for imagenet_r_AlexNet_10 is 0.4496666666666666
+Top 1 imagenet_r_AlexNet_10 LCA: 8.812897733146542 
+Top 5 imagenet_r_AlexNet_10 LCA: 8.539457216161548 
+
+imagenet_r_ConvNeXt_12
+top 1 leaf acc for imagenet_r_ConvNeXt_12 is 0.4408666666666667
+top 5 leaf acc for imagenet_r_ConvNeXt_12 is 0.5799666666666667
+top 10 leaf acc for imagenet_r_ConvNeXt_12 is 0.6577000000000001
+Top 1 imagenet_r_ConvNeXt_12 LCA: 8.789997583725592 
+Top 5 imagenet_r_ConvNeXt_12 LCA: 8.372609185863002 
+
+imagenet_r_DenseNet_2
+top 1 leaf acc for imagenet_r_DenseNet_2 is 0.4083
+top 5 leaf acc for imagenet_r_DenseNet_2 is 0.5539333333333333
+top 10 leaf acc for imagenet_r_DenseNet_2 is 0.6308666666666666
+Top 1 imagenet_r_DenseNet_2 LCA: 8.825739640727205 
+Top 5 imagenet_r_DenseNet_2 LCA: 8.41066448842195 
+
+imagenet_r_DenseNet_27
+top 1 leaf acc for imagenet_r_DenseNet_27 is 0.372
+top 5 leaf acc for imagenet_r_DenseNet_27 is 0.5240333333333334
+top 10 leaf acc for imagenet_r_DenseNet_27 is 0.6023666666666667
+Top 1 imagenet_r_DenseNet_27 LCA: 8.813226901612218 
+Top 5 imagenet_r_DenseNet_27 LCA: 8.424935321666526 
+
+imagenet_r_DenseNet_28
+top 1 leaf acc for imagenet_r_DenseNet_28 is 0.4013
+top 5 leaf acc for imagenet_r_DenseNet_28 is 0.5480666666666666
+top 10 leaf acc for imagenet_r_DenseNet_28 is 0.6279666666666667
+Top 1 imagenet_r_DenseNet_28 LCA: 8.833278425499929 
+Top 5 imagenet_r_DenseNet_28 LCA: 8.42557975357713 
+
+imagenet_r_DenseNet_29
+top 1 leaf acc for imagenet_r_DenseNet_29 is 0.39666666666666667
+top 5 leaf acc for imagenet_r_DenseNet_29 is 0.5418999999999999
+top 10 leaf acc for imagenet_r_DenseNet_29 is 0.6207666666666666
+Top 1 imagenet_r_DenseNet_29 LCA: 8.77879306114887 
+Top 5 imagenet_r_DenseNet_29 LCA: 8.398650171906937 
+
+imagenet_r_EfficientNet_1
+top 1 leaf acc for imagenet_r_EfficientNet_1 is 0.37046666666666667
+top 5 leaf acc for imagenet_r_EfficientNet_1 is 0.5184333333333334
+top 10 leaf acc for imagenet_r_EfficientNet_1 is 0.6034
+Top 1 imagenet_r_EfficientNet_1 LCA: 8.779545704043562 
+Top 5 imagenet_r_EfficientNet_1 LCA: 8.375282534965846 
+
+imagenet_r_GoogLeNet_21
+top 1 leaf acc for imagenet_r_GoogLeNet_21 is 0.36193333333333333
+top 5 leaf acc for imagenet_r_GoogLeNet_21 is 0.5140666666666667
+top 10 leaf acc for imagenet_r_GoogLeNet_21 is 0.5980666666666666
+Top 1 imagenet_r_GoogLeNet_21 LCA: 8.762054882236004 
+Top 5 imagenet_r_GoogLeNet_21 LCA: 8.391186816781543 
+
+imagenet_r_Inception3_6
+top 1 leaf acc for imagenet_r_Inception3_6 is 0.379
+top 5 leaf acc for imagenet_r_Inception3_6 is 0.5131666666666667
+top 10 leaf acc for imagenet_r_Inception3_6 is 0.5860333333333334
+Top 1 imagenet_r_Inception3_6 LCA: 8.730696129145562 
+Top 5 imagenet_r_Inception3_6 LCA: 8.38139988977077 
+
+imagenet_r_MNASNet_18
+top 1 leaf acc for imagenet_r_MNASNet_18 is 0.2732
+top 5 leaf acc for imagenet_r_MNASNet_18 is 0.4306333333333333
+top 10 leaf acc for imagenet_r_MNASNet_18 is 0.5251
+Top 1 imagenet_r_MNASNet_18 LCA: 8.866710068744657 
+Top 5 imagenet_r_MNASNet_18 LCA: 8.481244515918018 
+
+imagenet_r_MNASNet_19
+top 1 leaf acc for imagenet_r_MNASNet_19 is 0.3103666666666667
+top 5 leaf acc for imagenet_r_MNASNet_19 is 0.4656666666666667
+top 10 leaf acc for imagenet_r_MNASNet_19 is 0.5584000000000001
+Top 1 imagenet_r_MNASNet_19 LCA: 8.856508043953275 
+Top 5 imagenet_r_MNASNet_19 LCA: 8.433151982769141 
+
+imagenet_r_MNASNet_20
+top 1 leaf acc for imagenet_r_MNASNet_20 is 0.3231
+top 5 leaf acc for imagenet_r_MNASNet_20 is 0.47626666666666667
+top 10 leaf acc for imagenet_r_MNASNet_20 is 0.5669333333333333
+Top 1 imagenet_r_MNASNet_20 LCA: 8.801329829530617 
+Top 5 imagenet_r_MNASNet_20 LCA: 8.41530179482955 
+
+imagenet_r_MNASNet_3
+top 1 leaf acc for imagenet_r_MNASNet_3 is 0.3674
+top 5 leaf acc for imagenet_r_MNASNet_3 is 0.5160666666666667
+top 10 leaf acc for imagenet_r_MNASNet_3 is 0.6001666666666666
+Top 1 imagenet_r_MNASNet_3 LCA: 8.811086133116104 
+Top 5 imagenet_r_MNASNet_3 LCA: 8.40564774676718 
+
+imagenet_r_MobileNetV3_30
+top 1 leaf acc for imagenet_r_MobileNetV3_30 is 0.29406666666666664
+top 5 leaf acc for imagenet_r_MobileNetV3_30 is 0.4453333333333333
+top 10 leaf acc for imagenet_r_MobileNetV3_30 is 0.5389
+Top 1 imagenet_r_MobileNetV3_30 LCA: 8.801590196424941 
+Top 5 imagenet_r_MobileNetV3_30 LCA: 8.447880594101647 
+
+imagenet_r_MobileNetV3_31
+top 1 leaf acc for imagenet_r_MobileNetV3_31 is 0.3448333333333333
+top 5 leaf acc for imagenet_r_MobileNetV3_31 is 0.5025666666666666
+top 10 leaf acc for imagenet_r_MobileNetV3_31 is 0.5901333333333332
+Top 1 imagenet_r_MobileNetV3_31 LCA: 8.753077056586928 
+Top 5 imagenet_r_MobileNetV3_31 LCA: 8.3558726663624 
+
+imagenet_r_RN101
+top 1 leaf acc for imagenet_r_RN101 is 0.6406333333333334
+top 5 leaf acc for imagenet_r_RN101 is 0.8277666666666668
+top 10 leaf acc for imagenet_r_RN101 is 0.8960333333333333
+Top 1 imagenet_r_RN101 LCA: 7.582700348816843 
+Top 5 imagenet_r_RN101 LCA: 6.961268891983749 
+
+imagenet_r_RN50
+top 1 leaf acc for imagenet_r_RN50 is 0.5624333333333333
+top 5 leaf acc for imagenet_r_RN50 is 0.7689333333333332
+top 10 leaf acc for imagenet_r_RN50 is 0.8521000000000001
+Top 1 imagenet_r_RN50 LCA: 7.764128292887304 
+Top 5 imagenet_r_RN50 LCA: 7.169546819943705 
+
+imagenet_r_RN50x4
+top 1 leaf acc for imagenet_r_RN50x4 is 0.6811
+top 5 leaf acc for imagenet_r_RN50x4 is 0.8555333333333334
+top 10 leaf acc for imagenet_r_RN50x4 is 0.9150999999999999
+Top 1 imagenet_r_RN50x4 LCA: 7.434927399066552 
+Top 5 imagenet_r_RN50x4 LCA: 6.820719346874985 
+
+imagenet_r_RegNet_4
+top 1 leaf acc for imagenet_r_RegNet_4 is 0.43583333333333335
+top 5 leaf acc for imagenet_r_RegNet_4 is 0.5794666666666667
+top 10 leaf acc for imagenet_r_RegNet_4 is 0.6495333333333333
+Top 1 imagenet_r_RegNet_4 LCA: 8.787663638923116 
+Top 5 imagenet_r_RegNet_4 LCA: 8.37262343759602 
+
+imagenet_r_ResNet_0
+top 1 leaf acc for imagenet_r_ResNet_0 is 0.41656666666666664
+top 5 leaf acc for imagenet_r_ResNet_0 is 0.5558333333333333
+top 10 leaf acc for imagenet_r_ResNet_0 is 0.6285333333333333
+Top 1 imagenet_r_ResNet_0 LCA: 8.8741264455736 
+Top 5 imagenet_r_ResNet_0 LCA: 8.471237979194287 
+
+imagenet_r_ResNet_11
+top 1 leaf acc for imagenet_r_ResNet_11 is 0.4658
+top 5 leaf acc for imagenet_r_ResNet_11 is 0.5958
+top 10 leaf acc for imagenet_r_ResNet_11 is 0.6596333333333333
+Top 1 imagenet_r_ResNet_11 LCA: 8.793445213938506 
+Top 5 imagenet_r_ResNet_11 LCA: 8.406634347336114 
+
+imagenet_r_ResNet_12
+top 1 leaf acc for imagenet_r_ResNet_12 is 0.3303333333333333
+top 5 leaf acc for imagenet_r_ResNet_12 is 0.48806666666666665
+top 10 leaf acc for imagenet_r_ResNet_12 is 0.5788
+Top 1 imagenet_r_ResNet_12 LCA: 8.775110603146386 
+Top 5 imagenet_r_ResNet_12 LCA: 8.387844549506655 
+
+imagenet_r_ResNet_13
+top 1 leaf acc for imagenet_r_ResNet_13 is 0.3606333333333333
+top 5 leaf acc for imagenet_r_ResNet_13 is 0.5128333333333334
+top 10 leaf acc for imagenet_r_ResNet_13 is 0.5993333333333333
+Top 1 imagenet_r_ResNet_13 LCA: 8.779032901139214 
+Top 5 imagenet_r_ResNet_13 LCA: 8.408187903392323 
+
+imagenet_r_ResNet_5
+top 1 leaf acc for imagenet_r_ResNet_5 is 0.4447333333333333
+top 5 leaf acc for imagenet_r_ResNet_5 is 0.5752999999999999
+top 10 leaf acc for imagenet_r_ResNet_5 is 0.6417333333333333
+Top 1 imagenet_r_ResNet_5 LCA: 8.844638164450492 
+Top 5 imagenet_r_ResNet_5 LCA: 8.465223219564315 
+
+imagenet_r_ResNet_6
+top 1 leaf acc for imagenet_r_ResNet_6 is 0.4597
+top 5 leaf acc for imagenet_r_ResNet_6 is 0.585
+top 10 leaf acc for imagenet_r_ResNet_6 is 0.6501
+Top 1 imagenet_r_ResNet_6 LCA: 8.828062403118881 
+Top 5 imagenet_r_ResNet_6 LCA: 8.45543666969447 
+
+imagenet_r_ShuffleNetV2_9
+top 1 leaf acc for imagenet_r_ShuffleNetV2_9 is 0.37196666666666667
+top 5 leaf acc for imagenet_r_ShuffleNetV2_9 is 0.5271666666666667
+top 10 leaf acc for imagenet_r_ShuffleNetV2_9 is 0.6119333333333332
+Top 1 imagenet_r_ShuffleNetV2_9 LCA: 8.858906482987502 
+Top 5 imagenet_r_ShuffleNetV2_9 LCA: 8.421541735305691 
+
+imagenet_r_SqueezeNet_22
+top 1 leaf acc for imagenet_r_SqueezeNet_22 is 0.22653333333333334
+top 5 leaf acc for imagenet_r_SqueezeNet_22 is 0.3655
+top 10 leaf acc for imagenet_r_SqueezeNet_22 is 0.46176666666666666
+Top 1 imagenet_r_SqueezeNet_22 LCA: 8.871197877271682 
+Top 5 imagenet_r_SqueezeNet_22 LCA: 8.578179698616603 
+
+imagenet_r_SqueezeNet_23
+top 1 leaf acc for imagenet_r_SqueezeNet_23 is 0.22833333333333333
+top 5 leaf acc for imagenet_r_SqueezeNet_23 is 0.36790000000000006
+top 10 leaf acc for imagenet_r_SqueezeNet_23 is 0.46359999999999996
+Top 1 imagenet_r_SqueezeNet_23 LCA: 8.863157508735936 
+Top 5 imagenet_r_SqueezeNet_23 LCA: 8.570675792222797 
+
+imagenet_r_SwinTransformer_5
+top 1 leaf acc for imagenet_r_SwinTransformer_5 is 0.45636666666666664
+top 5 leaf acc for imagenet_r_SwinTransformer_5 is 0.5958
+top 10 leaf acc for imagenet_r_SwinTransformer_5 is 0.6654
+Top 1 imagenet_r_SwinTransformer_5 LCA: 8.663474933594758 
+Top 5 imagenet_r_SwinTransformer_5 LCA: 8.257612799311504 
+
+imagenet_r_VGG_10
+top 1 leaf acc for imagenet_r_VGG_10 is 0.3331
+top 5 leaf acc for imagenet_r_VGG_10 is 0.4849
+top 10 leaf acc for imagenet_r_VGG_10 is 0.5722333333333334
+Top 1 imagenet_r_VGG_10 LCA: 8.80721006745965 
+Top 5 imagenet_r_VGG_10 LCA: 8.422118119512064 
+
+imagenet_r_VGG_14
+top 1 leaf acc for imagenet_r_VGG_14 is 0.2660666666666667
+top 5 leaf acc for imagenet_r_VGG_14 is 0.41070000000000007
+top 10 leaf acc for imagenet_r_VGG_14 is 0.5045000000000001
+Top 1 imagenet_r_VGG_14 LCA: 8.819627843323405 
+Top 5 imagenet_r_VGG_14 LCA: 8.491582154569887 
+
+imagenet_r_VGG_15
+top 1 leaf acc for imagenet_r_VGG_15 is 0.2632
+top 5 leaf acc for imagenet_r_VGG_15 is 0.4103
+top 10 leaf acc for imagenet_r_VGG_15 is 0.5048333333333334
+Top 1 imagenet_r_VGG_15 LCA: 8.835413998086025 
+Top 5 imagenet_r_VGG_15 LCA: 8.48948559604329 
+
+imagenet_r_VGG_16
+top 1 leaf acc for imagenet_r_VGG_16 is 0.27976666666666666
+top 5 leaf acc for imagenet_r_VGG_16 is 0.4253333333333333
+top 10 leaf acc for imagenet_r_VGG_16 is 0.5145666666666667
+Top 1 imagenet_r_VGG_16 LCA: 8.82176231142527 
+Top 5 imagenet_r_VGG_16 LCA: 8.485332761267212 
+
+imagenet_r_VGG_17
+top 1 leaf acc for imagenet_r_VGG_17 is 0.2869333333333333
+top 5 leaf acc for imagenet_r_VGG_17 is 0.4273333333333334
+top 10 leaf acc for imagenet_r_VGG_17 is 0.5157333333333333
+Top 1 imagenet_r_VGG_17 LCA: 8.854221149207604 
+Top 5 imagenet_r_VGG_17 LCA: 8.521837853489853 
+
+imagenet_r_VGG_24
+top 1 leaf acc for imagenet_r_VGG_24 is 0.28403333333333336
+top 5 leaf acc for imagenet_r_VGG_24 is 0.44023333333333337
+top 10 leaf acc for imagenet_r_VGG_24 is 0.5348
+Top 1 imagenet_r_VGG_24 LCA: 8.787272603553328 
+Top 5 imagenet_r_VGG_24 LCA: 8.423840469727866 
+
+imagenet_r_VGG_25
+top 1 leaf acc for imagenet_r_VGG_25 is 0.2896
+top 5 leaf acc for imagenet_r_VGG_25 is 0.44350000000000006
+top 10 leaf acc for imagenet_r_VGG_25 is 0.5363333333333334
+Top 1 imagenet_r_VGG_25 LCA: 8.781643038163066 
+Top 5 imagenet_r_VGG_25 LCA: 8.428956886506413 
+
+imagenet_r_VGG_26
+top 1 leaf acc for imagenet_r_VGG_26 is 0.3038
+top 5 leaf acc for imagenet_r_VGG_26 is 0.4490666666666667
+top 10 leaf acc for imagenet_r_VGG_26 is 0.5390666666666667
+Top 1 imagenet_r_VGG_26 LCA: 8.893508607512418 
+Top 5 imagenet_r_VGG_26 LCA: 8.515733513147568 
+
+imagenet_r_VisionTransformer_7
+top 1 leaf acc for imagenet_r_VisionTransformer_7 is 0.41833333333333333
+top 5 leaf acc for imagenet_r_VisionTransformer_7 is 0.5551666666666667
+top 10 leaf acc for imagenet_r_VisionTransformer_7 is 0.6308000000000001
+Top 1 imagenet_r_VisionTransformer_7 LCA: 8.82679098126224 
+Top 5 imagenet_r_VisionTransformer_7 LCA: 8.435650148097993 
+
+imagenet_r_VisionTransformer_8
+top 1 leaf acc for imagenet_r_VisionTransformer_8 is 0.43753333333333333
+top 5 leaf acc for imagenet_r_VisionTransformer_8 is 0.5770666666666666
+top 10 leaf acc for imagenet_r_VisionTransformer_8 is 0.6494666666666665
+Top 1 imagenet_r_VisionTransformer_8 LCA: 8.847255982044718 
+Top 5 imagenet_r_VisionTransformer_8 LCA: 8.419867967165942 
+
+imagenet_r_albef_feature_extractor
+top 1 leaf acc for imagenet_r_albef_feature_extractor is 0.5472333333333333
+top 5 leaf acc for imagenet_r_albef_feature_extractor is 0.7462
+top 10 leaf acc for imagenet_r_albef_feature_extractor is 0.8262999999999999
+Top 1 imagenet_r_albef_feature_extractor LCA: 7.356862927252474 
+Top 5 imagenet_r_albef_feature_extractor LCA: 6.987669013197773 
+
+imagenet_r_blip_feature_extractor
+top 1 leaf acc for imagenet_r_blip_feature_extractor is 0.7446
+top 5 leaf acc for imagenet_r_blip_feature_extractor is 0.8827333333333334
+top 10 leaf acc for imagenet_r_blip_feature_extractor is 0.9230333333333334
+Top 1 imagenet_r_blip_feature_extractor LCA: 7.258725144594184 
+Top 5 imagenet_r_blip_feature_extractor LCA: 6.828370651090734 
+
+imagenet_r_vitb16
+top 1 leaf acc for imagenet_r_vitb16 is 0.7376333333333334
+top 5 leaf acc for imagenet_r_vitb16 is 0.8953333333333334
+top 10 leaf acc for imagenet_r_vitb16 is 0.9380000000000002
+Top 1 imagenet_r_vitb16 LCA: 7.2946148614579895 
+Top 5 imagenet_r_vitb16 LCA: 6.663225757251585 
+
+imagenet_r_vitb32
+top 1 leaf acc for imagenet_r_vitb32 is 0.6672
+top 5 leaf acc for imagenet_r_vitb32 is 0.8497333333333333
+top 10 leaf acc for imagenet_r_vitb32 is 0.908
+Top 1 imagenet_r_vitb32 LCA: 7.488380887313768 
+Top 5 imagenet_r_vitb32 LCA: 6.863841726856413 
+
+imagenet_r_vitl14
+top 1 leaf acc for imagenet_r_vitl14 is 0.8523
+top 5 leaf acc for imagenet_r_vitl14 is 0.9511666666666667
+top 10 leaf acc for imagenet_r_vitl14 is 0.9720999999999999
+Top 1 imagenet_r_vitl14 LCA: 7.058119152033465 
+Top 5 imagenet_r_vitl14 LCA: 6.479238468485332 
+
+imagenet_r_vitl14_336
+top 1 leaf acc for imagenet_r_vitl14_336 is 0.8669666666666667
+top 5 leaf acc for imagenet_r_vitl14_336 is 0.9596333333333333
+top 10 leaf acc for imagenet_r_vitl14_336 is 0.9779666666666667
+Top 1 imagenet_r_vitl14_336 LCA: 6.92107924464468 
+Top 5 imagenet_r_vitl14_336 LCA: 6.347774789952428 
+
+imagenet_sketch_AlexNet_10
+top 1 leaf acc for imagenet_sketch_AlexNet_10 is 0.10725304093222504
+top 5 leaf acc for imagenet_sketch_AlexNet_10 is 0.20259781092181023
+top 10 leaf acc for imagenet_sketch_AlexNet_10 is 0.2728094480143057
+Top 1 imagenet_sketch_AlexNet_10 LCA: 8.382405734576981 
+Top 5 imagenet_sketch_AlexNet_10 LCA: 8.256355020476365 
+
+imagenet_sketch_ConvNeXt_12
+top 1 leaf acc for imagenet_sketch_ConvNeXt_12 is 0.29863035233547525
+top 5 leaf acc for imagenet_sketch_ConvNeXt_12 is 0.4553243333529839
+top 10 leaf acc for imagenet_sketch_ConvNeXt_12 is 0.533140757334591
+Top 1 imagenet_sketch_ConvNeXt_12 LCA: 7.793434343429465 
+Top 5 imagenet_sketch_ConvNeXt_12 LCA: 7.6333585292024715 
+
+imagenet_sketch_DenseNet_2
+top 1 leaf acc for imagenet_sketch_DenseNet_2 is 0.2767592210497357
+top 5 leaf acc for imagenet_sketch_DenseNet_2 is 0.44483090648273693
+top 10 leaf acc for imagenet_sketch_DenseNet_2 is 0.5265774528876576
+Top 1 imagenet_sketch_DenseNet_2 LCA: 7.772872184106688 
+Top 5 imagenet_sketch_DenseNet_2 LCA: 7.5865078165033735 
+
+imagenet_sketch_DenseNet_27
+top 1 leaf acc for imagenet_sketch_DenseNet_27 is 0.24260645719114152
+top 5 leaf acc for imagenet_sketch_DenseNet_27 is 0.40268034349269977
+top 10 leaf acc for imagenet_sketch_DenseNet_27 is 0.4857827821336635
+Top 1 imagenet_sketch_DenseNet_27 LCA: 7.860338136496139 
+Top 5 imagenet_sketch_DenseNet_27 LCA: 7.671705845245633 
+
+imagenet_sketch_DenseNet_28
+top 1 leaf acc for imagenet_sketch_DenseNet_28 is 0.2856609483385407
+top 5 leaf acc for imagenet_sketch_DenseNet_28 is 0.45208198235375024
+top 10 leaf acc for imagenet_sketch_DenseNet_28 is 0.535046866709898
+Top 1 imagenet_sketch_DenseNet_28 LCA: 7.793065060705863 
+Top 5 imagenet_sketch_DenseNet_28 LCA: 7.577717881571985 
+
+imagenet_sketch_DenseNet_29
+top 1 leaf acc for imagenet_sketch_DenseNet_29 is 0.2730452553597045
+top 5 leaf acc for imagenet_sketch_DenseNet_29 is 0.4372654208178585
+top 10 leaf acc for imagenet_sketch_DenseNet_29 is 0.5212521370040678
+Top 1 imagenet_sketch_DenseNet_29 LCA: 7.7706925874450175 
+Top 5 imagenet_sketch_DenseNet_29 LCA: 7.565125985711288 
+
+imagenet_sketch_EfficientNet_1
+top 1 leaf acc for imagenet_sketch_EfficientNet_1 is 0.25068285877105073
+top 5 leaf acc for imagenet_sketch_EfficientNet_1 is 0.40704277938257777
+top 10 leaf acc for imagenet_sketch_EfficientNet_1 is 0.49085264005973783
+Top 1 imagenet_sketch_EfficientNet_1 LCA: 7.8058119541787 
+Top 5 imagenet_sketch_EfficientNet_1 LCA: 7.641584299311074 
+
+imagenet_sketch_GoogLeNet_21
+top 1 leaf acc for imagenet_sketch_GoogLeNet_21 is 0.23061958380003536
+top 5 leaf acc for imagenet_sketch_GoogLeNet_21 is 0.3853878048301204
+top 10 leaf acc for imagenet_sketch_GoogLeNet_21 is 0.4678810744954705
+Top 1 imagenet_sketch_GoogLeNet_21 LCA: 7.933717157227382 
+Top 5 imagenet_sketch_GoogLeNet_21 LCA: 7.76204610605179 
+
+imagenet_sketch_Inception3_6
+top 1 leaf acc for imagenet_sketch_Inception3_6 is 0.26628544479160526
+top 5 leaf acc for imagenet_sketch_Inception3_6 is 0.424747980899605
+top 10 leaf acc for imagenet_sketch_Inception3_6 is 0.5035076342628073
+Top 1 imagenet_sketch_Inception3_6 LCA: 7.789048913096847 
+Top 5 imagenet_sketch_Inception3_6 LCA: 7.629501042120213 
+
+imagenet_sketch_MNASNet_18
+top 1 leaf acc for imagenet_sketch_MNASNet_18 is 0.15286211165477806
+top 5 leaf acc for imagenet_sketch_MNASNet_18 is 0.27807581206154575
+top 10 leaf acc for imagenet_sketch_MNASNet_18 is 0.35854506867888936
+Top 1 imagenet_sketch_MNASNet_18 LCA: 8.21619732071366 
+Top 5 imagenet_sketch_MNASNet_18 LCA: 8.064565735143674 
+
+imagenet_sketch_MNASNet_19
+top 1 leaf acc for imagenet_sketch_MNASNet_19 is 0.18622885102870954
+top 5 leaf acc for imagenet_sketch_MNASNet_19 is 0.3271826917408477
+top 10 leaf acc for imagenet_sketch_MNASNet_19 is 0.4086344789640198
+Top 1 imagenet_sketch_MNASNet_19 LCA: 8.061686919514107 
+Top 5 imagenet_sketch_MNASNet_19 LCA: 7.904345996391368 
+
+imagenet_sketch_MNASNet_20
+top 1 leaf acc for imagenet_sketch_MNASNet_20 is 0.2013401717463499
+top 5 leaf acc for imagenet_sketch_MNASNet_20 is 0.34203855450097265
+top 10 leaf acc for imagenet_sketch_MNASNet_20 is 0.42968028454086343
+Top 1 imagenet_sketch_MNASNet_20 LCA: 8.006801347213402 
+Top 5 imagenet_sketch_MNASNet_20 LCA: 7.823781290303161 
+
+imagenet_sketch_MNASNet_3
+top 1 leaf acc for imagenet_sketch_MNASNet_3 is 0.24111301067028237
+top 5 leaf acc for imagenet_sketch_MNASNet_3 is 0.39482009864607276
+top 10 leaf acc for imagenet_sketch_MNASNet_3 is 0.47835485075360096
+Top 1 imagenet_sketch_MNASNet_3 LCA: 7.901355958454068 
+Top 5 imagenet_sketch_MNASNet_3 LCA: 7.7242983511512495 
+
+imagenet_sketch_MobileNetV3_30
+top 1 leaf acc for imagenet_sketch_MobileNetV3_30 is 0.18434239226551907
+top 5 leaf acc for imagenet_sketch_MobileNetV3_30 is 0.31847747057320835
+top 10 leaf acc for imagenet_sketch_MobileNetV3_30 is 0.40250348798365077
+Top 1 imagenet_sketch_MobileNetV3_30 LCA: 8.073844878645684 
+Top 5 imagenet_sketch_MobileNetV3_30 LCA: 7.9055079342962715 
+
+imagenet_sketch_MobileNetV3_31
+top 1 leaf acc for imagenet_sketch_MobileNetV3_31 is 0.21814144510601505
+top 5 leaf acc for imagenet_sketch_MobileNetV3_31 is 0.36787910943425883
+top 10 leaf acc for imagenet_sketch_MobileNetV3_31 is 0.4552457309045177
+Top 1 imagenet_sketch_MobileNetV3_31 LCA: 7.916669676194467 
+Top 5 imagenet_sketch_MobileNetV3_31 LCA: 7.757812165597619 
+
+imagenet_sketch_RN101
+top 1 leaf acc for imagenet_sketch_RN101 is 0.3795712236436165
+top 5 leaf acc for imagenet_sketch_RN101 is 0.6286034309968755
+top 10 leaf acc for imagenet_sketch_RN101 is 0.7417320049519542
+Top 1 imagenet_sketch_RN101 LCA: 6.513954612116909 
+Top 5 imagenet_sketch_RN101 LCA: 6.2135694027770185 
+
+imagenet_sketch_RN50
+top 1 leaf acc for imagenet_sketch_RN50 is 0.332213248442689
+top 5 leaf acc for imagenet_sketch_RN50 is 0.5742891391066832
+top 10 leaf acc for imagenet_sketch_RN50 is 0.693450450981548
+Top 1 imagenet_sketch_RN50 LCA: 6.774974524837155 
+Top 5 imagenet_sketch_RN50 LCA: 6.464960768282446 
+
+imagenet_sketch_RN50x4
+top 1 leaf acc for imagenet_sketch_RN50x4 is 0.4146672168838059
+top 5 leaf acc for imagenet_sketch_RN50x4 is 0.6656251842244887
+top 10 leaf acc for imagenet_sketch_RN50x4 is 0.7722494055689836
+Top 1 imagenet_sketch_RN50x4 LCA: 6.406994282558019 
+Top 5 imagenet_sketch_RN50x4 LCA: 6.135880348422147 
+
+imagenet_sketch_RegNet_4
+top 1 leaf acc for imagenet_sketch_RegNet_4 is 0.2987482560081747
+top 5 leaf acc for imagenet_sketch_RegNet_4 is 0.4644029161508381
+top 10 leaf acc for imagenet_sketch_RegNet_4 is 0.545265185010513
+Top 1 imagenet_sketch_RegNet_4 LCA: 7.735706278969724 
+Top 5 imagenet_sketch_RegNet_4 LCA: 7.558670369980441 
+
+imagenet_sketch_ResNet_0
+top 1 leaf acc for imagenet_sketch_ResNet_0 is 0.28444261038731355
+top 5 leaf acc for imagenet_sketch_ResNet_0 is 0.4436322191436263
+top 10 leaf acc for imagenet_sketch_ResNet_0 is 0.5219595590402641
+Top 1 imagenet_sketch_ResNet_0 LCA: 7.858596579982871 
+Top 5 imagenet_sketch_ResNet_0 LCA: 7.685583659433429 
+
+imagenet_sketch_ResNet_11
+top 1 leaf acc for imagenet_sketch_ResNet_11 is 0.32419579869912946
+top 5 leaf acc for imagenet_sketch_ResNet_11 is 0.48348366051602504
+top 10 leaf acc for imagenet_sketch_ResNet_11 is 0.5563874314684901
+Top 1 imagenet_sketch_ResNet_11 LCA: 7.657799851342732 
+Top 5 imagenet_sketch_ResNet_11 LCA: 7.53611745682943 
+
+imagenet_sketch_ResNet_12
+top 1 leaf acc for imagenet_sketch_ResNet_12 is 0.20226375051582857
+top 5 leaf acc for imagenet_sketch_ResNet_12 is 0.35070447444437897
+top 10 leaf acc for imagenet_sketch_ResNet_12 is 0.43592917919393187
+Top 1 imagenet_sketch_ResNet_12 LCA: 8.004913697786652 
+Top 5 imagenet_sketch_ResNet_12 LCA: 7.8243255402462095 
+
+imagenet_sketch_ResNet_13
+top 1 leaf acc for imagenet_sketch_ResNet_13 is 0.2348837666293305
+top 5 leaf acc for imagenet_sketch_ResNet_13 is 0.3905362652046611
+top 10 leaf acc for imagenet_sketch_ResNet_13 is 0.4735797520092751
+Top 1 imagenet_sketch_ResNet_13 LCA: 7.901626328774989 
+Top 5 imagenet_sketch_ResNet_13 LCA: 7.713558672930044 
+
+imagenet_sketch_ResNet_5
+top 1 leaf acc for imagenet_sketch_ResNet_5 is 0.30641199473363595
+top 5 leaf acc for imagenet_sketch_ResNet_5 is 0.46900115938611486
+top 10 leaf acc for imagenet_sketch_ResNet_5 is 0.5407848454479358
+Top 1 imagenet_sketch_ResNet_5 LCA: 7.6975776022528235 
+Top 5 imagenet_sketch_ResNet_5 LCA: 7.576886358467557 
+
+imagenet_sketch_ResNet_6
+top 1 leaf acc for imagenet_sketch_ResNet_6 is 0.3257285464442217
+top 5 leaf acc for imagenet_sketch_ResNet_6 is 0.4852325649943996
+top 10 leaf acc for imagenet_sketch_ResNet_6 is 0.5596494330798404
+Top 1 imagenet_sketch_ResNet_6 LCA: 7.713922167654989 
+Top 5 imagenet_sketch_ResNet_6 LCA: 7.580730106098243 
+
+imagenet_sketch_ShuffleNetV2_9
+top 1 leaf acc for imagenet_sketch_ShuffleNetV2_9 is 0.23734009314390142
+top 5 leaf acc for imagenet_sketch_ShuffleNetV2_9 is 0.38578081707245176
+top 10 leaf acc for imagenet_sketch_ShuffleNetV2_9 is 0.4679400263318202
+Top 1 imagenet_sketch_ShuffleNetV2_9 LCA: 8.00756743396367 
+Top 5 imagenet_sketch_ShuffleNetV2_9 LCA: 7.840472170096714 
+
+imagenet_sketch_SqueezeNet_22
+top 1 leaf acc for imagenet_sketch_SqueezeNet_22 is 0.10880543928943387
+top 5 leaf acc for imagenet_sketch_SqueezeNet_22 is 0.20953447699895852
+top 10 leaf acc for imagenet_sketch_SqueezeNet_22 is 0.28200593448485917
+Top 1 imagenet_sketch_SqueezeNet_22 LCA: 8.360677046632926 
+Top 5 imagenet_sketch_SqueezeNet_22 LCA: 8.215400054458236 
+
+imagenet_sketch_SqueezeNet_23
+top 1 leaf acc for imagenet_sketch_SqueezeNet_23 is 0.1157814065908153
+top 5 leaf acc for imagenet_sketch_SqueezeNet_23 is 0.2227593389534084
+top 10 leaf acc for imagenet_sketch_SqueezeNet_23 is 0.2955648568452907
+Top 1 imagenet_sketch_SqueezeNet_23 LCA: 8.321638619686468 
+Top 5 imagenet_sketch_SqueezeNet_23 LCA: 8.177390620324637 
+
+imagenet_sketch_SwinTransformer_5
+top 1 leaf acc for imagenet_sketch_SwinTransformer_5 is 0.3154316256951404
+top 5 leaf acc for imagenet_sketch_SwinTransformer_5 is 0.4789050678928649
+top 10 leaf acc for imagenet_sketch_SwinTransformer_5 is 0.5587062036982452
+Top 1 imagenet_sketch_SwinTransformer_5 LCA: 7.60415775763687 
+Top 5 imagenet_sketch_SwinTransformer_5 LCA: 7.448912870594656 
+
+imagenet_sketch_VGG_10
+top 1 leaf acc for imagenet_sketch_VGG_10 is 0.2164318418518737
+top 5 leaf acc for imagenet_sketch_VGG_10 is 0.36852757963410565
+top 10 leaf acc for imagenet_sketch_VGG_10 is 0.45563874314684905
+Top 1 imagenet_sketch_VGG_10 LCA: 7.91187410390433 
+Top 5 imagenet_sketch_VGG_10 LCA: 7.727551604751907 
+
+imagenet_sketch_VGG_14
+top 1 leaf acc for imagenet_sketch_VGG_14 is 0.157224547544656
+top 5 leaf acc for imagenet_sketch_VGG_14 is 0.282241741830258
+top 10 leaf acc for imagenet_sketch_VGG_14 is 0.3659730000589519
+Top 1 imagenet_sketch_VGG_14 LCA: 8.113552014422709 
+Top 5 imagenet_sketch_VGG_14 LCA: 7.945064277477727 
+
+imagenet_sketch_VGG_15
+top 1 leaf acc for imagenet_sketch_VGG_15 is 0.16107606751950324
+top 5 leaf acc for imagenet_sketch_VGG_15 is 0.28784216628347975
+top 10 leaf acc for imagenet_sketch_VGG_15 is 0.37180923185757236
+Top 1 imagenet_sketch_VGG_15 LCA: 8.097451342386332 
+Top 5 imagenet_sketch_VGG_15 LCA: 7.934465463262521 
+
+imagenet_sketch_VGG_16
+top 1 leaf acc for imagenet_sketch_VGG_16 is 0.17536206252824776
+top 5 leaf acc for imagenet_sketch_VGG_16 is 0.30519365678240873
+top 10 leaf acc for imagenet_sketch_VGG_16 is 0.3866847452298139
+Top 1 imagenet_sketch_VGG_16 LCA: 8.07629502708377 
+Top 5 imagenet_sketch_VGG_16 LCA: 7.919198765357529 
+
+imagenet_sketch_VGG_17
+top 1 leaf acc for imagenet_sketch_VGG_17 is 0.17927253433944468
+top 5 leaf acc for imagenet_sketch_VGG_17 is 0.30990980369038496
+top 10 leaf acc for imagenet_sketch_VGG_17 is 0.388590854605121
+Top 1 imagenet_sketch_VGG_17 LCA: 8.09516588390609 
+Top 5 imagenet_sketch_VGG_17 LCA: 7.921369274388461 
+
+imagenet_sketch_VGG_24
+top 1 leaf acc for imagenet_sketch_VGG_24 is 0.17408477274067088
+top 5 leaf acc for imagenet_sketch_VGG_24 is 0.307315922890998
+top 10 leaf acc for imagenet_sketch_VGG_24 is 0.3915973982589558
+Top 1 imagenet_sketch_VGG_24 LCA: 8.040553541366377 
+Top 5 imagenet_sketch_VGG_24 LCA: 7.878234516263135 
+
+imagenet_sketch_VGG_25
+top 1 leaf acc for imagenet_sketch_VGG_25 is 0.1781721000609169
+top 5 leaf acc for imagenet_sketch_VGG_25 is 0.3169447228281161
+top 10 leaf acc for imagenet_sketch_VGG_25 is 0.4017764153353377
+Top 1 imagenet_sketch_VGG_25 LCA: 8.049328221405592 
+Top 5 imagenet_sketch_VGG_25 LCA: 7.858728422759554 
+
+imagenet_sketch_VGG_26
+top 1 leaf acc for imagenet_sketch_VGG_26 is 0.19963056849220853
+top 5 leaf acc for imagenet_sketch_VGG_26 is 0.34036825247106445
+top 10 leaf acc for imagenet_sketch_VGG_26 is 0.42168248540942055
+Top 1 imagenet_sketch_VGG_26 LCA: 8.064737074272369 
+Top 5 imagenet_sketch_VGG_26 LCA: 7.876142494421743 
+
+imagenet_sketch_VisionTransformer_7
+top 1 leaf acc for imagenet_sketch_VisionTransformer_7 is 0.2783312700190611
+top 5 leaf acc for imagenet_sketch_VisionTransformer_7 is 0.43946628937491405
+top 10 leaf acc for imagenet_sketch_VisionTransformer_7 is 0.5210163296586688
+Top 1 imagenet_sketch_VisionTransformer_7 LCA: 7.883939168406801 
+Top 5 imagenet_sketch_VisionTransformer_7 LCA: 7.6860496330152746 
+
+imagenet_sketch_VisionTransformer_8
+top 1 leaf acc for imagenet_sketch_VisionTransformer_8 is 0.2966063392874688
+top 5 leaf acc for imagenet_sketch_VisionTransformer_8 is 0.4666430859321268
+top 10 leaf acc for imagenet_sketch_VisionTransformer_8 is 0.5473874511191024
+Top 1 imagenet_sketch_VisionTransformer_8 LCA: 7.79629289935656 
+Top 5 imagenet_sketch_VisionTransformer_8 LCA: 7.577202957473015 
+
+imagenet_sketch_albef_feature_extractor
+top 1 leaf acc for imagenet_sketch_albef_feature_extractor is 0.2545736799701311
+top 5 leaf acc for imagenet_sketch_albef_feature_extractor is 0.47245966711863074
+top 10 leaf acc for imagenet_sketch_albef_feature_extractor is 0.5882607243215626
+Top 1 imagenet_sketch_albef_feature_extractor LCA: 6.520491211828572 
+Top 5 imagenet_sketch_albef_feature_extractor LCA: 6.4191396107417535 
+
+imagenet_sketch_blip_feature_extractor
+top 1 leaf acc for imagenet_sketch_blip_feature_extractor is 0.4793570319715459
+top 5 leaf acc for imagenet_sketch_blip_feature_extractor is 0.6982058991137574
+top 10 leaf acc for imagenet_sketch_blip_feature_extractor is 0.7906816797343237
+Top 1 imagenet_sketch_blip_feature_extractor LCA: 6.014140872747025 
+Top 5 imagenet_sketch_blip_feature_extractor LCA: 5.844458726956505 
+
+imagenet_sketch_vitb16
+top 1 leaf acc for imagenet_sketch_vitb16 is 0.45964746801862877
+top 5 leaf acc for imagenet_sketch_vitb16 is 0.7109787969895263
+top 10 leaf acc for imagenet_sketch_vitb16 is 0.8124742085715969
+Top 1 imagenet_sketch_vitb16 LCA: 6.198362145720021 
+Top 5 imagenet_sketch_vitb16 LCA: 5.921573919722165 
+
+imagenet_sketch_vitb32
+top 1 leaf acc for imagenet_sketch_vitb32 is 0.40847727406708717
+top 5 leaf acc for imagenet_sketch_vitb32 is 0.6549549018451926
+top 10 leaf acc for imagenet_sketch_vitb32 is 0.765234137043369
+Top 1 imagenet_sketch_vitb32 LCA: 6.460496497792225 
+Top 5 imagenet_sketch_vitb32 LCA: 6.154280590025771 
+
+imagenet_sketch_vitl14
+top 1 leaf acc for imagenet_sketch_vitl14 is 0.5733262591129714
+top 5 leaf acc for imagenet_sketch_vitl14 is 0.804574662500737
+top 10 leaf acc for imagenet_sketch_vitl14 is 0.8782055061015152
+Top 1 imagenet_sketch_vitl14 LCA: 5.750984344989846 
+Top 5 imagenet_sketch_vitl14 LCA: 5.5786983477338685 
+
+imagenet_sketch_vitl14_336
+top 1 leaf acc for imagenet_sketch_vitl14_336 is 0.5916013283813791
+top 5 leaf acc for imagenet_sketch_vitl14_336 is 0.8141641612136219
+top 10 leaf acc for imagenet_sketch_vitl14_336 is 0.8853190276877125
+Top 1 imagenet_sketch_vitl14_336 LCA: 5.733823732191189 
+Top 5 imagenet_sketch_vitl14_336 LCA: 5.545904846285732 
+
+imagenet_vitb16
+top 1 leaf acc for imagenet_vitb16 is 0.6661
+top 5 leaf acc for imagenet_vitb16 is 0.8881600000000001
+top 10 leaf acc for imagenet_vitb16 is 0.9432600000000001
+Top 1 imagenet_vitb16 LCA: 6.001598181890006 
+Top 5 imagenet_vitb16 LCA: 5.609710436397491 
+
+imagenet_vitb32
+top 1 leaf acc for imagenet_vitb32 is 0.61826
+top 5 leaf acc for imagenet_vitb32 is 0.85412
+top 10 leaf acc for imagenet_vitb32 is 0.9205599999999999
+Top 1 imagenet_vitb32 LCA: 6.152594482712801 
+Top 5 imagenet_vitb32 LCA: 5.755294903623905 
+
+imagenet_vitl14
+top 1 leaf acc for imagenet_vitl14 is 0.72868
+top 5 leaf acc for imagenet_vitl14 is 0.9160600000000001
+top 10 leaf acc for imagenet_vitl14 is 0.9564
+Top 1 imagenet_vitl14 LCA: 5.9613701280508415 
+Top 5 imagenet_vitl14 LCA: 5.662866878884965 
+
+imagenet_vitl14_336
+top 1 leaf acc for imagenet_vitl14_336 is 0.74222
+top 5 leaf acc for imagenet_vitl14_336 is 0.9249
+top 10 leaf acc for imagenet_vitl14_336 is 0.9616799999999999
+Top 1 imagenet_vitl14_336 LCA: 5.9247315042243835 
+Top 5 imagenet_vitl14_336 LCA: 5.615396927527162 
+
+imagenetv2_AlexNet_10
+top 1 leaf acc for imagenetv2_AlexNet_10 is 0.4349
+top 5 leaf acc for imagenetv2_AlexNet_10 is 0.6405000000000001
+top 10 leaf acc for imagenetv2_AlexNet_10 is 0.7375999999999999
+Top 1 imagenetv2_AlexNet_10 LCA: 7.237871423890555 
+Top 5 imagenetv2_AlexNet_10 LCA: 6.853436823208121 
+
+imagenetv2_ConvNeXt_12
+top 1 leaf acc for imagenetv2_ConvNeXt_12 is 0.711
+top 5 leaf acc for imagenetv2_ConvNeXt_12 is 0.8836999999999999
+top 10 leaf acc for imagenetv2_ConvNeXt_12 is 0.9309
+Top 1 imagenetv2_ConvNeXt_12 LCA: 6.723620993461468 
+Top 5 imagenetv2_ConvNeXt_12 LCA: 6.187435294772237 
+
+imagenetv2_DenseNet_2
+top 1 leaf acc for imagenetv2_DenseNet_2 is 0.6472
+top 5 leaf acc for imagenetv2_DenseNet_2 is 0.8324
+top 10 leaf acc for imagenetv2_DenseNet_2 is 0.8927999999999999
+Top 1 imagenetv2_DenseNet_2 LCA: 6.817261571070036 
+Top 5 imagenetv2_DenseNet_2 LCA: 6.337880842613389 
+
+imagenetv2_DenseNet_27
+top 1 leaf acc for imagenetv2_DenseNet_27 is 0.6199
+top 5 leaf acc for imagenetv2_DenseNet_27 is 0.8153000000000001
+top 10 leaf acc for imagenetv2_DenseNet_27 is 0.8788
+Top 1 imagenetv2_DenseNet_27 LCA: 6.779864828231647 
+Top 5 imagenetv2_DenseNet_27 LCA: 6.320295636165108 
+
+imagenetv2_DenseNet_28
+top 1 leaf acc for imagenetv2_DenseNet_28 is 0.6512
+top 5 leaf acc for imagenetv2_DenseNet_28 is 0.8413999999999999
+top 10 leaf acc for imagenetv2_DenseNet_28 is 0.9026000000000001
+Top 1 imagenetv2_DenseNet_28 LCA: 6.819702285623795 
+Top 5 imagenetv2_DenseNet_28 LCA: 6.2734227198367885 
+
+imagenetv2_DenseNet_29
+top 1 leaf acc for imagenetv2_DenseNet_29 is 0.6359
+top 5 leaf acc for imagenetv2_DenseNet_29 is 0.8267000000000001
+top 10 leaf acc for imagenetv2_DenseNet_29 is 0.8872
+Top 1 imagenetv2_DenseNet_29 LCA: 6.8295285116002935 
+Top 5 imagenetv2_DenseNet_29 LCA: 6.313318871283591 
+
+imagenetv2_EfficientNet_1
+top 1 leaf acc for imagenetv2_EfficientNet_1 is 0.6573
+top 5 leaf acc for imagenetv2_EfficientNet_1 is 0.8413999999999999
+top 10 leaf acc for imagenetv2_EfficientNet_1 is 0.8986999999999999
+Top 1 imagenetv2_EfficientNet_1 LCA: 6.748968734077213 
+Top 5 imagenetv2_EfficientNet_1 LCA: 6.26208067679824 
+
+imagenetv2_GoogLeNet_21
+top 1 leaf acc for imagenetv2_GoogLeNet_21 is 0.5786
+top 5 leaf acc for imagenetv2_GoogLeNet_21 is 0.7779
+top 10 leaf acc for imagenetv2_GoogLeNet_21 is 0.8489000000000001
+Top 1 imagenetv2_GoogLeNet_21 LCA: 6.858441315478659 
+Top 5 imagenetv2_GoogLeNet_21 LCA: 6.446227810420402 
+
+imagenetv2_Inception3_6
+top 1 leaf acc for imagenetv2_Inception3_6 is 0.5755
+top 5 leaf acc for imagenetv2_Inception3_6 is 0.7755
+top 10 leaf acc for imagenetv2_Inception3_6 is 0.8451000000000001
+Top 1 imagenetv2_Inception3_6 LCA: 6.986286853080175 
+Top 5 imagenetv2_Inception3_6 LCA: 6.56698454730922 
+
+imagenetv2_MNASNet_18
+top 1 leaf acc for imagenetv2_MNASNet_18 is 0.5439
+top 5 leaf acc for imagenetv2_MNASNet_18 is 0.7497
+top 10 leaf acc for imagenetv2_MNASNet_18 is 0.8240999999999999
+Top 1 imagenetv2_MNASNet_18 LCA: 7.058444903030003 
+Top 5 imagenetv2_MNASNet_18 LCA: 6.608547606016704 
+
+imagenetv2_MNASNet_19
+top 1 leaf acc for imagenetv2_MNASNet_19 is 0.5871
+top 5 leaf acc for imagenetv2_MNASNet_19 is 0.7936
+top 10 leaf acc for imagenetv2_MNASNet_19 is 0.8662
+Top 1 imagenetv2_MNASNet_19 LCA: 6.904400877397015 
+Top 5 imagenetv2_MNASNet_19 LCA: 6.403249995200345 
+
+imagenetv2_MNASNet_20
+top 1 leaf acc for imagenetv2_MNASNet_20 is 0.6042
+top 5 leaf acc for imagenetv2_MNASNet_20 is 0.7993
+top 10 leaf acc for imagenetv2_MNASNet_20 is 0.8676
+Top 1 imagenetv2_MNASNet_20 LCA: 6.877050049102573 
+Top 5 imagenetv2_MNASNet_20 LCA: 6.411429105759587 
+
+imagenetv2_MNASNet_3
+top 1 leaf acc for imagenetv2_MNASNet_3 is 0.6453
+top 5 leaf acc for imagenetv2_MNASNet_3 is 0.8354999999999999
+top 10 leaf acc for imagenetv2_MNASNet_3 is 0.8964
+Top 1 imagenetv2_MNASNet_3 LCA: 6.707394558068528 
+Top 5 imagenetv2_MNASNet_3 LCA: 6.226374916298559 
+
+imagenetv2_MobileNetV3_30
+top 1 leaf acc for imagenetv2_MobileNetV3_30 is 0.5471
+top 5 leaf acc for imagenetv2_MobileNetV3_30 is 0.7459
+top 10 leaf acc for imagenetv2_MobileNetV3_30 is 0.8246
+Top 1 imagenetv2_MobileNetV3_30 LCA: 7.036403447166717 
+Top 5 imagenetv2_MobileNetV3_30 LCA: 6.5870452963514525 
+
+imagenetv2_MobileNetV3_31
+top 1 leaf acc for imagenetv2_MobileNetV3_31 is 0.6306
+top 5 leaf acc for imagenetv2_MobileNetV3_31 is 0.8240999999999999
+top 10 leaf acc for imagenetv2_MobileNetV3_31 is 0.8867999999999999
+Top 1 imagenetv2_MobileNetV3_31 LCA: 6.788462161302199 
+Top 5 imagenetv2_MobileNetV3_31 LCA: 6.3300323958885 
+
+imagenetv2_RN101
+top 1 leaf acc for imagenetv2_RN101 is 0.5433
+top 5 leaf acc for imagenetv2_RN101 is 0.7865
+top 10 leaf acc for imagenetv2_RN101 is 0.8692
+Top 1 imagenetv2_RN101 LCA: 6.454101518643151 
+Top 5 imagenetv2_RN101 LCA: 6.0497367082232385 
+
+imagenetv2_RN50
+top 1 leaf acc for imagenetv2_RN50 is 0.5112
+top 5 leaf acc for imagenetv2_RN50 is 0.7666000000000001
+top 10 leaf acc for imagenetv2_RN50 is 0.8587
+Top 1 imagenetv2_RN50 LCA: 6.537878421406904 
+Top 5 imagenetv2_RN50 LCA: 6.112548100178179 
+
+imagenetv2_RN50x4
+top 1 leaf acc for imagenetv2_RN50x4 is 0.5733
+top 5 leaf acc for imagenetv2_RN50x4 is 0.8112
+top 10 leaf acc for imagenetv2_RN50x4 is 0.8906000000000001
+Top 1 imagenetv2_RN50x4 LCA: 6.382645335924719 
+Top 5 imagenetv2_RN50x4 LCA: 6.017240825901853 
+
+imagenetv2_RegNet_4
+top 1 leaf acc for imagenetv2_RegNet_4 is 0.6976
+top 5 leaf acc for imagenetv2_RegNet_4 is 0.8759
+top 10 leaf acc for imagenetv2_RegNet_4 is 0.9264
+Top 1 imagenetv2_RegNet_4 LCA: 6.688219320237302 
+Top 5 imagenetv2_RegNet_4 LCA: 6.154946488274872 
+
+imagenetv2_ResNet_0
+top 1 leaf acc for imagenetv2_ResNet_0 is 0.6958
+top 5 leaf acc for imagenetv2_ResNet_0 is 0.8704999999999999
+top 10 leaf acc for imagenetv2_ResNet_0 is 0.9209
+Top 1 imagenetv2_ResNet_0 LCA: 6.798276370861539 
+Top 5 imagenetv2_ResNet_0 LCA: 6.270169851758921 
+
+imagenetv2_ResNet_11
+top 1 leaf acc for imagenetv2_ResNet_11 is 0.7133
+top 5 leaf acc for imagenetv2_ResNet_11 is 0.8795000000000002
+top 10 leaf acc for imagenetv2_ResNet_11 is 0.9283000000000001
+Top 1 imagenetv2_ResNet_11 LCA: 6.704687036740631 
+Top 5 imagenetv2_ResNet_11 LCA: 6.217915456298245 
+
+imagenetv2_ResNet_12
+top 1 leaf acc for imagenetv2_ResNet_12 is 0.5728
+top 5 leaf acc for imagenetv2_ResNet_12 is 0.7773
+top 10 leaf acc for imagenetv2_ResNet_12 is 0.8522
+Top 1 imagenetv2_ResNet_12 LCA: 6.917584206046398 
+Top 5 imagenetv2_ResNet_12 LCA: 6.47151754238989 
+
+imagenetv2_ResNet_13
+top 1 leaf acc for imagenetv2_ResNet_13 is 0.6098
+top 5 leaf acc for imagenetv2_ResNet_13 is 0.8063
+top 10 leaf acc for imagenetv2_ResNet_13 is 0.8721000000000001
+Top 1 imagenetv2_ResNet_13 LCA: 6.863220914967093 
+Top 5 imagenetv2_ResNet_13 LCA: 6.36313895974114 
+
+imagenetv2_ResNet_5
+top 1 leaf acc for imagenetv2_ResNet_5 is 0.7044
+top 5 leaf acc for imagenetv2_ResNet_5 is 0.8757000000000001
+top 10 leaf acc for imagenetv2_ResNet_5 is 0.9275
+Top 1 imagenetv2_ResNet_5 LCA: 6.723562059624811 
+Top 5 imagenetv2_ResNet_5 LCA: 6.204939128827294 
+
+imagenetv2_ResNet_6
+top 1 leaf acc for imagenetv2_ResNet_6 is 0.711
+top 5 leaf acc for imagenetv2_ResNet_6 is 0.8843999999999999
+top 10 leaf acc for imagenetv2_ResNet_6 is 0.9305999999999999
+Top 1 imagenetv2_ResNet_6 LCA: 6.662260629342619 
+Top 5 imagenetv2_ResNet_6 LCA: 6.1752306329505675 
+
+imagenetv2_ShuffleNetV2_9
+top 1 leaf acc for imagenetv2_ShuffleNetV2_9 is 0.6403
+top 5 leaf acc for imagenetv2_ShuffleNetV2_9 is 0.8302
+top 10 leaf acc for imagenetv2_ShuffleNetV2_9 is 0.8923
+Top 1 imagenetv2_ShuffleNetV2_9 LCA: 6.829603618606954 
+Top 5 imagenetv2_ShuffleNetV2_9 LCA: 6.376799877638135 
+
+imagenetv2_SqueezeNet_22
+top 1 leaf acc for imagenetv2_SqueezeNet_22 is 0.4486
+top 5 leaf acc for imagenetv2_SqueezeNet_22 is 0.6543
+top 10 leaf acc for imagenetv2_SqueezeNet_22 is 0.7499
+Top 1 imagenetv2_SqueezeNet_22 LCA: 7.202384400879344 
+Top 5 imagenetv2_SqueezeNet_22 LCA: 6.838400639191525 
+
+imagenetv2_SqueezeNet_23
+top 1 leaf acc for imagenetv2_SqueezeNet_23 is 0.4519
+top 5 leaf acc for imagenetv2_SqueezeNet_23 is 0.6603000000000001
+top 10 leaf acc for imagenetv2_SqueezeNet_23 is 0.7539
+Top 1 imagenetv2_SqueezeNet_23 LCA: 7.193900378068313 
+Top 5 imagenetv2_SqueezeNet_23 LCA: 6.812483118109959 
+
+imagenetv2_SwinTransformer_5
+top 1 leaf acc for imagenetv2_SwinTransformer_5 is 0.7179
+top 5 leaf acc for imagenetv2_SwinTransformer_5 is 0.8947999999999999
+top 10 leaf acc for imagenetv2_SwinTransformer_5 is 0.9355
+Top 1 imagenetv2_SwinTransformer_5 LCA: 6.650230188512242 
+Top 5 imagenetv2_SwinTransformer_5 LCA: 6.132993518217505 
+
+imagenetv2_VGG_10
+top 1 leaf acc for imagenetv2_VGG_10 is 0.619
+top 5 leaf acc for imagenetv2_VGG_10 is 0.8138
+top 10 leaf acc for imagenetv2_VGG_10 is 0.8795000000000001
+Top 1 imagenetv2_VGG_10 LCA: 6.773159907536939 
+Top 5 imagenetv2_VGG_10 LCA: 6.283234013568443 
+
+imagenetv2_VGG_14
+top 1 leaf acc for imagenetv2_VGG_14 is 0.5574
+top 5 leaf acc for imagenetv2_VGG_14 is 0.7605000000000001
+top 10 leaf acc for imagenetv2_VGG_14 is 0.8403
+Top 1 imagenetv2_VGG_14 LCA: 6.937012286370539 
+Top 5 imagenetv2_VGG_14 LCA: 6.491733555312157 
+
+imagenetv2_VGG_15
+top 1 leaf acc for imagenetv2_VGG_15 is 0.5681
+top 5 leaf acc for imagenetv2_VGG_15 is 0.7723000000000001
+top 10 leaf acc for imagenetv2_VGG_15 is 0.8481000000000001
+Top 1 imagenetv2_VGG_15 LCA: 6.894444651458868 
+Top 5 imagenetv2_VGG_15 LCA: 6.44102052514266 
+
+imagenetv2_VGG_16
+top 1 leaf acc for imagenetv2_VGG_16 is 0.5883
+top 5 leaf acc for imagenetv2_VGG_16 is 0.7916
+top 10 leaf acc for imagenetv2_VGG_16 is 0.8622000000000001
+Top 1 imagenetv2_VGG_16 LCA: 6.813908288154108 
+Top 5 imagenetv2_VGG_16 LCA: 6.357937846800977 
+
+imagenetv2_VGG_17
+top 1 leaf acc for imagenetv2_VGG_17 is 0.5968
+top 5 leaf acc for imagenetv2_VGG_17 is 0.7919
+top 10 leaf acc for imagenetv2_VGG_17 is 0.8654000000000001
+Top 1 imagenetv2_VGG_17 LCA: 6.835213983637358 
+Top 5 imagenetv2_VGG_17 LCA: 6.358969329675691 
+
+imagenetv2_VGG_24
+top 1 leaf acc for imagenetv2_VGG_24 is 0.5751
+top 5 leaf acc for imagenetv2_VGG_24 is 0.7805
+top 10 leaf acc for imagenetv2_VGG_24 is 0.8521
+Top 1 imagenetv2_VGG_24 LCA: 6.9236997844253585 
+Top 5 imagenetv2_VGG_24 LCA: 6.425612674941404 
+
+imagenetv2_VGG_25
+top 1 leaf acc for imagenetv2_VGG_25 is 0.5888
+top 5 leaf acc for imagenetv2_VGG_25 is 0.7861999999999999
+top 10 leaf acc for imagenetv2_VGG_25 is 0.8592
+Top 1 imagenetv2_VGG_25 LCA: 6.858611761722075 
+Top 5 imagenetv2_VGG_25 LCA: 6.388681916389433 
+
+imagenetv2_VGG_26
+top 1 leaf acc for imagenetv2_VGG_26 is 0.607
+top 5 leaf acc for imagenetv2_VGG_26 is 0.8048
+top 10 leaf acc for imagenetv2_VGG_26 is 0.8771
+Top 1 imagenetv2_VGG_26 LCA: 6.840506869021858 
+Top 5 imagenetv2_VGG_26 LCA: 6.3304721994871045 
+
+imagenetv2_VisionTransformer_7
+top 1 leaf acc for imagenetv2_VisionTransformer_7 is 0.6297
+top 5 leaf acc for imagenetv2_VisionTransformer_7 is 0.8193
+top 10 leaf acc for imagenetv2_VisionTransformer_7 is 0.8845000000000001
+Top 1 imagenetv2_VisionTransformer_7 LCA: 6.849663913307563 
+Top 5 imagenetv2_VisionTransformer_7 LCA: 6.364617993877621 
+
+imagenetv2_VisionTransformer_8
+top 1 leaf acc for imagenetv2_VisionTransformer_8 is 0.6439
+top 5 leaf acc for imagenetv2_VisionTransformer_8 is 0.8284
+top 10 leaf acc for imagenetv2_VisionTransformer_8 is 0.8908
+Top 1 imagenetv2_VisionTransformer_8 LCA: 6.866490871905412 
+Top 5 imagenetv2_VisionTransformer_8 LCA: 6.362663400239389 
+
+imagenetv2_albef_feature_extractor
+top 1 leaf acc for imagenetv2_albef_feature_extractor is 0.3114
+top 5 leaf acc for imagenetv2_albef_feature_extractor is 0.5374
+top 10 leaf acc for imagenetv2_albef_feature_extractor is 0.6529999999999999
+Top 1 imagenetv2_albef_feature_extractor LCA: 6.581330550928989 
+Top 5 imagenetv2_albef_feature_extractor LCA: 6.436308770829506 
+
+imagenetv2_blip_feature_extractor
+top 1 leaf acc for imagenetv2_blip_feature_extractor is 0.3739
+top 5 leaf acc for imagenetv2_blip_feature_extractor is 0.6057
+top 10 leaf acc for imagenetv2_blip_feature_extractor is 0.7226000000000001
+Top 1 imagenetv2_blip_feature_extractor LCA: 6.726598273561033 
+Top 5 imagenetv2_blip_feature_extractor LCA: 6.538670378946555 
+
+imagenetv2_vitb16
+top 1 leaf acc for imagenetv2_vitb16 is 0.6061
+top 5 leaf acc for imagenetv2_vitb16 is 0.8359999999999999
+top 10 leaf acc for imagenetv2_vitb16 is 0.9083
+Top 1 imagenetv2_vitb16 LCA: 6.317417263104586 
+Top 5 imagenetv2_vitb16 LCA: 5.879594704123122 
+
+imagenetv2_vitb32
+top 1 leaf acc for imagenetv2_vitb32 is 0.5461
+top 5 leaf acc for imagenetv2_vitb32 is 0.7925
+top 10 leaf acc for imagenetv2_vitb32 is 0.8807000000000001
+Top 1 imagenetv2_vitb32 LCA: 6.437208577751448 
+Top 5 imagenetv2_vitb32 LCA: 6.048735213090968 
+
+imagenetv2_vitl14
+top 1 leaf acc for imagenetv2_vitl14 is 0.6713
+top 5 leaf acc for imagenetv2_vitl14 is 0.8752
+top 10 leaf acc for imagenetv2_vitl14 is 0.9271
+Top 1 imagenetv2_vitl14 LCA: 6.331412934939053 
+Top 5 imagenetv2_vitl14 LCA: 5.969073006036642 
+
+imagenetv2_vitl14_336
+top 1 leaf acc for imagenetv2_vitl14_336 is 0.6843
+top 5 leaf acc for imagenetv2_vitl14_336 is 0.888
+top 10 leaf acc for imagenetv2_vitl14_336 is 0.9344000000000001
+Top 1 imagenetv2_vitl14_336 LCA: 6.338873489794182 
+Top 5 imagenetv2_vitl14_336 LCA: 5.930378887557848 
+
+objectnet_AlexNet_10
+top 1 leaf acc for objectnet_AlexNet_10 is 0.13938839237644018
+top 5 leaf acc for objectnet_AlexNet_10 is 0.2956282976203295
+top 10 leaf acc for objectnet_AlexNet_10 is 0.4184882093248627
+Top 1 objectnet_AlexNet_10 LCA: 8.236481212629402 
+Top 5 objectnet_AlexNet_10 LCA: 7.937984133500223 
+
+objectnet_ConvNeXt_12
+top 1 leaf acc for objectnet_ConvNeXt_12 is 0.46645849036287285
+top 5 leaf acc for objectnet_ConvNeXt_12 is 0.6699149348551738
+top 10 leaf acc for objectnet_ConvNeXt_12 is 0.7709701733606118
+Top 1 objectnet_ConvNeXt_12 LCA: 7.913750341540701 
+Top 5 objectnet_ConvNeXt_12 LCA: 7.408056543869181 
+
+objectnet_DenseNet_2
+top 1 leaf acc for objectnet_DenseNet_2 is 0.3678259933240013
+top 5 leaf acc for objectnet_DenseNet_2 is 0.5670291805749973
+top 10 leaf acc for objectnet_DenseNet_2 is 0.680574997308065
+Top 1 objectnet_DenseNet_2 LCA: 7.979936677887496 
+Top 5 objectnet_DenseNet_2 LCA: 7.530573018418614 
+
+objectnet_DenseNet_27
+top 1 leaf acc for objectnet_DenseNet_27 is 0.33945299881554863
+top 5 leaf acc for objectnet_DenseNet_27 is 0.5376870894799182
+top 10 leaf acc for objectnet_DenseNet_27 is 0.6550016151609777
+Top 1 objectnet_DenseNet_27 LCA: 8.039127376816646 
+Top 5 objectnet_DenseNet_27 LCA: 7.580119401650003 
+
+objectnet_DenseNet_28
+top 1 leaf acc for objectnet_DenseNet_28 is 0.3756864434155271
+top 5 leaf acc for objectnet_DenseNet_28 is 0.5740820501776678
+top 10 leaf acc for objectnet_DenseNet_28 is 0.686335738128567
+Top 1 objectnet_DenseNet_28 LCA: 7.984016566805389 
+Top 5 objectnet_DenseNet_28 LCA: 7.523136204234356 
+
+objectnet_DenseNet_29
+top 1 leaf acc for objectnet_DenseNet_29 is 0.35608915688596965
+top 5 leaf acc for objectnet_DenseNet_29 is 0.5587918595886724
+top 10 leaf acc for objectnet_DenseNet_29 is 0.6757833530741898
+Top 1 objectnet_DenseNet_29 LCA: 7.963333792359729 
+Top 5 objectnet_DenseNet_29 LCA: 7.528931992642849 
+
+objectnet_EfficientNet_1
+top 1 leaf acc for objectnet_EfficientNet_1 is 0.37708624959620973
+top 5 leaf acc for objectnet_EfficientNet_1 is 0.5773123721330893
+top 10 leaf acc for objectnet_EfficientNet_1 is 0.691073543663185
+Top 1 objectnet_EfficientNet_1 LCA: 7.969340437981932 
+Top 5 objectnet_EfficientNet_1 LCA: 7.51565615230002 
+
+objectnet_GoogLeNet_21
+top 1 leaf acc for objectnet_GoogLeNet_21 is 0.2975126520943254
+top 5 leaf acc for objectnet_GoogLeNet_21 is 0.49515451706686764
+top 10 leaf acc for objectnet_GoogLeNet_21 is 0.6131151071390115
+Top 1 objectnet_GoogLeNet_21 LCA: 8.04534117859157 
+Top 5 objectnet_GoogLeNet_21 LCA: 7.634502836185379 
+
+objectnet_Inception3_6
+top 1 leaf acc for objectnet_Inception3_6 is 0.3389146118229784
+top 5 leaf acc for objectnet_Inception3_6 is 0.5398406374501993
+top 10 leaf acc for objectnet_Inception3_6 is 0.6552169699580059
+Top 1 objectnet_Inception3_6 LCA: 7.9579033236184475 
+Top 5 objectnet_Inception3_6 LCA: 7.534277594935059 
+
+objectnet_MNASNet_18
+top 1 leaf acc for objectnet_MNASNet_18 is 0.24636588780015076
+top 5 leaf acc for objectnet_MNASNet_18 is 0.4348013351997415
+top 10 leaf acc for objectnet_MNASNet_18 is 0.5578227630020458
+Top 1 objectnet_MNASNet_18 LCA: 8.121764653236145 
+Top 5 objectnet_MNASNet_18 LCA: 7.741283726363774 
+
+objectnet_MNASNet_19
+top 1 leaf acc for objectnet_MNASNet_19 is 0.3286852589641434
+top 5 leaf acc for objectnet_MNASNet_19 is 0.5355873802088942
+top 10 leaf acc for objectnet_MNASNet_19 is 0.6558630343490901
+Top 1 objectnet_MNASNet_19 LCA: 8.053865532115617 
+Top 5 objectnet_MNASNet_19 LCA: 7.582165039644151 
+
+objectnet_MNASNet_20
+top 1 leaf acc for objectnet_MNASNet_20 is 0.3252934209109508
+top 5 leaf acc for objectnet_MNASNet_20 is 0.5256272208463444
+top 10 leaf acc for objectnet_MNASNet_20 is 0.6467642941746528
+Top 1 objectnet_MNASNet_20 LCA: 8.027567481289243 
+Top 5 objectnet_MNASNet_20 LCA: 7.59271293225384 
+
+objectnet_MNASNet_3
+top 1 leaf acc for objectnet_MNASNet_3 is 0.39027673091418114
+top 5 leaf acc for objectnet_MNASNet_3 is 0.5930871110153979
+top 10 leaf acc for objectnet_MNASNet_3 is 0.7041563475826423
+Top 1 objectnet_MNASNet_3 LCA: 7.959767891883232 
+Top 5 objectnet_MNASNet_3 LCA: 7.484897571900019 
+
+objectnet_MobileNetV3_30
+top 1 leaf acc for objectnet_MobileNetV3_30 is 0.24571982340906642
+top 5 leaf acc for objectnet_MobileNetV3_30 is 0.43426294820717126
+top 10 leaf acc for objectnet_MobileNetV3_30 is 0.5571766986109616
+Top 1 objectnet_MobileNetV3_30 LCA: 8.131100170459169 
+Top 5 objectnet_MobileNetV3_30 LCA: 7.736922297564018 
+
+objectnet_MobileNetV3_31
+top 1 leaf acc for objectnet_MobileNetV3_31 is 0.3563583503822548
+top 5 leaf acc for objectnet_MobileNetV3_31 is 0.5592764078819855
+top 10 leaf acc for objectnet_MobileNetV3_31 is 0.6772908366533865
+Top 1 objectnet_MobileNetV3_31 LCA: 7.999554167567666 
+Top 5 objectnet_MobileNetV3_31 LCA: 7.5445889098671275 
+
+objectnet_RN101
+top 1 leaf acc for objectnet_RN101 is 0.4429848174868095
+top 5 leaf acc for objectnet_RN101 is 0.6794443846236675
+top 10 leaf acc for objectnet_RN101 is 0.7972434585980402
+Top 1 objectnet_RN101 LCA: 7.769470502594638 
+Top 5 objectnet_RN101 LCA: 7.209752946466786 
+
+objectnet_RN50
+top 1 leaf acc for objectnet_RN50 is 0.39786798750942176
+top 5 leaf acc for objectnet_RN50 is 0.641057392053408
+top 10 leaf acc for objectnet_RN50 is 0.7653171099386239
+Top 1 objectnet_RN50 LCA: 7.82246405819478 
+Top 5 objectnet_RN50 LCA: 7.261396330228177 
+
+objectnet_RN50x4
+top 1 leaf acc for objectnet_RN50x4 is 0.5044147733390761
+top 5 leaf acc for objectnet_RN50x4 is 0.7285452783460751
+top 10 leaf acc for objectnet_RN50x4 is 0.836114999461613
+Top 1 objectnet_RN50x4 LCA: 7.729270599852263 
+Top 5 objectnet_RN50x4 LCA: 7.125428732115784 
+
+objectnet_RegNet_4
+top 1 leaf acc for objectnet_RegNet_4 is 0.4659201033703026
+top 5 leaf acc for objectnet_RegNet_4 is 0.670076450952945
+top 10 leaf acc for objectnet_RegNet_4 is 0.7709701733606117
+Top 1 objectnet_RegNet_4 LCA: 7.889154797809683 
+Top 5 objectnet_RegNet_4 LCA: 7.367810048719407 
+
+objectnet_ResNet_0
+top 1 leaf acc for objectnet_ResNet_0 is 0.45499084742112633
+top 5 leaf acc for objectnet_ResNet_0 is 0.6560245504468613
+top 10 leaf acc for objectnet_ResNet_0 is 0.753041886508022
+Top 1 objectnet_ResNet_0 LCA: 7.905404759727951 
+Top 5 objectnet_ResNet_0 LCA: 7.387862804624982 
+
+objectnet_ResNet_11
+top 1 leaf acc for objectnet_ResNet_11 is 0.49569290405943794
+top 5 leaf acc for objectnet_ResNet_11 is 0.6913965758587273
+top 10 leaf acc for objectnet_ResNet_11 is 0.7851297512652093
+Top 1 objectnet_ResNet_11 LCA: 7.893121711050472 
+Top 5 objectnet_ResNet_11 LCA: 7.370701413937363 
+
+objectnet_ResNet_12
+top 1 leaf acc for objectnet_ResNet_12 is 0.27172391515021
+top 5 leaf acc for objectnet_ResNet_12 is 0.46683536125767205
+top 10 leaf acc for objectnet_ResNet_12 is 0.5886723376763218
+Top 1 objectnet_ResNet_12 LCA: 8.062024925806483 
+Top 5 objectnet_ResNet_12 LCA: 7.659026190271056 
+
+objectnet_ResNet_13
+top 1 leaf acc for objectnet_ResNet_13 is 0.3163561968342845
+top 5 leaf acc for objectnet_ResNet_13 is 0.5114676429417466
+top 10 leaf acc for objectnet_ResNet_13 is 0.6335199741574244
+Top 1 objectnet_ResNet_13 LCA: 8.029347852536898 
+Top 5 objectnet_ResNet_13 LCA: 7.591102196188723 
+
+objectnet_ResNet_5
+top 1 leaf acc for objectnet_ResNet_5 is 0.4744266178529127
+top 5 leaf acc for objectnet_ResNet_5 is 0.670076450952945
+top 10 leaf acc for objectnet_ResNet_5 is 0.7693550123829009
+Top 1 objectnet_ResNet_5 LCA: 7.91020937315566 
+Top 5 objectnet_ResNet_5 LCA: 7.388635052819296 
+
+objectnet_ResNet_6
+top 1 leaf acc for objectnet_ResNet_6 is 0.4898244858404221
+top 5 leaf acc for objectnet_ResNet_6 is 0.686551092925595
+top 10 leaf acc for objectnet_ResNet_6 is 0.7784537525573382
+Top 1 objectnet_ResNet_6 LCA: 7.8737448315800735 
+Top 5 objectnet_ResNet_6 LCA: 7.360547308000348 
+
+objectnet_ShuffleNetV2_9
+top 1 leaf acc for objectnet_ShuffleNetV2_9 is 0.36357273608269625
+top 5 leaf acc for objectnet_ShuffleNetV2_9 is 0.5660062452891138
+top 10 leaf acc for objectnet_ShuffleNetV2_9 is 0.6780445784429848
+Top 1 objectnet_ShuffleNetV2_9 LCA: 7.995978591709517 
+Top 5 objectnet_ShuffleNetV2_9 LCA: 7.549137762822911 
+
+objectnet_SqueezeNet_22
+top 1 leaf acc for objectnet_SqueezeNet_22 is 0.1657693550123829
+top 5 leaf acc for objectnet_SqueezeNet_22 is 0.33256164531064936
+top 10 leaf acc for objectnet_SqueezeNet_22 is 0.4596748142564876
+Top 1 objectnet_SqueezeNet_22 LCA: 8.182441224225983 
+Top 5 objectnet_SqueezeNet_22 LCA: 7.8748282373551755 
+
+objectnet_SqueezeNet_23
+top 1 leaf acc for objectnet_SqueezeNet_23 is 0.16986109615591688
+top 5 leaf acc for objectnet_SqueezeNet_23 is 0.33821470873263704
+top 10 leaf acc for objectnet_SqueezeNet_23 is 0.46624313556584474
+Top 1 objectnet_SqueezeNet_23 LCA: 8.21943482393956 
+Top 5 objectnet_SqueezeNet_23 LCA: 7.884800759719921 
+
+objectnet_SwinTransformer_5
+top 1 leaf acc for objectnet_SwinTransformer_5 is 0.4885323570582535
+top 5 leaf acc for objectnet_SwinTransformer_5 is 0.6894045439862173
+top 10 leaf acc for objectnet_SwinTransformer_5 is 0.7856142995585227
+Top 1 objectnet_SwinTransformer_5 LCA: 7.839829907491793 
+Top 5 objectnet_SwinTransformer_5 LCA: 7.347086381515941 
+
+objectnet_VGG_10
+top 1 leaf acc for objectnet_VGG_10 is 0.32922364595671366
+top 5 leaf acc for objectnet_VGG_10 is 0.5300958328846774
+top 10 leaf acc for objectnet_VGG_10 is 0.6541401959728654
+Top 1 objectnet_VGG_10 LCA: 8.008661558462915 
+Top 5 objectnet_VGG_10 LCA: 7.558351671927615 
+
+objectnet_VGG_14
+top 1 leaf acc for objectnet_VGG_14 is 0.2462582104016367
+top 5 leaf acc for objectnet_VGG_14 is 0.43302465812425966
+top 10 leaf acc for objectnet_VGG_14 is 0.5570690212124476
+Top 1 objectnet_VGG_14 LCA: 8.150588101396018 
+Top 5 objectnet_VGG_14 LCA: 7.722638448266018 
+
+objectnet_VGG_15
+top 1 leaf acc for objectnet_VGG_15 is 0.2491655001615161
+top 5 leaf acc for objectnet_VGG_15 is 0.43975449553138796
+top 10 leaf acc for objectnet_VGG_15 is 0.5692365672445354
+Top 1 objectnet_VGG_15 LCA: 8.100488639873758 
+Top 5 objectnet_VGG_15 LCA: 7.70591641368555 
+
+objectnet_VGG_16
+top 1 leaf acc for objectnet_VGG_16 is 0.282168622806073
+top 5 leaf acc for objectnet_VGG_16 is 0.47830300419941857
+top 10 leaf acc for objectnet_VGG_16 is 0.6021320124905782
+Top 1 objectnet_VGG_16 LCA: 8.052205316559343 
+Top 5 objectnet_VGG_16 LCA: 7.642068705520016 
+
+objectnet_VGG_17
+top 1 leaf acc for objectnet_VGG_17 is 0.2866372348444062
+top 5 leaf acc for objectnet_VGG_17 is 0.4878862926671692
+top 10 leaf acc for objectnet_VGG_17 is 0.6107462043717024
+Top 1 objectnet_VGG_17 LCA: 8.039616418038678 
+Top 5 objectnet_VGG_17 LCA: 7.610663781557222 
+
+objectnet_VGG_24
+top 1 leaf acc for objectnet_VGG_24 is 0.2678475288037041
+top 5 leaf acc for objectnet_VGG_24 is 0.4678582965435555
+top 10 leaf acc for objectnet_VGG_24 is 0.5907182082480887
+Top 1 objectnet_VGG_24 LCA: 8.075637838984981 
+Top 5 objectnet_VGG_24 LCA: 7.650980300075597 
+
+objectnet_VGG_25
+top 1 leaf acc for objectnet_VGG_25 is 0.2870141057392053
+top 5 leaf acc for objectnet_VGG_25 is 0.4850866803058038
+top 10 leaf acc for objectnet_VGG_25 is 0.6116076235598148
+Top 1 objectnet_VGG_25 LCA: 8.070867685861623 
+Top 5 objectnet_VGG_25 LCA: 7.6364910163961595 
+
+objectnet_VGG_26
+top 1 leaf acc for objectnet_VGG_26 is 0.3213093571659309
+top 5 leaf acc for objectnet_VGG_26 is 0.5247119629589749
+top 10 leaf acc for objectnet_VGG_26 is 0.6473565198664801
+Top 1 objectnet_VGG_26 LCA: 8.036444483478153 
+Top 5 objectnet_VGG_26 LCA: 7.567253086524276 
+
+objectnet_VisionTransformer_7
+top 1 leaf acc for objectnet_VisionTransformer_7 is 0.3105954560137827
+top 5 leaf acc for objectnet_VisionTransformer_7 is 0.504091741143534
+top 10 leaf acc for objectnet_VisionTransformer_7 is 0.622698395606762
+Top 1 objectnet_VisionTransformer_7 LCA: 8.031865709117533 
+Top 5 objectnet_VisionTransformer_7 LCA: 7.640771502956824 
+
+objectnet_VisionTransformer_8
+top 1 leaf acc for objectnet_VisionTransformer_8 is 0.3210940023689028
+top 5 leaf acc for objectnet_VisionTransformer_8 is 0.5111984494454613
+top 10 leaf acc for objectnet_VisionTransformer_8 is 0.6303973296005169
+Top 1 objectnet_VisionTransformer_8 LCA: 8.040967497959409 
+Top 5 objectnet_VisionTransformer_8 LCA: 7.644807990799393 
+
+objectnet_albef_feature_extractor
+top 1 leaf acc for objectnet_albef_feature_extractor is 0.15408635727360828
+top 5 leaf acc for objectnet_albef_feature_extractor is 0.32184774415850115
+top 10 leaf acc for objectnet_albef_feature_extractor is 0.448153332615484
+Top 1 objectnet_albef_feature_extractor LCA: 8.404085982345462 
+Top 5 objectnet_albef_feature_extractor LCA: 7.981357203805277 
+
+objectnet_blip_feature_extractor
+top 1 leaf acc for objectnet_blip_feature_extractor is 0.2616560783891461
+top 5 leaf acc for objectnet_blip_feature_extractor is 0.45057607408205025
+top 10 leaf acc for objectnet_blip_feature_extractor is 0.5774738882308602
+Top 1 objectnet_blip_feature_extractor LCA: 8.454900302422125 
+Top 5 objectnet_blip_feature_extractor LCA: 7.970185609371369 
+
+objectnet_vitb16
+top 1 leaf acc for objectnet_vitb16 is 0.5503930225045763
+top 5 leaf acc for objectnet_vitb16 is 0.7688704640895876
+top 10 leaf acc for objectnet_vitb16 is 0.8608269624205879
+Top 1 objectnet_vitb16 LCA: 7.754723906701904 
+Top 5 objectnet_vitb16 LCA: 7.071739656118029 
+
+objectnet_vitb32
+top 1 leaf acc for objectnet_vitb32 is 0.4514913319694196
+top 5 leaf acc for objectnet_vitb32 is 0.6776138688489286
+top 10 leaf acc for objectnet_vitb32 is 0.7883600732206308
+Top 1 objectnet_vitb32 LCA: 7.818187991091183 
+Top 5 objectnet_vitb32 LCA: 7.252145252861295 
+
+objectnet_vitl14
+top 1 leaf acc for objectnet_vitl14 is 0.6779369010444708
+top 5 leaf acc for objectnet_vitl14 is 0.8573812856681383
+top 10 leaf acc for objectnet_vitl14 is 0.9181113384300635
+Top 1 objectnet_vitl14 LCA: 7.552523096574856 
+Top 5 objectnet_vitl14 LCA: 6.860604126040077 
+
+objectnet_vitl14_336
+top 1 leaf acc for objectnet_vitl14_336 is 0.7112630558845698
+top 5 leaf acc for objectnet_vitl14_336 is 0.8836545709055669
+top 10 leaf acc for objectnet_vitl14_336 is 0.9367933670722516
+Top 1 objectnet_vitl14_336 LCA: 7.513176003490113 
+Top 5 objectnet_vitl14_336 LCA: 6.753999236774419 
+
+openCLIP_imagenet_('RN101', 'openai')
+top 1 leaf acc for openCLIP_imagenet_('RN101', 'openai') is 0.60692
+top 5 leaf acc for openCLIP_imagenet_('RN101', 'openai') is 0.84462
+top 10 leaf acc for openCLIP_imagenet_('RN101', 'openai') is 0.9147200000000001
+Top 1 openCLIP_imagenet_('RN101', 'openai') LCA: 6.282480185600777 
+Top 5 openCLIP_imagenet_('RN101', 'openai') LCA: 5.824756912851641 
+
+openCLIP_imagenet_('RN101', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_('RN101', 'yfcc15m') is 0.30636
+top 5 leaf acc for openCLIP_imagenet_('RN101', 'yfcc15m') is 0.51792
+top 10 leaf acc for openCLIP_imagenet_('RN101', 'yfcc15m') is 0.6295200000000001
+Top 1 openCLIP_imagenet_('RN101', 'yfcc15m') LCA: 6.775795972902571 
+Top 5 openCLIP_imagenet_('RN101', 'yfcc15m') LCA: 6.614015971966396 
+
+openCLIP_imagenet_('RN101-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenet_('RN101-quickgelu', 'openai') is 0.60692
+top 5 leaf acc for openCLIP_imagenet_('RN101-quickgelu', 'openai') is 0.84462
+top 10 leaf acc for openCLIP_imagenet_('RN101-quickgelu', 'openai') is 0.9147200000000001
+Top 1 openCLIP_imagenet_('RN101-quickgelu', 'openai') LCA: 6.282480185600777 
+Top 5 openCLIP_imagenet_('RN101-quickgelu', 'openai') LCA: 5.824756912851641 
+
+openCLIP_imagenet_('RN101-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_('RN101-quickgelu', 'yfcc15m') is 0.30444
+top 5 leaf acc for openCLIP_imagenet_('RN101-quickgelu', 'yfcc15m') is 0.51958
+top 10 leaf acc for openCLIP_imagenet_('RN101-quickgelu', 'yfcc15m') is 0.6336200000000001
+Top 1 openCLIP_imagenet_('RN101-quickgelu', 'yfcc15m') LCA: 6.8226039589040886 
+Top 5 openCLIP_imagenet_('RN101-quickgelu', 'yfcc15m') LCA: 6.6368319572949455 
+
+openCLIP_imagenet_('RN50', 'cc12m')
+top 1 leaf acc for openCLIP_imagenet_('RN50', 'cc12m') is 0.33124
+top 5 leaf acc for openCLIP_imagenet_('RN50', 'cc12m') is 0.57192
+top 10 leaf acc for openCLIP_imagenet_('RN50', 'cc12m') is 0.6943399999999998
+Top 1 openCLIP_imagenet_('RN50', 'cc12m') LCA: 6.649919954843497 
+Top 5 openCLIP_imagenet_('RN50', 'cc12m') LCA: 6.374421815057061 
+
+openCLIP_imagenet_('RN50', 'openai')
+top 1 leaf acc for openCLIP_imagenet_('RN50', 'openai') is 0.57956
+top 5 leaf acc for openCLIP_imagenet_('RN50', 'openai') is 0.82284
+top 10 leaf acc for openCLIP_imagenet_('RN50', 'openai') is 0.9026599999999999
+Top 1 openCLIP_imagenet_('RN50', 'openai') LCA: 6.325950881775758 
+Top 5 openCLIP_imagenet_('RN50', 'openai') LCA: 5.895131897144687 
+
+openCLIP_imagenet_('RN50', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_('RN50', 'yfcc15m') is 0.28102
+top 5 leaf acc for openCLIP_imagenet_('RN50', 'yfcc15m') is 0.48573999999999995
+top 10 leaf acc for openCLIP_imagenet_('RN50', 'yfcc15m') is 0.59822
+Top 1 openCLIP_imagenet_('RN50', 'yfcc15m') LCA: 6.784828961281063 
+Top 5 openCLIP_imagenet_('RN50', 'yfcc15m') LCA: 6.651705415986976 
+
+openCLIP_imagenet_('RN50-quickgelu', 'cc12m')
+top 1 leaf acc for openCLIP_imagenet_('RN50-quickgelu', 'cc12m') is 0.33734
+top 5 leaf acc for openCLIP_imagenet_('RN50-quickgelu', 'cc12m') is 0.57774
+top 10 leaf acc for openCLIP_imagenet_('RN50-quickgelu', 'cc12m') is 0.70332
+Top 1 openCLIP_imagenet_('RN50-quickgelu', 'cc12m') LCA: 6.689723063634687 
+Top 5 openCLIP_imagenet_('RN50-quickgelu', 'cc12m') LCA: 6.3943318637623845 
+
+openCLIP_imagenet_('RN50-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenet_('RN50-quickgelu', 'openai') is 0.57956
+top 5 leaf acc for openCLIP_imagenet_('RN50-quickgelu', 'openai') is 0.82284
+top 10 leaf acc for openCLIP_imagenet_('RN50-quickgelu', 'openai') is 0.9026599999999999
+Top 1 openCLIP_imagenet_('RN50-quickgelu', 'openai') LCA: 6.325950881775758 
+Top 5 openCLIP_imagenet_('RN50-quickgelu', 'openai') LCA: 5.895131897144687 
+
+openCLIP_imagenet_('RN50-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_('RN50-quickgelu', 'yfcc15m') is 0.27822
+top 5 leaf acc for openCLIP_imagenet_('RN50-quickgelu', 'yfcc15m') is 0.48780000000000007
+top 10 leaf acc for openCLIP_imagenet_('RN50-quickgelu', 'yfcc15m') is 0.6038000000000001
+Top 1 openCLIP_imagenet_('RN50-quickgelu', 'yfcc15m') LCA: 6.819756682573885 
+Top 5 openCLIP_imagenet_('RN50-quickgelu', 'yfcc15m') LCA: 6.6715622476612095 
+
+openCLIP_imagenet_('RN50x16', 'openai')
+top 1 leaf acc for openCLIP_imagenet_('RN50x16', 'openai') is 0.67728
+top 5 leaf acc for openCLIP_imagenet_('RN50x16', 'openai') is 0.8910600000000001
+top 10 leaf acc for openCLIP_imagenet_('RN50x16', 'openai') is 0.9409
+Top 1 openCLIP_imagenet_('RN50x16', 'openai') LCA: 6.079722559764098 
+Top 5 openCLIP_imagenet_('RN50x16', 'openai') LCA: 5.73899970418124 
+
+openCLIP_imagenet_('RN50x4', 'openai')
+top 1 leaf acc for openCLIP_imagenet_('RN50x4', 'openai') is 0.64098
+top 5 leaf acc for openCLIP_imagenet_('RN50x4', 'openai') is 0.86926
+top 10 leaf acc for openCLIP_imagenet_('RN50x4', 'openai') is 0.93128
+Top 1 openCLIP_imagenet_('RN50x4', 'openai') LCA: 6.172084420236522 
+Top 5 openCLIP_imagenet_('RN50x4', 'openai') LCA: 5.756753461877309 
+
+openCLIP_imagenet_('RN50x64', 'openai')
+top 1 leaf acc for openCLIP_imagenet_('RN50x64', 'openai') is 0.7076
+top 5 leaf acc for openCLIP_imagenet_('RN50x64', 'openai') is 0.90282
+top 10 leaf acc for openCLIP_imagenet_('RN50x64', 'openai') is 0.94706
+Top 1 openCLIP_imagenet_('RN50x64', 'openai') LCA: 6.077820591065706 
+Top 5 openCLIP_imagenet_('RN50x64', 'openai') LCA: 5.819480685254908 
+
+openCLIP_imagenet_('ViT-B-16', 'laion2b_s34b_b88k')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-16', 'laion2b_s34b_b88k') is 0.69312
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-16', 'laion2b_s34b_b88k') is 0.8946
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-16', 'laion2b_s34b_b88k') is 0.94532
+Top 1 openCLIP_imagenet_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 6.075645907693812 
+Top 5 openCLIP_imagenet_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 5.63564924781688 
+
+openCLIP_imagenet_('ViT-B-16', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-16', 'laion400m_e31') is 0.66558
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-16', 'laion400m_e31') is 0.8774399999999999
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-16', 'laion400m_e31') is 0.9346199999999999
+Top 1 openCLIP_imagenet_('ViT-B-16', 'laion400m_e31') LCA: 6.153171703803604 
+Top 5 openCLIP_imagenet_('ViT-B-16', 'laion400m_e31') LCA: 5.696998205451095 
+
+openCLIP_imagenet_('ViT-B-16', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-16', 'laion400m_e32') is 0.66626
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-16', 'laion400m_e32') is 0.8784199999999999
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-16', 'laion400m_e32') is 0.9343400000000001
+Top 1 openCLIP_imagenet_('ViT-B-16', 'laion400m_e32') LCA: 6.150027838984738 
+Top 5 openCLIP_imagenet_('ViT-B-16', 'laion400m_e32') LCA: 5.691738261076495 
+
+openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e31') is 0.68536
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e31') is 0.89054
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e31') is 0.9439200000000001
+Top 1 openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 6.112885926992167 
+Top 5 openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 5.656640664292068 
+
+openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e32') is 0.68602
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e32') is 0.8906199999999999
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e32') is 0.9444599999999999
+Top 1 openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 6.115621589794863 
+Top 5 openCLIP_imagenet_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 5.648523463647468 
+
+openCLIP_imagenet_('ViT-B-32', 'laion2b_e16')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion2b_e16') is 0.6544
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion2b_e16') is 0.87078
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion2b_e16') is 0.9295
+Top 1 openCLIP_imagenet_('ViT-B-32', 'laion2b_e16') LCA: 6.2226739933009485 
+Top 5 openCLIP_imagenet_('ViT-B-32', 'laion2b_e16') LCA: 5.757027083850345 
+
+openCLIP_imagenet_('ViT-B-32', 'laion2b_s34b_b79k')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion2b_s34b_b79k') is 0.66264
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion2b_s34b_b79k') is 0.8756
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion2b_s34b_b79k') is 0.93212
+Top 1 openCLIP_imagenet_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 6.178904779245879 
+Top 5 openCLIP_imagenet_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 5.741372059565308 
+
+openCLIP_imagenet_('ViT-B-32', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion400m_e31') is 0.59948
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion400m_e31') is 0.8291400000000001
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion400m_e31') is 0.9016200000000001
+Top 1 openCLIP_imagenet_('ViT-B-32', 'laion400m_e31') LCA: 6.345842858232869 
+Top 5 openCLIP_imagenet_('ViT-B-32', 'laion400m_e31') LCA: 5.906788390337322 
+
+openCLIP_imagenet_('ViT-B-32', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion400m_e32') is 0.5983
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion400m_e32') is 0.82832
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-32', 'laion400m_e32') is 0.9013200000000001
+Top 1 openCLIP_imagenet_('ViT-B-32', 'laion400m_e32') LCA: 6.349503397699715 
+Top 5 openCLIP_imagenet_('ViT-B-32', 'laion400m_e32') LCA: 5.9129888536154045 
+
+openCLIP_imagenet_('ViT-B-32', 'openai')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-32', 'openai') is 0.6189
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-32', 'openai') is 0.8542000000000001
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-32', 'openai') is 0.92056
+Top 1 openCLIP_imagenet_('ViT-B-32', 'openai') LCA: 6.150333754468008 
+Top 5 openCLIP_imagenet_('ViT-B-32', 'openai') LCA: 5.757996661900445 
+
+openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.62446
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.8481
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.9159599999999999
+Top 1 openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 6.276918385632629 
+Top 5 openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 5.822956113536004 
+
+openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.62446
+top 5 leaf acc for openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.84824
+top 10 leaf acc for openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.91608
+Top 1 openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 6.278715576839165 
+Top 5 openCLIP_imagenet_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 5.820777051903389 
+
+openCLIP_imagenet_('ViT-L-14', 'laion2b_s32b_b82k')
+top 1 leaf acc for openCLIP_imagenet_('ViT-L-14', 'laion2b_s32b_b82k') is 0.74526
+top 5 leaf acc for openCLIP_imagenet_('ViT-L-14', 'laion2b_s32b_b82k') is 0.9235599999999999
+top 10 leaf acc for openCLIP_imagenet_('ViT-L-14', 'laion2b_s32b_b82k') is 0.9635200000000002
+Top 1 openCLIP_imagenet_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 5.938543477946765 
+Top 5 openCLIP_imagenet_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 5.497629993447483 
+
+openCLIP_imagenet_('ViT-L-14', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_('ViT-L-14', 'laion400m_e31') is 0.722
+top 5 leaf acc for openCLIP_imagenet_('ViT-L-14', 'laion400m_e31') is 0.9098999999999999
+top 10 leaf acc for openCLIP_imagenet_('ViT-L-14', 'laion400m_e31') is 0.95438
+Top 1 openCLIP_imagenet_('ViT-L-14', 'laion400m_e31') LCA: 6.037176321588945 
+Top 5 openCLIP_imagenet_('ViT-L-14', 'laion400m_e31') LCA: 5.5801268288939205 
+
+openCLIP_imagenet_('ViT-L-14', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_('ViT-L-14', 'laion400m_e32') is 0.72254
+top 5 leaf acc for openCLIP_imagenet_('ViT-L-14', 'laion400m_e32') is 0.9097399999999999
+top 10 leaf acc for openCLIP_imagenet_('ViT-L-14', 'laion400m_e32') is 0.95404
+Top 1 openCLIP_imagenet_('ViT-L-14', 'laion400m_e32') LCA: 6.036020489511475 
+Top 5 openCLIP_imagenet_('ViT-L-14', 'laion400m_e32') LCA: 5.586859635885603 
+
+openCLIP_imagenet_('coca_ViT-B-32', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenet_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.63328
+top 5 leaf acc for openCLIP_imagenet_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.8553799999999999
+top 10 leaf acc for openCLIP_imagenet_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.91988
+Top 1 openCLIP_imagenet_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 6.238467637865602 
+Top 5 openCLIP_imagenet_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 5.767841268171503 
+
+openCLIP_imagenet_('coca_ViT-L-14', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenet_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.75234
+top 5 leaf acc for openCLIP_imagenet_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.92638
+top 10 leaf acc for openCLIP_imagenet_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.9646600000000001
+Top 1 openCLIP_imagenet_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 5.891758001701412 
+Top 5 openCLIP_imagenet_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 5.438944991768688 
+
+openCLIP_imagenet_a_('RN101', 'openai')
+top 1 leaf acc for openCLIP_imagenet_a_('RN101', 'openai') is 0.28053333333333336
+top 5 leaf acc for openCLIP_imagenet_a_('RN101', 'openai') is 0.5576
+top 10 leaf acc for openCLIP_imagenet_a_('RN101', 'openai') is 0.7065333333333332
+Top 1 openCLIP_imagenet_a_('RN101', 'openai') LCA: 7.670952913443663 
+Top 5 openCLIP_imagenet_a_('RN101', 'openai') LCA: 7.219319627382487 
+
+openCLIP_imagenet_a_('RN101', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_a_('RN101', 'yfcc15m') is 0.14373333333333332
+top 5 leaf acc for openCLIP_imagenet_a_('RN101', 'yfcc15m') is 0.3529333333333333
+top 10 leaf acc for openCLIP_imagenet_a_('RN101', 'yfcc15m') is 0.5133333333333333
+Top 1 openCLIP_imagenet_a_('RN101', 'yfcc15m') LCA: 7.9052521761358445 
+Top 5 openCLIP_imagenet_a_('RN101', 'yfcc15m') LCA: 7.6526261323441975 
+
+openCLIP_imagenet_a_('RN101-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenet_a_('RN101-quickgelu', 'openai') is 0.28053333333333336
+top 5 leaf acc for openCLIP_imagenet_a_('RN101-quickgelu', 'openai') is 0.5576
+top 10 leaf acc for openCLIP_imagenet_a_('RN101-quickgelu', 'openai') is 0.7065333333333332
+Top 1 openCLIP_imagenet_a_('RN101-quickgelu', 'openai') LCA: 7.670952913443663 
+Top 5 openCLIP_imagenet_a_('RN101-quickgelu', 'openai') LCA: 7.219319627382487 
+
+openCLIP_imagenet_a_('RN101-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_a_('RN101-quickgelu', 'yfcc15m') is 0.14186666666666667
+top 5 leaf acc for openCLIP_imagenet_a_('RN101-quickgelu', 'yfcc15m') is 0.3529333333333334
+top 10 leaf acc for openCLIP_imagenet_a_('RN101-quickgelu', 'yfcc15m') is 0.5105333333333334
+Top 1 openCLIP_imagenet_a_('RN101-quickgelu', 'yfcc15m') LCA: 7.912159171787225 
+Top 5 openCLIP_imagenet_a_('RN101-quickgelu', 'yfcc15m') LCA: 7.632722843036065 
+
+openCLIP_imagenet_a_('RN50', 'cc12m')
+top 1 leaf acc for openCLIP_imagenet_a_('RN50', 'cc12m') is 0.07413333333333333
+top 5 leaf acc for openCLIP_imagenet_a_('RN50', 'cc12m') is 0.22719999999999999
+top 10 leaf acc for openCLIP_imagenet_a_('RN50', 'cc12m') is 0.37093333333333334
+Top 1 openCLIP_imagenet_a_('RN50', 'cc12m') LCA: 8.351409384849584 
+Top 5 openCLIP_imagenet_a_('RN50', 'cc12m') LCA: 8.067178660278572 
+
+openCLIP_imagenet_a_('RN50', 'openai')
+top 1 leaf acc for openCLIP_imagenet_a_('RN50', 'openai') is 0.21733333333333332
+top 5 leaf acc for openCLIP_imagenet_a_('RN50', 'openai') is 0.4865333333333333
+top 10 leaf acc for openCLIP_imagenet_a_('RN50', 'openai') is 0.6546666666666665
+Top 1 openCLIP_imagenet_a_('RN50', 'openai') LCA: 7.861368398544115 
+Top 5 openCLIP_imagenet_a_('RN50', 'openai') LCA: 7.383108162119569 
+
+openCLIP_imagenet_a_('RN50', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_a_('RN50', 'yfcc15m') is 0.11813333333333334
+top 5 leaf acc for openCLIP_imagenet_a_('RN50', 'yfcc15m') is 0.3104
+top 10 leaf acc for openCLIP_imagenet_a_('RN50', 'yfcc15m') is 0.4669333333333333
+Top 1 openCLIP_imagenet_a_('RN50', 'yfcc15m') LCA: 7.961672346894621 
+Top 5 openCLIP_imagenet_a_('RN50', 'yfcc15m') LCA: 7.710533942870874 
+
+openCLIP_imagenet_a_('RN50-quickgelu', 'cc12m')
+top 1 leaf acc for openCLIP_imagenet_a_('RN50-quickgelu', 'cc12m') is 0.0732
+top 5 leaf acc for openCLIP_imagenet_a_('RN50-quickgelu', 'cc12m') is 0.2244
+top 10 leaf acc for openCLIP_imagenet_a_('RN50-quickgelu', 'cc12m') is 0.37426666666666664
+Top 1 openCLIP_imagenet_a_('RN50-quickgelu', 'cc12m') LCA: 8.33193894527943 
+Top 5 openCLIP_imagenet_a_('RN50-quickgelu', 'cc12m') LCA: 8.056471955153922 
+
+openCLIP_imagenet_a_('RN50-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenet_a_('RN50-quickgelu', 'openai') is 0.21733333333333332
+top 5 leaf acc for openCLIP_imagenet_a_('RN50-quickgelu', 'openai') is 0.4865333333333333
+top 10 leaf acc for openCLIP_imagenet_a_('RN50-quickgelu', 'openai') is 0.6546666666666665
+Top 1 openCLIP_imagenet_a_('RN50-quickgelu', 'openai') LCA: 7.861368398544115 
+Top 5 openCLIP_imagenet_a_('RN50-quickgelu', 'openai') LCA: 7.383108162119569 
+
+openCLIP_imagenet_a_('RN50-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_a_('RN50-quickgelu', 'yfcc15m') is 0.11413333333333334
+top 5 leaf acc for openCLIP_imagenet_a_('RN50-quickgelu', 'yfcc15m') is 0.3174666666666667
+top 10 leaf acc for openCLIP_imagenet_a_('RN50-quickgelu', 'yfcc15m') is 0.47213333333333335
+Top 1 openCLIP_imagenet_a_('RN50-quickgelu', 'yfcc15m') LCA: 7.941268982722414 
+Top 5 openCLIP_imagenet_a_('RN50-quickgelu', 'yfcc15m') LCA: 7.673216239008973 
+
+openCLIP_imagenet_a_('RN50x16', 'openai')
+top 1 leaf acc for openCLIP_imagenet_a_('RN50x16', 'openai') is 0.5212
+top 5 leaf acc for openCLIP_imagenet_a_('RN50x16', 'openai') is 0.7766666666666667
+top 10 leaf acc for openCLIP_imagenet_a_('RN50x16', 'openai') is 0.8626666666666667
+Top 1 openCLIP_imagenet_a_('RN50x16', 'openai') LCA: 7.274732981784766 
+Top 5 openCLIP_imagenet_a_('RN50x16', 'openai') LCA: 6.8462894432943235 
+
+openCLIP_imagenet_a_('RN50x4', 'openai')
+top 1 leaf acc for openCLIP_imagenet_a_('RN50x4', 'openai') is 0.3832
+top 5 leaf acc for openCLIP_imagenet_a_('RN50x4', 'openai') is 0.6644000000000001
+top 10 leaf acc for openCLIP_imagenet_a_('RN50x4', 'openai') is 0.7904
+Top 1 openCLIP_imagenet_a_('RN50x4', 'openai') LCA: 7.497933419395221 
+Top 5 openCLIP_imagenet_a_('RN50x4', 'openai') LCA: 6.998806620616777 
+
+openCLIP_imagenet_a_('RN50x64', 'openai')
+top 1 leaf acc for openCLIP_imagenet_a_('RN50x64', 'openai') is 0.6606666666666666
+top 5 leaf acc for openCLIP_imagenet_a_('RN50x64', 'openai') is 0.8515999999999999
+top 10 leaf acc for openCLIP_imagenet_a_('RN50x64', 'openai') is 0.9081333333333333
+Top 1 openCLIP_imagenet_a_('RN50x64', 'openai') LCA: 7.451735199560531 
+Top 5 openCLIP_imagenet_a_('RN50x64', 'openai') LCA: 6.956459650817768 
+
+openCLIP_imagenet_a_('ViT-B-16', 'laion2b_s34b_b88k')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-16', 'laion2b_s34b_b88k') is 0.3661333333333333
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-16', 'laion2b_s34b_b88k') is 0.6533333333333333
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-16', 'laion2b_s34b_b88k') is 0.7828
+Top 1 openCLIP_imagenet_a_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 7.797032948375484 
+Top 5 openCLIP_imagenet_a_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 7.131428047243486 
+
+openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e31') is 0.322
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e31') is 0.606
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e31') is 0.7510666666666667
+Top 1 openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e31') LCA: 7.843899003997203 
+Top 5 openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e31') LCA: 7.219668905301719 
+
+openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e32') is 0.32426666666666665
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e32') is 0.6048
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e32') is 0.7512
+Top 1 openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e32') LCA: 7.832333728876678 
+Top 5 openCLIP_imagenet_a_('ViT-B-16', 'laion400m_e32') LCA: 7.21319794937384 
+
+openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e31') is 0.36106666666666665
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e31') is 0.6449333333333334
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e31') is 0.786
+Top 1 openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 7.642139876839701 
+Top 5 openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 7.0468023658615735 
+
+openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e32') is 0.36373333333333335
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e32') is 0.6518666666666667
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e32') is 0.7886666666666667
+Top 1 openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 7.621385594761884 
+Top 5 openCLIP_imagenet_a_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 7.021362415922181 
+
+openCLIP_imagenet_a_('ViT-B-32', 'laion2b_e16')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion2b_e16') is 0.2596
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion2b_e16') is 0.5273333333333333
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion2b_e16') is 0.6858666666666667
+Top 1 openCLIP_imagenet_a_('ViT-B-32', 'laion2b_e16') LCA: 7.950285865487134 
+Top 5 openCLIP_imagenet_a_('ViT-B-32', 'laion2b_e16') LCA: 7.386088260382559 
+
+openCLIP_imagenet_a_('ViT-B-32', 'laion2b_s34b_b79k')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion2b_s34b_b79k') is 0.2617333333333333
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion2b_s34b_b79k') is 0.5290666666666667
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion2b_s34b_b79k') is 0.6766666666666666
+Top 1 openCLIP_imagenet_a_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 7.978169578850678 
+Top 5 openCLIP_imagenet_a_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 7.412210732046107 
+
+openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e31') is 0.1916
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e31') is 0.43866666666666665
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e31') is 0.6062666666666666
+Top 1 openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e31') LCA: 8.072968187332876 
+Top 5 openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e31') LCA: 7.590679018954132 
+
+openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e32') is 0.19293333333333335
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e32') is 0.4412
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e32') is 0.6077333333333332
+Top 1 openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e32') LCA: 8.091726839516769 
+Top 5 openCLIP_imagenet_a_('ViT-B-32', 'laion400m_e32') LCA: 7.589514473185828 
+
+openCLIP_imagenet_a_('ViT-B-32', 'openai')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'openai') is 0.2985333333333333
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'openai') is 0.5742666666666667
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-32', 'openai') is 0.7221333333333333
+Top 1 openCLIP_imagenet_a_('ViT-B-32', 'openai') LCA: 7.783240867267555 
+Top 5 openCLIP_imagenet_a_('ViT-B-32', 'openai') LCA: 7.25220542705405 
+
+openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.2204
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.4826666666666667
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.6469333333333332
+Top 1 openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 7.980685804387875 
+Top 5 openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 7.45831066495088 
+
+openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.2224
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.4842666666666667
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.6511999999999999
+Top 1 openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 7.986206427678366 
+Top 5 openCLIP_imagenet_a_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 7.459609228643165 
+
+openCLIP_imagenet_a_('ViT-L-14', 'laion2b_s32b_b82k')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-L-14', 'laion2b_s32b_b82k') is 0.5274666666666666
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-L-14', 'laion2b_s32b_b82k') is 0.7814666666666666
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-L-14', 'laion2b_s32b_b82k') is 0.8729333333333332
+Top 1 openCLIP_imagenet_a_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 7.578520086636711 
+Top 5 openCLIP_imagenet_a_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 6.852896625410642 
+
+openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e31') is 0.4570666666666667
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e31') is 0.7210666666666667
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e31') is 0.8291999999999999
+Top 1 openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e31') LCA: 7.6753105051911525 
+Top 5 openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e31') LCA: 6.996053839306023 
+
+openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e32') is 0.4616
+top 5 leaf acc for openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e32') is 0.7223999999999999
+top 10 leaf acc for openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e32') is 0.8294666666666667
+Top 1 openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e32') LCA: 7.654294777387645 
+Top 5 openCLIP_imagenet_a_('ViT-L-14', 'laion400m_e32') LCA: 6.9874316169419135 
+
+openCLIP_imagenet_a_('coca_ViT-B-32', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenet_a_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.21666666666666667
+top 5 leaf acc for openCLIP_imagenet_a_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.46506666666666674
+top 10 leaf acc for openCLIP_imagenet_a_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.6194666666666666
+Top 1 openCLIP_imagenet_a_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 8.039807276591635 
+Top 5 openCLIP_imagenet_a_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 7.5586626775868595 
+
+openCLIP_imagenet_a_('coca_ViT-L-14', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenet_a_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.5288
+top 5 leaf acc for openCLIP_imagenet_a_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.7717333333333334
+top 10 leaf acc for openCLIP_imagenet_a_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.8630666666666668
+Top 1 openCLIP_imagenet_a_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 7.647930961689051 
+Top 5 openCLIP_imagenet_a_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 6.95509298627176 
+
+openCLIP_imagenet_r_('RN101', 'openai')
+top 1 leaf acc for openCLIP_imagenet_r_('RN101', 'openai') is 0.6415333333333333
+top 5 leaf acc for openCLIP_imagenet_r_('RN101', 'openai') is 0.8280666666666666
+top 10 leaf acc for openCLIP_imagenet_r_('RN101', 'openai') is 0.8960666666666666
+Top 1 openCLIP_imagenet_r_('RN101', 'openai') LCA: 7.5823677802876945 
+Top 5 openCLIP_imagenet_r_('RN101', 'openai') LCA: 6.955850878929188 
+
+openCLIP_imagenet_r_('RN101', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_r_('RN101', 'yfcc15m') is 0.22036666666666666
+top 5 leaf acc for openCLIP_imagenet_r_('RN101', 'yfcc15m') is 0.40636666666666665
+top 10 leaf acc for openCLIP_imagenet_r_('RN101', 'yfcc15m') is 0.5335666666666666
+Top 1 openCLIP_imagenet_r_('RN101', 'yfcc15m') LCA: 8.090669170308946 
+Top 5 openCLIP_imagenet_r_('RN101', 'yfcc15m') LCA: 7.821091812778689 
+
+openCLIP_imagenet_r_('RN101-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenet_r_('RN101-quickgelu', 'openai') is 0.6415333333333333
+top 5 leaf acc for openCLIP_imagenet_r_('RN101-quickgelu', 'openai') is 0.8280666666666666
+top 10 leaf acc for openCLIP_imagenet_r_('RN101-quickgelu', 'openai') is 0.8960666666666666
+Top 1 openCLIP_imagenet_r_('RN101-quickgelu', 'openai') LCA: 7.5823677802876945 
+Top 5 openCLIP_imagenet_r_('RN101-quickgelu', 'openai') LCA: 6.955850878929188 
+
+openCLIP_imagenet_r_('RN101-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_r_('RN101-quickgelu', 'yfcc15m') is 0.2144
+top 5 leaf acc for openCLIP_imagenet_r_('RN101-quickgelu', 'yfcc15m') is 0.401
+top 10 leaf acc for openCLIP_imagenet_r_('RN101-quickgelu', 'yfcc15m') is 0.5323333333333333
+Top 1 openCLIP_imagenet_r_('RN101-quickgelu', 'yfcc15m') LCA: 8.167290087696452 
+Top 5 openCLIP_imagenet_r_('RN101-quickgelu', 'yfcc15m') LCA: 7.861211004085062 
+
+openCLIP_imagenet_r_('RN50', 'cc12m')
+top 1 leaf acc for openCLIP_imagenet_r_('RN50', 'cc12m') is 0.3975666666666667
+top 5 leaf acc for openCLIP_imagenet_r_('RN50', 'cc12m') is 0.6278000000000001
+top 10 leaf acc for openCLIP_imagenet_r_('RN50', 'cc12m') is 0.7386
+Top 1 openCLIP_imagenet_r_('RN50', 'cc12m') LCA: 7.831480504565397 
+Top 5 openCLIP_imagenet_r_('RN50', 'cc12m') LCA: 7.34357620290354 
+
+openCLIP_imagenet_r_('RN50', 'openai')
+top 1 leaf acc for openCLIP_imagenet_r_('RN50', 'openai') is 0.5616666666666666
+top 5 leaf acc for openCLIP_imagenet_r_('RN50', 'openai') is 0.7681
+top 10 leaf acc for openCLIP_imagenet_r_('RN50', 'openai') is 0.8522000000000001
+Top 1 openCLIP_imagenet_r_('RN50', 'openai') LCA: 7.756221186714754 
+Top 5 openCLIP_imagenet_r_('RN50', 'openai') LCA: 7.171578603220864 
+
+openCLIP_imagenet_r_('RN50', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_r_('RN50', 'yfcc15m') is 0.1815
+top 5 leaf acc for openCLIP_imagenet_r_('RN50', 'yfcc15m') is 0.3482666666666666
+top 10 leaf acc for openCLIP_imagenet_r_('RN50', 'yfcc15m') is 0.47103333333333336
+Top 1 openCLIP_imagenet_r_('RN50', 'yfcc15m') LCA: 8.1117827331508 
+Top 5 openCLIP_imagenet_r_('RN50', 'yfcc15m') LCA: 7.908427399081123 
+
+openCLIP_imagenet_r_('RN50-quickgelu', 'cc12m')
+top 1 leaf acc for openCLIP_imagenet_r_('RN50-quickgelu', 'cc12m') is 0.39403333333333335
+top 5 leaf acc for openCLIP_imagenet_r_('RN50-quickgelu', 'cc12m') is 0.6286666666666667
+top 10 leaf acc for openCLIP_imagenet_r_('RN50-quickgelu', 'cc12m') is 0.7415
+Top 1 openCLIP_imagenet_r_('RN50-quickgelu', 'cc12m') LCA: 7.843260279865897 
+Top 5 openCLIP_imagenet_r_('RN50-quickgelu', 'cc12m') LCA: 7.329820639688189 
+
+openCLIP_imagenet_r_('RN50-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenet_r_('RN50-quickgelu', 'openai') is 0.5616666666666666
+top 5 leaf acc for openCLIP_imagenet_r_('RN50-quickgelu', 'openai') is 0.7681
+top 10 leaf acc for openCLIP_imagenet_r_('RN50-quickgelu', 'openai') is 0.8522000000000001
+Top 1 openCLIP_imagenet_r_('RN50-quickgelu', 'openai') LCA: 7.756221186714754 
+Top 5 openCLIP_imagenet_r_('RN50-quickgelu', 'openai') LCA: 7.171578603220864 
+
+openCLIP_imagenet_r_('RN50-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_r_('RN50-quickgelu', 'yfcc15m') is 0.1709
+top 5 leaf acc for openCLIP_imagenet_r_('RN50-quickgelu', 'yfcc15m') is 0.33476666666666666
+top 10 leaf acc for openCLIP_imagenet_r_('RN50-quickgelu', 'yfcc15m') is 0.4614333333333333
+Top 1 openCLIP_imagenet_r_('RN50-quickgelu', 'yfcc15m') LCA: 8.132370451695852 
+Top 5 openCLIP_imagenet_r_('RN50-quickgelu', 'yfcc15m') LCA: 7.934350422028734 
+
+openCLIP_imagenet_r_('RN50x16', 'openai')
+top 1 leaf acc for openCLIP_imagenet_r_('RN50x16', 'openai') is 0.7470333333333333
+top 5 leaf acc for openCLIP_imagenet_r_('RN50x16', 'openai') is 0.8935000000000001
+top 10 leaf acc for openCLIP_imagenet_r_('RN50x16', 'openai') is 0.938
+Top 1 openCLIP_imagenet_r_('RN50x16', 'openai') LCA: 7.335621767484691 
+Top 5 openCLIP_imagenet_r_('RN50x16', 'openai') LCA: 6.729105113654393 
+
+openCLIP_imagenet_r_('RN50x4', 'openai')
+top 1 leaf acc for openCLIP_imagenet_r_('RN50x4', 'openai') is 0.6806333333333333
+top 5 leaf acc for openCLIP_imagenet_r_('RN50x4', 'openai') is 0.8557666666666667
+top 10 leaf acc for openCLIP_imagenet_r_('RN50x4', 'openai') is 0.9153333333333332
+Top 1 openCLIP_imagenet_r_('RN50x4', 'openai') LCA: 7.429072797528876 
+Top 5 openCLIP_imagenet_r_('RN50x4', 'openai') LCA: 6.822409470700241 
+
+openCLIP_imagenet_r_('RN50x64', 'openai')
+top 1 leaf acc for openCLIP_imagenet_r_('RN50x64', 'openai') is 0.7990333333333334
+top 5 leaf acc for openCLIP_imagenet_r_('RN50x64', 'openai') is 0.9273666666666668
+top 10 leaf acc for openCLIP_imagenet_r_('RN50x64', 'openai') is 0.9591666666666666
+Top 1 openCLIP_imagenet_r_('RN50x64', 'openai') LCA: 7.295807704413423 
+Top 5 openCLIP_imagenet_r_('RN50x64', 'openai') LCA: 6.691195048606975 
+
+openCLIP_imagenet_r_('ViT-B-16', 'laion2b_s34b_b88k')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-16', 'laion2b_s34b_b88k') is 0.791
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-16', 'laion2b_s34b_b88k') is 0.9214666666666667
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-16', 'laion2b_s34b_b88k') is 0.9564666666666666
+Top 1 openCLIP_imagenet_r_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 7.256613013066853 
+Top 5 openCLIP_imagenet_r_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 6.607437282351768 
+
+openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e31') is 0.7637
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e31') is 0.9069333333333334
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e31') is 0.9450666666666667
+Top 1 openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e31') LCA: 7.359412902015542 
+Top 5 openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e31') LCA: 6.691121160228556 
+
+openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e32') is 0.7637333333333334
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e32') is 0.9074
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e32') is 0.9449000000000001
+Top 1 openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e32') LCA: 7.361464251940493 
+Top 5 openCLIP_imagenet_r_('ViT-B-16', 'laion400m_e32') LCA: 6.677949905416498 
+
+openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e31') is 0.7876666666666666
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e31') is 0.9188999999999999
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e31') is 0.9533999999999999
+Top 1 openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 7.2990394993267245 
+Top 5 openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 6.63639654306746 
+
+openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e32') is 0.7893333333333333
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e32') is 0.9198333333333333
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e32') is 0.9532333333333333
+Top 1 openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 7.294187604054968 
+Top 5 openCLIP_imagenet_r_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 6.633030339256051 
+
+openCLIP_imagenet_r_('ViT-B-32', 'laion2b_e16')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion2b_e16') is 0.7353
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion2b_e16') is 0.8855
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion2b_e16') is 0.9308333333333333
+Top 1 openCLIP_imagenet_r_('ViT-B-32', 'laion2b_e16') LCA: 7.530954080600436 
+Top 5 openCLIP_imagenet_r_('ViT-B-32', 'laion2b_e16') LCA: 6.880680444058802 
+
+openCLIP_imagenet_r_('ViT-B-32', 'laion2b_s34b_b79k')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion2b_s34b_b79k') is 0.7439333333333333
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion2b_s34b_b79k') is 0.8880999999999999
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion2b_s34b_b79k') is 0.9331333333333334
+Top 1 openCLIP_imagenet_r_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 7.5406327565701 
+Top 5 openCLIP_imagenet_r_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 6.8825907707403085 
+
+openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e31') is 0.6859
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e31') is 0.8557666666666667
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e31') is 0.9125666666666665
+Top 1 openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e31') LCA: 7.504191361788973 
+Top 5 openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e31') LCA: 6.875164947290199 
+
+openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e32') is 0.6868666666666666
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e32') is 0.8552
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e32') is 0.9123333333333333
+Top 1 openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e32') LCA: 7.515045711176451 
+Top 5 openCLIP_imagenet_r_('ViT-B-32', 'laion400m_e32') LCA: 6.8827335124584 
+
+openCLIP_imagenet_r_('ViT-B-32', 'openai')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'openai') is 0.668
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'openai') is 0.8500666666666667
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-32', 'openai') is 0.9077666666666666
+Top 1 openCLIP_imagenet_r_('ViT-B-32', 'openai') LCA: 7.4883096104758415 
+Top 5 openCLIP_imagenet_r_('ViT-B-32', 'openai') LCA: 6.862513613525766 
+
+openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.7135666666666667
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.8758333333333334
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.9256666666666666
+Top 1 openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 7.523260358087209 
+Top 5 openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 6.860987432008518 
+
+openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.7133666666666667
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.8757999999999999
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.9257666666666667
+Top 1 openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 7.533672860291231 
+Top 5 openCLIP_imagenet_r_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 6.859655038898385 
+
+openCLIP_imagenet_r_('ViT-L-14', 'laion2b_s32b_b82k')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-L-14', 'laion2b_s32b_b82k') is 0.8647333333333334
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-L-14', 'laion2b_s32b_b82k') is 0.9552666666666667
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-L-14', 'laion2b_s32b_b82k') is 0.9745333333333335
+Top 1 openCLIP_imagenet_r_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 7.061934353768608 
+Top 5 openCLIP_imagenet_r_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 6.410350239384259 
+
+openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e31') is 0.8359333333333333
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e31') is 0.9422666666666666
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e31') is 0.9669333333333333
+Top 1 openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e31') LCA: 7.1484051840618745 
+Top 5 openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e31') LCA: 6.519423682893301 
+
+openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e32') is 0.8363666666666667
+top 5 leaf acc for openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e32') is 0.9425
+top 10 leaf acc for openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e32') is 0.9669666666666666
+Top 1 openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e32') LCA: 7.150732184600591 
+Top 5 openCLIP_imagenet_r_('ViT-L-14', 'laion400m_e32') LCA: 6.5303033904797525 
+
+openCLIP_imagenet_r_('coca_ViT-B-32', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenet_r_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.7113
+top 5 leaf acc for openCLIP_imagenet_r_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.8690666666666667
+top 10 leaf acc for openCLIP_imagenet_r_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.9184
+Top 1 openCLIP_imagenet_r_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 7.572501326652157 
+Top 5 openCLIP_imagenet_r_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 6.937369022934775 
+
+openCLIP_imagenet_r_('coca_ViT-L-14', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenet_r_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.8702333333333333
+top 5 leaf acc for openCLIP_imagenet_r_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.9542666666666666
+top 10 leaf acc for openCLIP_imagenet_r_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.9743666666666666
+Top 1 openCLIP_imagenet_r_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 7.176164092016805 
+Top 5 openCLIP_imagenet_r_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 6.54482342710425 
+
+openCLIP_imagenet_sketch_('RN101', 'openai')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN101', 'openai') is 0.3797087779284325
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN101', 'openai') is 0.6288785395665076
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN101', 'openai') is 0.7414765469944391
+Top 1 openCLIP_imagenet_sketch_('RN101', 'openai') LCA: 6.511588696556476 
+Top 5 openCLIP_imagenet_sketch_('RN101', 'openai') LCA: 6.209453061787305 
+
+openCLIP_imagenet_sketch_('RN101', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN101', 'yfcc15m') is 0.07406315706734265
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN101', 'yfcc15m') is 0.16881840869343082
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN101', 'yfcc15m') is 0.24877674939574368
+Top 1 openCLIP_imagenet_sketch_('RN101', 'yfcc15m') LCA: 7.759232496857998 
+Top 5 openCLIP_imagenet_sketch_('RN101', 'yfcc15m') LCA: 7.6610961170243135 
+
+openCLIP_imagenet_sketch_('RN101-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN101-quickgelu', 'openai') is 0.3797087779284325
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN101-quickgelu', 'openai') is 0.6288785395665076
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN101-quickgelu', 'openai') is 0.7414765469944391
+Top 1 openCLIP_imagenet_sketch_('RN101-quickgelu', 'openai') LCA: 6.511588696556476 
+Top 5 openCLIP_imagenet_sketch_('RN101-quickgelu', 'openai') LCA: 6.209453061787305 
+
+openCLIP_imagenet_sketch_('RN101-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN101-quickgelu', 'yfcc15m') is 0.07363084360077816
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN101-quickgelu', 'yfcc15m') is 0.1723948200986461
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN101-quickgelu', 'yfcc15m') is 0.2548684391518796
+Top 1 openCLIP_imagenet_sketch_('RN101-quickgelu', 'yfcc15m') LCA: 7.703624318278079 
+Top 5 openCLIP_imagenet_sketch_('RN101-quickgelu', 'yfcc15m') LCA: 7.63225874992798 
+
+openCLIP_imagenet_sketch_('RN50', 'cc12m')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN50', 'cc12m') is 0.2038751007093871
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN50', 'cc12m') is 0.3996934504509816
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN50', 'cc12m') is 0.5252215606516143
+Top 1 openCLIP_imagenet_sketch_('RN50', 'cc12m') LCA: 7.041512394069859 
+Top 5 openCLIP_imagenet_sketch_('RN50', 'cc12m') LCA: 6.81146212419051 
+
+openCLIP_imagenet_sketch_('RN50', 'openai')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN50', 'openai') is 0.3326259112971369
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN50', 'openai') is 0.5729135962585234
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN50', 'openai') is 0.6917408477274067
+Top 1 openCLIP_imagenet_sketch_('RN50', 'openai') LCA: 6.780344752590394 
+Top 5 openCLIP_imagenet_sketch_('RN50', 'openai') LCA: 6.467835615056067 
+
+openCLIP_imagenet_sketch_('RN50', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN50', 'yfcc15m') is 0.05419638821749297
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN50', 'yfcc15m') is 0.13264163178683017
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN50', 'yfcc15m') is 0.20389475132150367
+Top 1 openCLIP_imagenet_sketch_('RN50', 'yfcc15m') LCA: 7.9218032878135665 
+Top 5 openCLIP_imagenet_sketch_('RN50', 'yfcc15m') LCA: 7.854250514219971 
+
+openCLIP_imagenet_sketch_('RN50-quickgelu', 'cc12m')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN50-quickgelu', 'cc12m') is 0.20792312680539998
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN50-quickgelu', 'cc12m') is 0.40552968224960206
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN50-quickgelu', 'cc12m') is 0.5316669614258484
+Top 1 openCLIP_imagenet_sketch_('RN50-quickgelu', 'cc12m') LCA: 7.021639789099366 
+Top 5 openCLIP_imagenet_sketch_('RN50-quickgelu', 'cc12m') LCA: 6.806265733385572 
+
+openCLIP_imagenet_sketch_('RN50-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN50-quickgelu', 'openai') is 0.3326259112971369
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN50-quickgelu', 'openai') is 0.5729135962585234
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN50-quickgelu', 'openai') is 0.6917408477274067
+Top 1 openCLIP_imagenet_sketch_('RN50-quickgelu', 'openai') LCA: 6.780344752590394 
+Top 5 openCLIP_imagenet_sketch_('RN50-quickgelu', 'openai') LCA: 6.467835615056067 
+
+openCLIP_imagenet_sketch_('RN50-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN50-quickgelu', 'yfcc15m') is 0.0523688812906522
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN50-quickgelu', 'yfcc15m') is 0.12867220813928354
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN50-quickgelu', 'yfcc15m') is 0.2004165929768712
+Top 1 openCLIP_imagenet_sketch_('RN50-quickgelu', 'yfcc15m') LCA: 7.906330232410145 
+Top 5 openCLIP_imagenet_sketch_('RN50-quickgelu', 'yfcc15m') LCA: 7.868776453239844 
+
+openCLIP_imagenet_sketch_('RN50x16', 'openai')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN50x16', 'openai') is 0.47499459608166794
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN50x16', 'openai') is 0.7224744050777181
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN50x16', 'openai') is 0.8164436322191435
+Top 1 openCLIP_imagenet_sketch_('RN50x16', 'openai') LCA: 6.176037863969846 
+Top 5 openCLIP_imagenet_sketch_('RN50x16', 'openai') LCA: 5.922945159496414 
+
+openCLIP_imagenet_sketch_('RN50x4', 'openai')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN50x4', 'openai') is 0.4147261687201556
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN50x4', 'openai') is 0.6653107744306235
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN50x4', 'openai') is 0.7712865255752717
+Top 1 openCLIP_imagenet_sketch_('RN50x4', 'openai') LCA: 6.408630337820351 
+Top 5 openCLIP_imagenet_sketch_('RN50x4', 'openai') LCA: 6.136895446864531 
+
+openCLIP_imagenet_sketch_('RN50x64', 'openai')
+top 1 leaf acc for openCLIP_imagenet_sketch_('RN50x64', 'openai') is 0.5237674153549883
+top 5 leaf acc for openCLIP_imagenet_sketch_('RN50x64', 'openai') is 0.7588673387176009
+top 10 leaf acc for openCLIP_imagenet_sketch_('RN50x64', 'openai') is 0.8409872467527364
+Top 1 openCLIP_imagenet_sketch_('RN50x64', 'openai') LCA: 6.198464505607214 
+Top 5 openCLIP_imagenet_sketch_('RN50x64', 'openai') LCA: 6.012118144644834 
+
+openCLIP_imagenet_sketch_('ViT-B-16', 'laion2b_s34b_b88k')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16', 'laion2b_s34b_b88k') is 0.5473088486706361
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16', 'laion2b_s34b_b88k') is 0.7810528797972057
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16', 'laion2b_s34b_b88k') is 0.8613059796812671
+Top 1 openCLIP_imagenet_sketch_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 6.035195767242132 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 5.715722574036801 
+
+openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e31') is 0.5089115525948633
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e31') is 0.7482953093988878
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e31') is 0.8398082100257424
+Top 1 openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e31') LCA: 6.1977933826989355 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e31') LCA: 5.839241376057273 
+
+openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e32') is 0.5093438660614278
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e32') is 0.7494939967379984
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e32') is 0.8398868124742085
+Top 1 openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e32') LCA: 6.197689403481885 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-16', 'laion400m_e32') LCA: 5.827659195469063 
+
+openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e31') is 0.5295250447051426
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e31') is 0.7663738725461299
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e31') is 0.8506160466898544
+Top 1 openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 6.1717069713551025 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 5.806591061027537 
+
+openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e32') is 0.52936783980821
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e32') is 0.7662363182613139
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e32') is 0.850674998526204
+Top 1 openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 6.177763240178431 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 5.805611635588938 
+
+openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_e16')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_e16') is 0.5109552162549863
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_e16') is 0.7486293698048694
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_e16') is 0.836231798620527
+Top 1 openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_e16') LCA: 6.2059327174884125 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_e16') LCA: 5.877609327977689 
+
+openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_s34b_b79k')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_s34b_b79k') is 0.5215861974100493
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_s34b_b79k') is 0.7527756489614651
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_s34b_b79k') is 0.8384326671775825
+Top 1 openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 6.216896622584008 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 5.871481037321722 
+
+openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e31') is 0.4477981489123386
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e31') is 0.6794788657666686
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e31') is 0.7807777712275736
+Top 1 openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e31') LCA: 6.480209515734224 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e31') LCA: 6.135284240333346 
+
+openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e32') is 0.4465601603489949
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e32') is 0.6788893474031716
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e32') is 0.779362927155181
+Top 1 openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e32') LCA: 6.482129386766745 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-32', 'laion400m_e32') LCA: 6.134337702697051 
+
+openCLIP_imagenet_sketch_('ViT-B-32', 'openai')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'openai') is 0.40830041855803806
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'openai') is 0.6552300104148245
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32', 'openai') is 0.7652537876554854
+Top 1 openCLIP_imagenet_sketch_('ViT-B-32', 'openai') LCA: 6.460753185700929 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-32', 'openai') LCA: 6.154973593516552 
+
+openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.47468018628780284
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.7133172198313977
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.8079938690090196
+Top 1 openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 6.354848083823384 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 6.005499940055999 
+
+openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.4752893552634165
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.7132386173829315
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.808386881251351
+Top 1 openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 6.3465808024669625 
+Top 5 openCLIP_imagenet_sketch_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 6.006834901335253 
+
+openCLIP_imagenet_sketch_('ViT-L-14', 'laion2b_s32b_b82k')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-L-14', 'laion2b_s32b_b82k') is 0.6216667649197273
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-L-14', 'laion2b_s32b_b82k') is 0.8333824598636247
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-L-14', 'laion2b_s32b_b82k') is 0.8992709622904752
+Top 1 openCLIP_imagenet_sketch_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 5.827106795363983 
+Top 5 openCLIP_imagenet_sketch_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 5.518758823916893 
+
+openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e31') is 0.5897738214545383
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e31') is 0.8085833873725167
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e31') is 0.8804260252706871
+Top 1 openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e31') LCA: 5.929831503183149 
+Top 5 openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e31') LCA: 5.599079623751702 
+
+openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e32') is 0.5905991471634341
+top 5 leaf acc for openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e32') is 0.8101357857297254
+top 10 leaf acc for openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e32') is 0.8806618326160859
+Top 1 openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e32') LCA: 5.919883000121192 
+Top 5 openCLIP_imagenet_sketch_('ViT-L-14', 'laion400m_e32') LCA: 5.5947419995812036 
+
+openCLIP_imagenet_sketch_('coca_ViT-B-32', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenet_sketch_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.49802511348228495
+top 5 leaf acc for openCLIP_imagenet_sketch_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.737742930692291
+top 10 leaf acc for openCLIP_imagenet_sketch_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.8258955766472126
+Top 1 openCLIP_imagenet_sketch_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 6.233867244879134 
+Top 5 openCLIP_imagenet_sketch_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 5.8846443591861375 
+
+openCLIP_imagenet_sketch_('coca_ViT-L-14', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenet_sketch_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.6338894456562322
+top 5 leaf acc for openCLIP_imagenet_sketch_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.8430112598007428
+top 10 leaf acc for openCLIP_imagenet_sketch_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.9018058912535125
+Top 1 openCLIP_imagenet_sketch_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 5.685269400285392 
+Top 5 openCLIP_imagenet_sketch_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 5.401103078137132 
+
+openCLIP_imagenetv2_('RN101', 'openai')
+top 1 leaf acc for openCLIP_imagenetv2_('RN101', 'openai') is 0.5424
+top 5 leaf acc for openCLIP_imagenetv2_('RN101', 'openai') is 0.7873
+top 10 leaf acc for openCLIP_imagenetv2_('RN101', 'openai') is 0.8683
+Top 1 openCLIP_imagenetv2_('RN101', 'openai') LCA: 6.453867204123431 
+Top 5 openCLIP_imagenetv2_('RN101', 'openai') LCA: 6.042129526286087 
+
+openCLIP_imagenetv2_('RN101', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenetv2_('RN101', 'yfcc15m') is 0.2639
+top 5 leaf acc for openCLIP_imagenetv2_('RN101', 'yfcc15m') is 0.4652
+top 10 leaf acc for openCLIP_imagenetv2_('RN101', 'yfcc15m') is 0.5734
+Top 1 openCLIP_imagenetv2_('RN101', 'yfcc15m') LCA: 6.926604924583478 
+Top 5 openCLIP_imagenetv2_('RN101', 'yfcc15m') LCA: 6.805397723668342 
+
+openCLIP_imagenetv2_('RN101-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenetv2_('RN101-quickgelu', 'openai') is 0.5424
+top 5 leaf acc for openCLIP_imagenetv2_('RN101-quickgelu', 'openai') is 0.7873
+top 10 leaf acc for openCLIP_imagenetv2_('RN101-quickgelu', 'openai') is 0.8683
+Top 1 openCLIP_imagenetv2_('RN101-quickgelu', 'openai') LCA: 6.453867204123431 
+Top 5 openCLIP_imagenetv2_('RN101-quickgelu', 'openai') LCA: 6.042129526286087 
+
+openCLIP_imagenetv2_('RN101-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenetv2_('RN101-quickgelu', 'yfcc15m') is 0.259
+top 5 leaf acc for openCLIP_imagenetv2_('RN101-quickgelu', 'yfcc15m') is 0.4643
+top 10 leaf acc for openCLIP_imagenetv2_('RN101-quickgelu', 'yfcc15m') is 0.5768000000000001
+Top 1 openCLIP_imagenetv2_('RN101-quickgelu', 'yfcc15m') LCA: 6.978905406885706 
+Top 5 openCLIP_imagenetv2_('RN101-quickgelu', 'yfcc15m') LCA: 6.8054822137403335 
+
+openCLIP_imagenetv2_('RN50', 'cc12m')
+top 1 leaf acc for openCLIP_imagenetv2_('RN50', 'cc12m') is 0.2858
+top 5 leaf acc for openCLIP_imagenetv2_('RN50', 'cc12m') is 0.5121
+top 10 leaf acc for openCLIP_imagenetv2_('RN50', 'cc12m') is 0.6375
+Top 1 openCLIP_imagenetv2_('RN50', 'cc12m') LCA: 6.784808928398473 
+Top 5 openCLIP_imagenetv2_('RN50', 'cc12m') LCA: 6.538697538582163 
+
+openCLIP_imagenetv2_('RN50', 'openai')
+top 1 leaf acc for openCLIP_imagenetv2_('RN50', 'openai') is 0.5115
+top 5 leaf acc for openCLIP_imagenetv2_('RN50', 'openai') is 0.7653
+top 10 leaf acc for openCLIP_imagenetv2_('RN50', 'openai') is 0.8583
+Top 1 openCLIP_imagenetv2_('RN50', 'openai') LCA: 6.543421530222954 
+Top 5 openCLIP_imagenetv2_('RN50', 'openai') LCA: 6.113794912573932 
+
+openCLIP_imagenetv2_('RN50', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenetv2_('RN50', 'yfcc15m') is 0.2414
+top 5 leaf acc for openCLIP_imagenetv2_('RN50', 'yfcc15m') is 0.4383
+top 10 leaf acc for openCLIP_imagenetv2_('RN50', 'yfcc15m') is 0.5503
+Top 1 openCLIP_imagenetv2_('RN50', 'yfcc15m') LCA: 6.9460107338413515 
+Top 5 openCLIP_imagenetv2_('RN50', 'yfcc15m') LCA: 6.80469597830122 
+
+openCLIP_imagenetv2_('RN50-quickgelu', 'cc12m')
+top 1 leaf acc for openCLIP_imagenetv2_('RN50-quickgelu', 'cc12m') is 0.2895
+top 5 leaf acc for openCLIP_imagenetv2_('RN50-quickgelu', 'cc12m') is 0.5188
+top 10 leaf acc for openCLIP_imagenetv2_('RN50-quickgelu', 'cc12m') is 0.641
+Top 1 openCLIP_imagenetv2_('RN50-quickgelu', 'cc12m') LCA: 6.831470548496163 
+Top 5 openCLIP_imagenetv2_('RN50-quickgelu', 'cc12m') LCA: 6.5604034922057215 
+
+openCLIP_imagenetv2_('RN50-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_imagenetv2_('RN50-quickgelu', 'openai') is 0.5115
+top 5 leaf acc for openCLIP_imagenetv2_('RN50-quickgelu', 'openai') is 0.7653
+top 10 leaf acc for openCLIP_imagenetv2_('RN50-quickgelu', 'openai') is 0.8583
+Top 1 openCLIP_imagenetv2_('RN50-quickgelu', 'openai') LCA: 6.543421530222954 
+Top 5 openCLIP_imagenetv2_('RN50-quickgelu', 'openai') LCA: 6.113794912573932 
+
+openCLIP_imagenetv2_('RN50-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_imagenetv2_('RN50-quickgelu', 'yfcc15m') is 0.2399
+top 5 leaf acc for openCLIP_imagenetv2_('RN50-quickgelu', 'yfcc15m') is 0.4415
+top 10 leaf acc for openCLIP_imagenetv2_('RN50-quickgelu', 'yfcc15m') is 0.5545
+Top 1 openCLIP_imagenetv2_('RN50-quickgelu', 'yfcc15m') LCA: 6.9677236021866245 
+Top 5 openCLIP_imagenetv2_('RN50-quickgelu', 'yfcc15m') LCA: 6.83296534063651 
+
+openCLIP_imagenetv2_('RN50x16', 'openai')
+top 1 leaf acc for openCLIP_imagenetv2_('RN50x16', 'openai') is 0.608
+top 5 leaf acc for openCLIP_imagenetv2_('RN50x16', 'openai') is 0.8325
+top 10 leaf acc for openCLIP_imagenetv2_('RN50x16', 'openai') is 0.9028
+Top 1 openCLIP_imagenetv2_('RN50x16', 'openai') LCA: 6.424306034316234 
+Top 5 openCLIP_imagenetv2_('RN50x16', 'openai') LCA: 6.047855545915456 
+
+openCLIP_imagenetv2_('RN50x4', 'openai')
+top 1 leaf acc for openCLIP_imagenetv2_('RN50x4', 'openai') is 0.5715
+top 5 leaf acc for openCLIP_imagenetv2_('RN50x4', 'openai') is 0.8106
+top 10 leaf acc for openCLIP_imagenetv2_('RN50x4', 'openai') is 0.8898999999999999
+Top 1 openCLIP_imagenetv2_('RN50x4', 'openai') LCA: 6.3860745638405625 
+Top 5 openCLIP_imagenetv2_('RN50x4', 'openai') LCA: 6.012106496191567 
+
+openCLIP_imagenetv2_('RN50x64', 'openai')
+top 1 leaf acc for openCLIP_imagenetv2_('RN50x64', 'openai') is 0.6413
+top 5 leaf acc for openCLIP_imagenetv2_('RN50x64', 'openai') is 0.8527
+top 10 leaf acc for openCLIP_imagenetv2_('RN50x64', 'openai') is 0.9147
+Top 1 openCLIP_imagenetv2_('RN50x64', 'openai') LCA: 6.44783601964332 
+Top 5 openCLIP_imagenetv2_('RN50x64', 'openai') LCA: 6.123299486116167 
+
+openCLIP_imagenetv2_('ViT-B-16', 'laion2b_s34b_b88k')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-16', 'laion2b_s34b_b88k') is 0.615
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-16', 'laion2b_s34b_b88k') is 0.8390999999999998
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-16', 'laion2b_s34b_b88k') is 0.9085
+Top 1 openCLIP_imagenetv2_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 6.4342514875141825 
+Top 5 openCLIP_imagenetv2_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 5.928641759325745 
+
+openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e31') is 0.5847
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e31') is 0.8163999999999999
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e31') is 0.8937
+Top 1 openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e31') LCA: 6.500997913526293 
+Top 5 openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e31') LCA: 6.010065785441218 
+
+openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e32') is 0.5857
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e32') is 0.8175000000000001
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e32') is 0.8938000000000001
+Top 1 openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e32') LCA: 6.511080551668418 
+Top 5 openCLIP_imagenetv2_('ViT-B-16', 'laion400m_e32') LCA: 6.010602490602861 
+
+openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e31') is 0.6077
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e31') is 0.8347000000000001
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e31') is 0.9025000000000001
+Top 1 openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 6.396412265732685 
+Top 5 openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 5.934355234449527 
+
+openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e32') is 0.6077
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e32') is 0.8360000000000001
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e32') is 0.9030000000000001
+Top 1 openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 6.387532343220656 
+Top 5 openCLIP_imagenetv2_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 5.9236710157083765 
+
+openCLIP_imagenetv2_('ViT-B-32', 'laion2b_e16')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion2b_e16') is 0.5752
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion2b_e16') is 0.8071
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion2b_e16') is 0.8848
+Top 1 openCLIP_imagenetv2_('ViT-B-32', 'laion2b_e16') LCA: 6.481808301128075 
+Top 5 openCLIP_imagenetv2_('ViT-B-32', 'laion2b_e16') LCA: 6.012616614214066 
+
+openCLIP_imagenetv2_('ViT-B-32', 'laion2b_s34b_b79k')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion2b_s34b_b79k') is 0.5793
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion2b_s34b_b79k') is 0.8095
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion2b_s34b_b79k') is 0.8851
+Top 1 openCLIP_imagenetv2_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 6.518502754279925 
+Top 5 openCLIP_imagenetv2_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 6.037512225263356 
+
+openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e31') is 0.5216
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e31') is 0.7624
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e31') is 0.8438999999999999
+Top 1 openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e31') LCA: 6.5890912964266795 
+Top 5 openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e31') LCA: 6.188596062965431 
+
+openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e32') is 0.5225
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e32') is 0.7614
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e32') is 0.8442999999999999
+Top 1 openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e32') LCA: 6.587220215057059 
+Top 5 openCLIP_imagenetv2_('ViT-B-32', 'laion400m_e32') LCA: 6.1981924649593765 
+
+openCLIP_imagenetv2_('ViT-B-32', 'openai')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'openai') is 0.5463
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'openai') is 0.7934000000000001
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-32', 'openai') is 0.8794000000000001
+Top 1 openCLIP_imagenetv2_('ViT-B-32', 'openai') LCA: 6.441254046946533 
+Top 5 openCLIP_imagenetv2_('ViT-B-32', 'openai') LCA: 6.047629551747211 
+
+openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.5463
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.7801
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.8661000000000001
+Top 1 openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 6.559571601047717 
+Top 5 openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 6.142647176978014 
+
+openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.547
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.7813000000000001
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.8649000000000001
+Top 1 openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 6.540169353586115 
+Top 5 openCLIP_imagenetv2_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 6.135844328338472 
+
+openCLIP_imagenetv2_('ViT-L-14', 'laion2b_s32b_b82k')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-L-14', 'laion2b_s32b_b82k') is 0.669
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-L-14', 'laion2b_s32b_b82k') is 0.8768000000000001
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-L-14', 'laion2b_s32b_b82k') is 0.9339000000000002
+Top 1 openCLIP_imagenetv2_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 6.298576902738699 
+Top 5 openCLIP_imagenetv2_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 5.801356577212498 
+
+openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e31')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e31') is 0.6486
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e31') is 0.8617
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e31') is 0.9187
+Top 1 openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e31') LCA: 6.329381252475617 
+Top 5 openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e31') LCA: 5.865437758278637 
+
+openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e32')
+top 1 leaf acc for openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e32') is 0.649
+top 5 leaf acc for openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e32') is 0.8618
+top 10 leaf acc for openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e32') is 0.9188000000000001
+Top 1 openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e32') LCA: 6.330334663915986 
+Top 5 openCLIP_imagenetv2_('ViT-L-14', 'laion400m_e32') LCA: 5.8563441638184 
+
+openCLIP_imagenetv2_('coca_ViT-B-32', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenetv2_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.5541
+top 5 leaf acc for openCLIP_imagenetv2_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.783
+top 10 leaf acc for openCLIP_imagenetv2_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.8670000000000001
+Top 1 openCLIP_imagenetv2_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 6.546476519413031 
+Top 5 openCLIP_imagenetv2_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 6.132411945783957 
+
+openCLIP_imagenetv2_('coca_ViT-L-14', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_imagenetv2_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.677
+top 5 leaf acc for openCLIP_imagenetv2_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.8778999999999999
+top 10 leaf acc for openCLIP_imagenetv2_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.935
+Top 1 openCLIP_imagenetv2_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 6.287998251718408 
+Top 5 openCLIP_imagenetv2_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 5.761896463869815 
+
+openCLIP_objectnet_('RN101', 'openai')
+top 1 leaf acc for openCLIP_objectnet_('RN101', 'openai') is 0.44357704317863683
+top 5 leaf acc for openCLIP_objectnet_('RN101', 'openai') is 0.6794982233229245
+top 10 leaf acc for openCLIP_objectnet_('RN101', 'openai') is 0.7974588133950683
+Top 1 openCLIP_objectnet_('RN101', 'openai') LCA: 7.770444148155657 
+Top 5 openCLIP_objectnet_('RN101', 'openai') LCA: 7.209099493970978 
+
+openCLIP_objectnet_('RN101', 'yfcc15m')
+top 1 leaf acc for openCLIP_objectnet_('RN101', 'yfcc15m') is 0.16878432217077635
+top 5 leaf acc for openCLIP_objectnet_('RN101', 'yfcc15m') is 0.3534510606223754
+top 10 leaf acc for openCLIP_objectnet_('RN101', 'yfcc15m') is 0.4994616130074298
+Top 1 openCLIP_objectnet_('RN101', 'yfcc15m') LCA: 7.850912769045511 
+Top 5 openCLIP_objectnet_('RN101', 'yfcc15m') LCA: 7.645767567652658 
+
+openCLIP_objectnet_('RN101-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_objectnet_('RN101-quickgelu', 'openai') is 0.44357704317863683
+top 5 leaf acc for openCLIP_objectnet_('RN101-quickgelu', 'openai') is 0.6794982233229245
+top 10 leaf acc for openCLIP_objectnet_('RN101-quickgelu', 'openai') is 0.7974588133950683
+Top 1 openCLIP_objectnet_('RN101-quickgelu', 'openai') LCA: 7.770444148155657 
+Top 5 openCLIP_objectnet_('RN101-quickgelu', 'openai') LCA: 7.209099493970978 
+
+openCLIP_objectnet_('RN101-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_objectnet_('RN101-quickgelu', 'yfcc15m') is 0.16033164638742328
+top 5 leaf acc for openCLIP_objectnet_('RN101-quickgelu', 'yfcc15m') is 0.3376763217400668
+top 10 leaf acc for openCLIP_objectnet_('RN101-quickgelu', 'yfcc15m') is 0.48417142241843436
+Top 1 openCLIP_objectnet_('RN101-quickgelu', 'yfcc15m') LCA: 7.878882766994306 
+Top 5 openCLIP_objectnet_('RN101-quickgelu', 'yfcc15m') LCA: 7.67980758524404 
+
+openCLIP_objectnet_('RN50', 'cc12m')
+top 1 leaf acc for openCLIP_objectnet_('RN50', 'cc12m') is 0.21653924841175837
+top 5 leaf acc for openCLIP_objectnet_('RN50', 'cc12m') is 0.41789598363303543
+top 10 leaf acc for openCLIP_objectnet_('RN50', 'cc12m') is 0.5592764078819856
+Top 1 openCLIP_objectnet_('RN50', 'cc12m') LCA: 8.019889336426132 
+Top 5 openCLIP_objectnet_('RN50', 'cc12m') LCA: 7.6224439728638425 
+
+openCLIP_objectnet_('RN50', 'openai')
+top 1 leaf acc for openCLIP_objectnet_('RN50', 'openai') is 0.3981371810057069
+top 5 leaf acc for openCLIP_objectnet_('RN50', 'openai') is 0.6410035533541508
+top 10 leaf acc for openCLIP_objectnet_('RN50', 'openai') is 0.76574781953268
+Top 1 openCLIP_objectnet_('RN50', 'openai') LCA: 7.823765231407394 
+Top 5 openCLIP_objectnet_('RN50', 'openai') LCA: 7.2615953723352655 
+
+openCLIP_objectnet_('RN50', 'yfcc15m')
+top 1 leaf acc for openCLIP_objectnet_('RN50', 'yfcc15m') is 0.15064068052115862
+top 5 leaf acc for openCLIP_objectnet_('RN50', 'yfcc15m') is 0.3191019704963928
+top 10 leaf acc for openCLIP_objectnet_('RN50', 'yfcc15m') is 0.44966081619468073
+Top 1 openCLIP_objectnet_('RN50', 'yfcc15m') LCA: 7.92376721175646 
+Top 5 openCLIP_objectnet_('RN50', 'yfcc15m') LCA: 7.716273782386658 
+
+openCLIP_objectnet_('RN50-quickgelu', 'cc12m')
+top 1 leaf acc for openCLIP_objectnet_('RN50-quickgelu', 'cc12m') is 0.21470873263701948
+top 5 leaf acc for openCLIP_objectnet_('RN50-quickgelu', 'cc12m') is 0.41961882200926026
+top 10 leaf acc for openCLIP_objectnet_('RN50-quickgelu', 'cc12m') is 0.5609992462582104
+Top 1 openCLIP_objectnet_('RN50-quickgelu', 'cc12m') LCA: 8.019731004764246 
+Top 5 openCLIP_objectnet_('RN50-quickgelu', 'cc12m') LCA: 7.618409304661862 
+
+openCLIP_objectnet_('RN50-quickgelu', 'openai')
+top 1 leaf acc for openCLIP_objectnet_('RN50-quickgelu', 'openai') is 0.3981371810057069
+top 5 leaf acc for openCLIP_objectnet_('RN50-quickgelu', 'openai') is 0.6410035533541508
+top 10 leaf acc for openCLIP_objectnet_('RN50-quickgelu', 'openai') is 0.76574781953268
+Top 1 openCLIP_objectnet_('RN50-quickgelu', 'openai') LCA: 7.823765231407394 
+Top 5 openCLIP_objectnet_('RN50-quickgelu', 'openai') LCA: 7.2615953723352655 
+
+openCLIP_objectnet_('RN50-quickgelu', 'yfcc15m')
+top 1 leaf acc for openCLIP_objectnet_('RN50-quickgelu', 'yfcc15m') is 0.14450306880585764
+top 5 leaf acc for openCLIP_objectnet_('RN50-quickgelu', 'yfcc15m') is 0.31366426187143315
+top 10 leaf acc for openCLIP_objectnet_('RN50-quickgelu', 'yfcc15m') is 0.44912242920211054
+Top 1 openCLIP_objectnet_('RN50-quickgelu', 'yfcc15m') LCA: 7.95825577988502 
+Top 5 openCLIP_objectnet_('RN50-quickgelu', 'yfcc15m') LCA: 7.732304212964736 
+
+openCLIP_objectnet_('RN50x16', 'openai')
+top 1 leaf acc for openCLIP_objectnet_('RN50x16', 'openai') is 0.5852266609238721
+top 5 leaf acc for openCLIP_objectnet_('RN50x16', 'openai') is 0.8039732960051685
+top 10 leaf acc for openCLIP_objectnet_('RN50x16', 'openai') is 0.8850543770862496
+Top 1 openCLIP_objectnet_('RN50x16', 'openai') LCA: 7.565481804384496 
+Top 5 openCLIP_objectnet_('RN50x16', 'openai') LCA: 6.958569205377794 
+
+openCLIP_objectnet_('RN50x4', 'openai')
+top 1 leaf acc for openCLIP_objectnet_('RN50x4', 'openai') is 0.5037687089479919
+top 5 leaf acc for openCLIP_objectnet_('RN50x4', 'openai') is 0.7285991170453323
+top 10 leaf acc for openCLIP_objectnet_('RN50x4', 'openai') is 0.8358996446645849
+Top 1 openCLIP_objectnet_('RN50x4', 'openai') LCA: 7.724262552979109 
+Top 5 openCLIP_objectnet_('RN50x4', 'openai') LCA: 7.121560686468312 
+
+openCLIP_objectnet_('RN50x64', 'openai')
+top 1 leaf acc for openCLIP_objectnet_('RN50x64', 'openai') is 0.6475180359642511
+top 5 leaf acc for openCLIP_objectnet_('RN50x64', 'openai') is 0.8396145149133196
+top 10 leaf acc for openCLIP_objectnet_('RN50x64', 'openai') is 0.9111123075266501
+Top 1 openCLIP_objectnet_('RN50x64', 'openai') LCA: 7.609583785255055 
+Top 5 openCLIP_objectnet_('RN50x64', 'openai') LCA: 6.951038411464662 
+
+openCLIP_objectnet_('ViT-B-16', 'laion2b_s34b_b88k')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-16', 'laion2b_s34b_b88k') is 0.5644987617099171
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-16', 'laion2b_s34b_b88k') is 0.7649940777430817
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-16', 'laion2b_s34b_b88k') is 0.8519974157424356
+Top 1 openCLIP_objectnet_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 7.787407986548224 
+Top 5 openCLIP_objectnet_('ViT-B-16', 'laion2b_s34b_b88k') LCA: 7.13061704916037 
+
+openCLIP_objectnet_('ViT-B-16', 'laion400m_e31')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-16', 'laion400m_e31') is 0.5028534510606224
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-16', 'laion400m_e31') is 0.719931086464951
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-16', 'laion400m_e31') is 0.8228706794443845
+Top 1 openCLIP_objectnet_('ViT-B-16', 'laion400m_e31') LCA: 7.84233240358458 
+Top 5 openCLIP_objectnet_('ViT-B-16', 'laion400m_e31') LCA: 7.226235243982082 
+
+openCLIP_objectnet_('ViT-B-16', 'laion400m_e32')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-16', 'laion400m_e32') is 0.5038763863465059
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-16', 'laion400m_e32') is 0.7212232152471196
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-16', 'laion400m_e32') is 0.8234629051362118
+Top 1 openCLIP_objectnet_('ViT-B-16', 'laion400m_e32') LCA: 7.853922113388902 
+Top 5 openCLIP_objectnet_('ViT-B-16', 'laion400m_e32') LCA: 7.220172636610854 
+
+openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e31')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e31') is 0.5231506406805212
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e31') is 0.7394206955959944
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e31') is 0.8364918703564124
+Top 1 openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 7.8525116092071245 
+Top 5 openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e31') LCA: 7.198250537194335 
+
+openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e32')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e32') is 0.5244427694626898
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e32') is 0.7394745342952513
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e32') is 0.8361688381608701
+Top 1 openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 7.855557898175292 
+Top 5 openCLIP_objectnet_('ViT-B-16-plus-240', 'laion400m_e32') LCA: 7.1943969188210195 
+
+openCLIP_objectnet_('ViT-B-32', 'laion2b_e16')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion2b_e16') is 0.48826316356196836
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion2b_e16') is 0.7015182513190482
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion2b_e16') is 0.8049962312910521
+Top 1 openCLIP_objectnet_('ViT-B-32', 'laion2b_e16') LCA: 7.8503523403941236 
+Top 5 openCLIP_objectnet_('ViT-B-32', 'laion2b_e16') LCA: 7.25475376289386 
+
+openCLIP_objectnet_('ViT-B-32', 'laion2b_s34b_b79k')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion2b_s34b_b79k') is 0.49940777430817274
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion2b_s34b_b79k') is 0.7097555723053732
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion2b_s34b_b79k') is 0.8131797135781201
+Top 1 openCLIP_objectnet_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 7.898302328005989 
+Top 5 openCLIP_objectnet_('ViT-B-32', 'laion2b_s34b_b79k') LCA: 7.254312722477204 
+
+openCLIP_objectnet_('ViT-B-32', 'laion400m_e31')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion400m_e31') is 0.4254872402282761
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion400m_e31') is 0.6403574889630667
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion400m_e31') is 0.7536341121998493
+Top 1 openCLIP_objectnet_('ViT-B-32', 'laion400m_e31') LCA: 7.924629200254697 
+Top 5 openCLIP_objectnet_('ViT-B-32', 'laion400m_e31') LCA: 7.348059699428357 
+
+openCLIP_objectnet_('ViT-B-32', 'laion400m_e32')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion400m_e32') is 0.42602562722084636
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion400m_e32') is 0.6419188112415204
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-32', 'laion400m_e32') is 0.7553031118768171
+Top 1 openCLIP_objectnet_('ViT-B-32', 'laion400m_e32') LCA: 7.915875849530387 
+Top 5 openCLIP_objectnet_('ViT-B-32', 'laion400m_e32') LCA: 7.344282622394387 
+
+openCLIP_objectnet_('ViT-B-32', 'openai')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-32', 'openai') is 0.4519220415634758
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-32', 'openai') is 0.6775061914504146
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-32', 'openai') is 0.7884677506191451
+Top 1 openCLIP_objectnet_('ViT-B-32', 'openai') LCA: 7.817078676741315 
+Top 5 openCLIP_objectnet_('ViT-B-32', 'openai') LCA: 7.253839660417558 
+
+openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e31')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.4428233013890384
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.659685581996339
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e31') is 0.7712932055561538
+Top 1 openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 7.9343115497186005 
+Top 5 openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e31') LCA: 7.334223175155621 
+
+openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e32')
+top 1 leaf acc for openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.4441692688704641
+top 5 leaf acc for openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.6607085172822225
+top 10 leaf acc for openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e32') is 0.771562399052439
+Top 1 openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 7.941073708793697 
+Top 5 openCLIP_objectnet_('ViT-B-32-quickgelu', 'laion400m_e32') LCA: 7.340853139495645 
+
+openCLIP_objectnet_('ViT-L-14', 'laion2b_s32b_b82k')
+top 1 leaf acc for openCLIP_objectnet_('ViT-L-14', 'laion2b_s32b_b82k') is 0.6477333907612792
+top 5 leaf acc for openCLIP_objectnet_('ViT-L-14', 'laion2b_s32b_b82k') is 0.8273392914827179
+top 10 leaf acc for openCLIP_objectnet_('ViT-L-14', 'laion2b_s32b_b82k') is 0.8919457305911489
+Top 1 openCLIP_objectnet_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 7.662505246061087 
+Top 5 openCLIP_objectnet_('ViT-L-14', 'laion2b_s32b_b82k') LCA: 6.960475024965429 
+
+openCLIP_objectnet_('ViT-L-14', 'laion400m_e31')
+top 1 leaf acc for openCLIP_objectnet_('ViT-L-14', 'laion400m_e31') is 0.5928717562183697
+top 5 leaf acc for openCLIP_objectnet_('ViT-L-14', 'laion400m_e31') is 0.7814148810164746
+top 10 leaf acc for openCLIP_objectnet_('ViT-L-14', 'laion400m_e31') is 0.8615807042101863
+Top 1 openCLIP_objectnet_('ViT-L-14', 'laion400m_e31') LCA: 7.825761228523307 
+Top 5 openCLIP_objectnet_('ViT-L-14', 'laion400m_e31') LCA: 7.155588697679188 
+
+openCLIP_objectnet_('ViT-L-14', 'laion400m_e32')
+top 1 leaf acc for openCLIP_objectnet_('ViT-L-14', 'laion400m_e32') is 0.5940562076020244
+top 5 leaf acc for openCLIP_objectnet_('ViT-L-14', 'laion400m_e32') is 0.7824378163023582
+top 10 leaf acc for openCLIP_objectnet_('ViT-L-14', 'laion400m_e32') is 0.8621190912027566
+Top 1 openCLIP_objectnet_('ViT-L-14', 'laion400m_e32') LCA: 7.821508230706956 
+Top 5 openCLIP_objectnet_('ViT-L-14', 'laion400m_e32') LCA: 7.157093208106664 
+
+openCLIP_objectnet_('coca_ViT-B-32', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_objectnet_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.45628297620329494
+top 5 leaf acc for openCLIP_objectnet_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.6682997738774632
+top 10 leaf acc for openCLIP_objectnet_('coca_ViT-B-32', 'laion2b_s13b_b90k') is 0.7763540432863142
+Top 1 openCLIP_objectnet_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 7.887392935497188 
+Top 5 openCLIP_objectnet_('coca_ViT-B-32', 'laion2b_s13b_b90k') LCA: 7.317994953625073 
+
+openCLIP_objectnet_('coca_ViT-L-14', 'laion2b_s13b_b90k')
+top 1 leaf acc for openCLIP_objectnet_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.6386346505868418
+top 5 leaf acc for openCLIP_objectnet_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.8189404543986216
+top 10 leaf acc for openCLIP_objectnet_('coca_ViT-L-14', 'laion2b_s13b_b90k') is 0.8876386346505867
+Top 1 openCLIP_objectnet_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 7.639278222697203 
+Top 5 openCLIP_objectnet_('coca_ViT-L-14', 'laion2b_s13b_b90k') LCA: 7.027099728420909 
+ 
+ Runing 450 model on ALL_
+
+
+ ############################# objectnet_ ############################# 
+
+ 
+
+ ########### Compare ID LCA with ID Top 1 to predict OOD top1 ########### 
+
+
+ __ImageNet LCA__objectnet Top1__ 
+
+
+ Baseline: ImageNet Top1 and objectnet Top1 
+
+Pearson correlation coefficient: 0.5223615407922262
+pearson_corr p-value: 1.5330674808051632e-06
+Kendall rank correlation coefficient: 0.31668170037071397
+kendall_corr p-value: 5.9084236727296124e-05
+Spearman rank-order correlation coefficient: 0.338731818352037
+spearman_corr p-value: 0.0029524477821879984
+(R^2): 0.27286157929882837
+Mean Absolute Error (R^2): 0.17773690267288939
+
+
+
+ImageNet LCA and objectnet Top1 
+
+Pearson correlation coefficient: -0.9563533821994632
+pearson_corr p-value: 9.630689296441894e-41
+Kendall rank correlation coefficient: -0.867291741795889
+kendall_corr p-value: 3.752727982517714e-28
+Spearman rank-order correlation coefficient: -0.9671967908048594
+spearman_corr p-value: 3.461537985312162e-45
+(R^2): 0.9146117916443526
+Mean Absolute Error (R^2): 0.048479418983398116
+
+
+
+
+ __ImageNet LCA__objectnet Top5__ 
+
+
+ Baseline: ImageNet Top1 and objectnet Top5 
+
+Pearson correlation coefficient: 0.5116546925891964
+pearson_corr p-value: 2.712177030975204e-06
+Kendall rank correlation coefficient: 0.27886002886002886
+kendall_corr p-value: 0.0004060044004067614
+Spearman rank-order correlation coefficient: 0.29736688621136037
+spearman_corr p-value: 0.009572154210394127
+(R^2): 0.261790524448545
+Mean Absolute Error (R^2): 0.18940118613714582
+
+
+
+ImageNet LCA and objectnet Top5 
+
+Pearson correlation coefficient: -0.9611283678677506
+pearson_corr p-value: 1.5261580236364654e-42
+Kendall rank correlation coefficient: -0.8613165153590716
+kendall_corr p-value: 8.85282854696185e-28
+Spearman rank-order correlation coefficient: -0.9664781820366094
+spearman_corr p-value: 7.538778419785664e-45
+(R^2): 0.9237677395201264
+Mean Absolute Error (R^2): 0.045390481378248436
+
+
+
+
+ ########### Predict OOD agreement with ID agreement ########### 
+
+linear fit 0.010282358395585271 0.579014599953949
+
+Mean Absolute Error for aline_d: 0.2653111842476175
+R2
+Mean Absolute Error for aline_s: 0.13132656209230553
+
+ __ImageNet agreement__objectnet agreement__ 
+
+ImageNet agreement and objectnet agreement 
+
+Pearson correlation coefficient: 0.8243393308716134
+pearson_corr p-value: 1.0255824397706067e-19
+Kendall rank correlation coefficient: 0.7127141684880761
+kendall_corr p-value: 1.577154552442442e-19
+Spearman rank-order correlation coefficient: 0.8803015754694735
+spearman_corr p-value: 2.410047169314123e-25
+(R^2): 0.6795353324218589
+Mean Absolute Error (R^2): 0.05978035021311611
+
+
+
+
+ ########### Predict soft label quality with source models that construct latent hierarchy ########### 
+
+
+ __ImageNet LCA__objectnet linear probe Top1__ 
+
+
+ Baseline: ImageNet Top1 and objectnet linear probe Top1 
+
+Pearson correlation coefficient: -0.46865163336120413
+pearson_corr p-value: 2.229500533248387e-05
+Kendall rank correlation coefficient: -0.3520700975378345
+kendall_corr p-value: 8.343154845351352e-06
+Spearman rank-order correlation coefficient: -0.5259065902416137
+spearman_corr p-value: 1.2637141788910726e-06
+(R^2): 0.21963435345212468
+Mean Absolute Error (R^2): 0.19645607470263926
+
+
+
+ImageNet LCA and objectnet linear probe Top1 
+
+Pearson correlation coefficient: -0.24140195985293783
+pearson_corr p-value: 0.03693752515057919
+Kendall rank correlation coefficient: -0.2540663725206926
+kendall_corr p-value: 0.001298604366730607
+Spearman rank-order correlation coefficient: -0.4143744282670549
+spearman_corr p-value: 0.00021908513011082467
+(R^2): 0.05827490622083942
+Mean Absolute Error (R^2): 0.20376710781132124
+
+
+
+
+
+ ############################# imagenet_sketch_ ############################# 
+
+ 
+
+ ########### Compare ID LCA with ID Top 1 to predict OOD top1 ########### 
+
+
+ __ImageNet LCA__imagenet_sketch Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagenet_sketch Top1 
+
+Pearson correlation coefficient: 0.2746637051223506
+pearson_corr p-value: 0.017089978917093778
+Kendall rank correlation coefficient: 0.1702434653473542
+kendall_corr p-value: 0.030836293265532062
+Spearman rank-order correlation coefficient: 0.09220811551141876
+spearman_corr p-value: 0.4313921185436955
+(R^2): 0.07544015091153744
+Mean Absolute Error (R^2): 0.23041810306442603
+
+
+
+ImageNet LCA and imagenet_sketch Top1 
+
+Pearson correlation coefficient: -0.9030399212217557
+pearson_corr p-value: 1.6683031085872857e-28
+Kendall rank correlation coefficient: -0.7785791561485754
+kendall_corr p-value: 5.2739168892399534e-23
+Spearman rank-order correlation coefficient: -0.9229281060627615
+spearman_corr p-value: 5.48249143230885e-32
+(R^2): 0.8154810993201944
+Mean Absolute Error (R^2): 0.09388605482359831
+
+
+
+
+ __ImageNet LCA__imagenet_sketch Top5__ 
+
+
+ Baseline: ImageNet Top1 and imagenet_sketch Top5 
+
+Pearson correlation coefficient: 0.22859353377524083
+pearson_corr p-value: 0.04853761085843509
+Kendall rank correlation coefficient: 0.1514878293345101
+kendall_corr p-value: 0.0546934907922979
+Spearman rank-order correlation coefficient: 0.05870763540814953
+spearman_corr p-value: 0.6168529619251348
+(R^2): 0.05225500368385183
+Mean Absolute Error (R^2): 0.2524804273585199
+
+
+
+ImageNet LCA and imagenet_sketch Top5 
+
+Pearson correlation coefficient: -0.9005982144983481
+pearson_corr p-value: 3.956451379420952e-28
+Kendall rank correlation coefficient: -0.7677605481428056
+kendall_corr p-value: 2.0541415894294636e-22
+Spearman rank-order correlation coefficient: -0.9194856183675213
+spearman_corr p-value: 2.539936991398524e-31
+(R^2): 0.8110771439576123
+Mean Absolute Error (R^2): 0.09747639801844048
+
+
+
+
+ ########### Predict OOD agreement with ID agreement ########### 
+
+linear fit 0.0075908956826020455 0.34394075852867834
+
+Mean Absolute Error for aline_d: 0.26874683508790503
+R2
+Mean Absolute Error for aline_s: 0.14302311741038623
+
+ __ImageNet agreement__imagenet_sketch agreement__ 
+
+ImageNet agreement and imagenet_sketch agreement 
+
+Pearson correlation coefficient: 0.7105690809796136
+pearson_corr p-value: 9.283228080029329e-13
+Kendall rank correlation coefficient: 0.7850703209520374
+kendall_corr p-value: 2.311783226765806e-23
+Spearman rank-order correlation coefficient: 0.909300406839455
+spearman_corr p-value: 1.6344996595121248e-29
+(R^2): 0.5049084188442128
+Mean Absolute Error (R^2): 0.11718469368682129
+
+
+
+
+ ########### Predict soft label quality with source models that construct latent hierarchy ########### 
+
+
+ __ImageNet LCA__imagenet_sketch linear probe Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagenet_sketch linear probe Top1 
+
+Pearson correlation coefficient: -0.2497397849896023
+pearson_corr p-value: 0.030706961449511048
+Kendall rank correlation coefficient: -0.20837859828224697
+kendall_corr p-value: 0.00829799830528929
+Spearman rank-order correlation coefficient: -0.32664950096610046
+spearman_corr p-value: 0.004232919997290058
+(R^2): 0.06236996020665275
+Mean Absolute Error (R^2): 0.20625638311133498
+
+
+
+ImageNet LCA and imagenet_sketch linear probe Top1 
+
+Pearson correlation coefficient: -0.5352953585410937
+pearson_corr p-value: 7.494756993010649e-07
+Kendall rank correlation coefficient: -0.426792180498258
+kendall_corr p-value: 6.393356996674096e-08
+Spearman rank-order correlation coefficient: -0.6069251513686486
+spearman_corr p-value: 7.823724973379857e-09
+(R^2): 0.2865411208756381
+Mean Absolute Error (R^2): 0.1809475985954544
+
+
+
+
+
+ ############################# imagenet_a_ ############################# 
+
+ 
+
+ ########### Compare ID LCA with ID Top 1 to predict OOD top1 ########### 
+
+
+ __ImageNet LCA__imagenet_a Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagenet_a Top1 
+
+Pearson correlation coefficient: 0.09380900855248032
+pearson_corr p-value: 0.4234025211545475
+Kendall rank correlation coefficient: 0.06783330436926321
+kendall_corr p-value: 0.38977256193619936
+Spearman rank-order correlation coefficient: -0.037028870570595174
+spearman_corr p-value: 0.7524568260791856
+(R^2): 0.008800130085599323
+Mean Absolute Error (R^2): 0.19235175665834126
+
+
+
+ImageNet LCA and imagenet_a Top1 
+
+Pearson correlation coefficient: -0.839414186466437
+pearson_corr p-value: 5.146766321291287e-21
+Kendall rank correlation coefficient: -0.7297980272862391
+kendall_corr p-value: 2.1548947145460412e-20
+Spearman rank-order correlation coefficient: -0.8884447416862629
+spearman_corr p-value: 2.1370837903151947e-26
+(R^2): 0.7046161764411102
+Mean Absolute Error (R^2): 0.10296865955940528
+
+
+
+
+ __ImageNet LCA__imagenet_a Top5__ 
+
+
+ Baseline: ImageNet Top1 and imagenet_a Top5 
+
+Pearson correlation coefficient: 0.11507906945023555
+pearson_corr p-value: 0.3255355715461877
+Kendall rank correlation coefficient: 0.10786435786435787
+kendall_corr p-value: 0.17137493470779963
+Spearman rank-order correlation coefficient: 0.02132381182696274
+spearman_corr p-value: 0.8559056409995959
+(R^2): 0.01324319222553183
+Mean Absolute Error (R^2): 0.23047896597774653
+
+
+
+ImageNet LCA and imagenet_a Top5 
+
+Pearson correlation coefficient: -0.8940496054528658
+pearson_corr p-value: 3.605918814445491e-27
+Kendall rank correlation coefficient: -0.7552750348249146
+kendall_corr p-value: 9.792368661574499e-22
+Spearman rank-order correlation coefficient: -0.9087520893576003
+spearman_corr p-value: 2.016635888927371e-29
+(R^2): 0.7993246970104252
+Mean Absolute Error (R^2): 0.09354118367553925
+
+
+
+
+ ########### Predict OOD agreement with ID agreement ########### 
+
+linear fit 0.02437710682160299 0.35939757251180304
+
+Mean Absolute Error for aline_d: 0.4170611200275644
+R2
+Mean Absolute Error for aline_s: 0.17081526703263214
+
+ __ImageNet agreement__imagenet_a agreement__ 
+
+ImageNet agreement and imagenet_a agreement 
+
+Pearson correlation coefficient: 0.5346915043472489
+pearson_corr p-value: 7.754559261710994e-07
+Kendall rank correlation coefficient: 0.6155865387196795
+kendall_corr p-value: 7.55268415091626e-15
+Spearman rank-order correlation coefficient: 0.80656249325185
+spearman_corr p-value: 2.4715201754422352e-18
+(R^2): 0.28589500482112384
+Mean Absolute Error (R^2): 0.30105111165760595
+
+
+
+
+ ########### Predict soft label quality with source models that construct latent hierarchy ########### 
+
+
+ __ImageNet LCA__imagenet_a linear probe Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagenet_a linear probe Top1 
+
+Pearson correlation coefficient: -0.20946680510051258
+pearson_corr p-value: 0.07128881306437991
+Kendall rank correlation coefficient: -0.1783510401028029
+kendall_corr p-value: 0.02489743659587756
+Spearman rank-order correlation coefficient: -0.28919206949549936
+spearman_corr p-value: 0.01185502415611369
+(R^2): 0.04387634243901595
+Mean Absolute Error (R^2): 0.20684910400768097
+
+
+
+ImageNet LCA and imagenet_a linear probe Top1 
+
+Pearson correlation coefficient: -0.6037017600741656
+pearson_corr p-value: 9.844781204985928e-09
+Kendall rank correlation coefficient: -0.43269621791447554
+kendall_corr p-value: 5.2499973734903925e-08
+Spearman rank-order correlation coefficient: -0.6079401844370754
+spearman_corr p-value: 7.2737491973996e-09
+(R^2): 0.3644558151166455
+Mean Absolute Error (R^2): 0.16470097261485075
+
+
+
+
+
+ ############################# imagenet_r_ ############################# 
+
+ 
+
+ ########### Compare ID LCA with ID Top 1 to predict OOD top1 ########### 
+
+
+ __ImageNet LCA__imagenet_r Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagenet_r Top1 
+
+Pearson correlation coefficient: 0.14044661266289613
+pearson_corr p-value: 0.22942474961427736
+Kendall rank correlation coefficient: 0.14643823502335976
+kendall_corr p-value: 0.06327420301080483
+Spearman rank-order correlation coefficient: 0.04234858992247665
+spearman_corr p-value: 0.7182851839297184
+(R^2): 0.01972525100848166
+Mean Absolute Error (R^2): 0.2772483606181721
+
+
+
+ImageNet LCA and imagenet_r Top1 
+
+Pearson correlation coefficient: -0.8827396378525237
+pearson_corr p-value: 1.1890429763954728e-25
+Kendall rank correlation coefficient: -0.7612693833393437
+kendall_corr p-value: 4.603005147776687e-22
+Spearman rank-order correlation coefficient: -0.9113203789581498
+spearman_corr p-value: 7.450550022903022e-30
+(R^2): 0.7792292682360046
+Mean Absolute Error (R^2): 0.11423014668988013
+
+
+
+
+ __ImageNet LCA__imagenet_r Top5__ 
+
+
+ Baseline: ImageNet Top1 and imagenet_r Top5 
+
+Pearson correlation coefficient: 0.059505227131365274
+pearson_corr p-value: 0.6120673444507855
+Kendall rank correlation coefficient: 0.1342233469434357
+kendall_corr p-value: 0.08880012629857766
+Spearman rank-order correlation coefficient: 0.0035848157448290373
+spearman_corr p-value: 0.9756490994187557
+(R^2): 0.003540872055955435
+Mean Absolute Error (R^2): 0.3069280560364957
+
+
+
+ImageNet LCA and imagenet_r Top5 
+
+Pearson correlation coefficient: -0.8590695841249327
+pearson_corr p-value: 6.319666946317141e-23
+Kendall rank correlation coefficient: -0.7521645511081606
+kendall_corr p-value: 1.4561629584091188e-21
+Spearman rank-order correlation coefficient: -0.8966669986824146
+spearman_corr p-value: 1.517607251024543e-27
+(R^2): 0.7380005503685849
+Mean Absolute Error (R^2): 0.13925233722864763
+
+
+
+
+ ########### Predict OOD agreement with ID agreement ########### 
+
+linear fit 0.1313917364170575 0.3392639686497143
+
+Mean Absolute Error for aline_d: 0.16791653946849522
+R2
+Mean Absolute Error for aline_s: 0.20167236911700362
+
+ __ImageNet agreement__imagenet_r agreement__ 
+
+ImageNet agreement and imagenet_r agreement 
+
+Pearson correlation coefficient: 0.6303484348170847
+pearson_corr p-value: 1.3598342008462955e-09
+Kendall rank correlation coefficient: 0.4540209159754778
+kendall_corr p-value: 8.447601597862383e-09
+Spearman rank-order correlation coefficient: 0.5161171014822613
+spearman_corr p-value: 2.143294521637165e-06
+(R^2): 0.3973391492763483
+Mean Absolute Error (R^2): 0.11977874932250412
+
+
+
+
+ ########### Predict soft label quality with source models that construct latent hierarchy ########### 
+
+
+ __ImageNet LCA__imagenet_r linear probe Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagenet_r linear probe Top1 
+
+Pearson correlation coefficient: 0.19129041114607262
+pearson_corr p-value: 0.10017223602428316
+Kendall rank correlation coefficient: 0.015529080981172652
+kendall_corr p-value: 0.844045099271493
+Spearman rank-order correlation coefficient: 0.004310528793629215
+spearman_corr p-value: 0.9707214680068111
+(R^2): 0.03659202139643358
+Mean Absolute Error (R^2): 0.21461504599362272
+
+
+
+ImageNet LCA and imagenet_r linear probe Top1 
+
+Pearson correlation coefficient: -0.738478735661826
+pearson_corr p-value: 3.9896775403082584e-14
+Kendall rank correlation coefficient: -0.5293378482321881
+kendall_corr p-value: 1.9896930125763576e-11
+Spearman rank-order correlation coefficient: -0.7576091688296246
+spearman_corr p-value: 3.6278708459610205e-15
+(R^2): 0.5453508430246892
+Mean Absolute Error (R^2): 0.14745538571132444
+
+
+
+
+
+ ############################# imagenetv2_ ############################# 
+
+ 
+
+ ########### Compare ID LCA with ID Top 1 to predict OOD top1 ########### 
+
+
+ __ImageNet LCA__imagenetv2 Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagenetv2 Top1 
+
+Pearson correlation coefficient: 0.9805877333723996
+pearson_corr p-value: 2.1127145130113173e-53
+Kendall rank correlation coefficient: 0.8397690911325046
+kendall_corr p-value: 1.8345447663874207e-26
+Spearman rank-order correlation coefficient: 0.947045351182658
+spearman_corr p-value: 9.472905323683618e-38
+(R^2): 0.9615523028404204
+Mean Absolute Error (R^2): 0.040257152973003765
+
+
+
+ImageNet LCA and imagenetv2 Top1 
+
+Pearson correlation coefficient: -0.5818333992662076
+pearson_corr p-value: 4.3846596546708375e-08
+Kendall rank correlation coefficient: -0.4207108680403619
+kendall_corr p-value: 9.60644459431873e-08
+Spearman rank-order correlation coefficient: -0.5170812203776175
+spearman_corr p-value: 2.0361152974580362e-06
+(R^2): 0.33853010450167054
+Mean Absolute Error (R^2): 0.1625241104940243
+
+
+
+
+ __ImageNet LCA__imagenetv2 Top5__ 
+
+
+ Baseline: ImageNet Top1 and imagenetv2 Top5 
+
+Pearson correlation coefficient: 0.9429347131008832
+pearson_corr p-value: 1.34863151201732e-36
+Kendall rank correlation coefficient: 0.6720779220779222
+kendall_corr p-value: 1.562249168620873e-17
+Spearman rank-order correlation coefficient: 0.8184275289130404
+spearman_corr p-value: 3.070647346301467e-19
+(R^2): 0.8891258731706456
+Mean Absolute Error (R^2): 0.07488815629475712
+
+
+
+ImageNet LCA and imagenetv2 Top5 
+
+Pearson correlation coefficient: -0.6671730276582811
+pearson_corr p-value: 6.322300240865748e-11
+Kendall rank correlation coefficient: -0.570604157159988
+kendall_corr p-value: 4.590265392031156e-13
+Spearman rank-order correlation coefficient: -0.7293573740360171
+spearman_corr p-value: 1.1645235425367418e-13
+(R^2): 0.44511984883471756
+Mean Absolute Error (R^2): 0.13798504646569484
+
+
+
+
+ ########### Predict OOD agreement with ID agreement ########### 
+
+linear fit -0.004398836460071941 0.7014596923669144
+
+Mean Absolute Error for aline_d: 0.1160866110370365
+R2
+Mean Absolute Error for aline_s: 0.08812682117361702
+
+ __ImageNet agreement__imagenetv2 agreement__ 
+
+ImageNet agreement and imagenetv2 agreement 
+
+Pearson correlation coefficient: 0.8611753862328491
+pearson_corr p-value: 3.7928645645539573e-23
+Kendall rank correlation coefficient: 0.8034654056210796
+kendall_corr p-value: 2.3518723206270614e-24
+Spearman rank-order correlation coefficient: 0.9369656456359731
+spearman_corr p-value: 4.579180244035799e-35
+(R^2): 0.7416230458532966
+Mean Absolute Error (R^2): 0.08717500731513256
+
+
+
+
+ ########### Predict soft label quality with source models that construct latent hierarchy ########### 
+
+
+ __ImageNet LCA__imagenetv2 linear probe Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagenetv2 linear probe Top1 
+
+Pearson correlation coefficient: -0.02674595858071826
+pearson_corr p-value: 0.8198195077728706
+Kendall rank correlation coefficient: 0.09930146217183462
+kendall_corr p-value: 0.21593757360426236
+Spearman rank-order correlation coefficient: 0.1465339569750227
+spearman_corr p-value: 0.20966354494036435
+(R^2): 0.0007153463004014871
+Mean Absolute Error (R^2): 0.2074942606126627
+
+
+
+ImageNet LCA and imagenetv2 linear probe Top1 
+
+Pearson correlation coefficient: 0.300986332260121
+pearson_corr p-value: 0.008690721904860851
+Kendall rank correlation coefficient: 0.2518860574656708
+kendall_corr p-value: 0.0016934903119051512
+Spearman rank-order correlation coefficient: 0.3570114799334236
+spearman_corr p-value: 0.0016654841841282034
+(R^2): 0.09059277220739981
+Mean Absolute Error (R^2): 0.18718979164675
+
+
+
+
+
+ ############################# imagenet ############################# 
+
+ 
+
+ ########### Compare ID LCA with ID Top 1 to predict OOD top1 ########### 
+
+
+ __ImageNet LCA__imagene Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagene Top1 
+
+Pearson correlation coefficient: 0.9999999999999997
+pearson_corr p-value: 0.0
+Kendall rank correlation coefficient: 1.0
+kendall_corr p-value: 7.56205583954936e-37
+Spearman rank-order correlation coefficient: 0.9999999999999999
+spearman_corr p-value: 0.0
+(R^2): 1.0
+Mean Absolute Error (R^2): 6.308611040968989e-17
+
+
+
+ImageNet LCA and imagene Top1 
+
+Pearson correlation coefficient: -0.41721634154277687
+pearson_corr p-value: 0.0001962045088820531
+Kendall rank correlation coefficient: -0.2798917989609044
+kendall_corr p-value: 0.0003854705701075443
+Spearman rank-order correlation coefficient: -0.2662541342220341
+spearman_corr p-value: 0.020946467805272186
+(R^2): 0.17406947565033892
+Mean Absolute Error (R^2): 0.18182016400931472
+
+
+
+
+ __ImageNet LCA__imagene Top5__ 
+
+
+ Baseline: ImageNet Top1 and imagene Top5 
+
+Pearson correlation coefficient: 0.9768883287867776
+pearson_corr p-value: 1.153086673900972e-50
+Kendall rank correlation coefficient: 0.8868843730832392
+kendall_corr p-value: 2.4645617143447487e-29
+Spearman rank-order correlation coefficient: 0.9740810288910952
+spearman_corr p-value: 7.206996349229701e-49
+(R^2): 0.9543108069198233
+Mean Absolute Error (R^2): 0.043166943737506604
+
+
+
+ImageNet LCA and imagene Top5 
+
+Pearson correlation coefficient: -0.5137954907862636
+pearson_corr p-value: 2.423549588392011e-06
+Kendall rank correlation coefficient: -0.3769841515146416
+kendall_corr p-value: 1.7488695619091742e-06
+Spearman rank-order correlation coefficient: -0.44336489024482667
+spearman_corr p-value: 6.783426430921698e-05
+(R^2): 0.2639858063522972
+Mean Absolute Error (R^2): 0.1570380985352583
+
+
+
+
+ ########### Predict OOD agreement with ID agreement ########### 
+
+linear fit 1.951563910473908e-17 1.0000000000000004
+
+Mean Absolute Error for aline_d: 0.09029127322830305
+R2
+Mean Absolute Error for aline_s: 0.08781191014754612
+
+ __ImageNet agreement__imagene agreement__ 
+
+ImageNet agreement and imagene agreement 
+
+Pearson correlation coefficient: 1.0
+pearson_corr p-value: 0.0
+Kendall rank correlation coefficient: 1.0
+kendall_corr p-value: 7.157438929475061e-37
+Spearman rank-order correlation coefficient: 1.0
+spearman_corr p-value: 0.0
+(R^2): 1.0
+Mean Absolute Error (R^2): 4.984438787640026e-17
+
+
+
+
+ ########### Predict soft label quality with source models that construct latent hierarchy ########### 
+
+
+ __ImageNet LCA__imagene linear probe Top1__ 
+
+
+ Baseline: ImageNet Top1 and imagene linear probe Top1 
+
+Pearson correlation coefficient: -0.2510732154210402
+pearson_corr p-value: 0.029797617609135973
+Kendall rank correlation coefficient: -0.10069359177680429
+kendall_corr p-value: 0.20484595405213413
+Spearman rank-order correlation coefficient: -0.13601595107647552
+spearman_corr p-value: 0.24460034576838555
+(R^2): 0.06303775950185997
+Mean Absolute Error (R^2): 0.1914320222809482
+
+
+
+ImageNet LCA and imagene linear probe Top1 
+
+Pearson correlation coefficient: 0.18651839238004875
+pearson_corr p-value: 0.10909783286537521
+Kendall rank correlation coefficient: 0.11630375054403254
+kendall_corr p-value: 0.14301174425332966
+Spearman rank-order correlation coefficient: 0.1558248562348536
+spearman_corr p-value: 0.18188028161461087
+(R^2): 0.03478911069603774
+Mean Absolute Error (R^2): 0.1944364705125861
+
+
+

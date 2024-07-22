@@ -1,0 +1,76 @@
+;models_name_list;target_axis;indicator_axis;baseline_indicator;is_VLM
+0;openCLIP('RN50', 'yfcc15m');0.4383;6.78483;0.28102;True
+1;openCLIP('RN50-quickgelu', 'yfcc15m');0.4415;6.81976;0.27822;True
+2;openCLIP('RN101-quickgelu', 'yfcc15m');0.4643;6.8226;0.30444;True
+3;openCLIP('RN101', 'yfcc15m');0.4652;6.7758;0.30636;True
+4;openCLIP('RN50', 'cc12m');0.5121;6.64992;0.33124;True
+5;openCLIP('RN50-quickgelu', 'cc12m');0.5188;6.68972;0.33734;True
+6;albeffeatureextractor;0.5374;6.49295;0.3383;True
+7;blipfeatureextractor;0.6057;6.54897;0.41134;True
+8;AlexNet10;0.6405;7.01017;0.56556;False
+9;SqueezeNet22;0.6543;7.00052;0.58096;False
+10;SqueezeNet23;0.6603;7.02883;0.58188;False
+11;MobileNetV330;0.7459;6.75915;0.67668;False
+12;MNASNet18;0.7497;6.78458;0.6775;False
+13;VGG14;0.7605;6.64796;0.6904;False
+14;openCLIP('ViT-B-32', 'laion400me32');0.7614;6.3495;0.5983;True
+15;openCLIP('ViT-B-32', 'laion400me31');0.7624;6.34584;0.59948;True
+16;openCLIP('RN50', 'openai');0.7653;6.32595;0.57956;True
+17;openCLIP('RN50-quickgelu', 'openai');0.7653;6.32595;0.57956;True
+18;RN50;0.7666;6.32669;0.5788;True
+19;VGG15;0.7723;6.61116;0.6994;False
+20;Inception36;0.7755;6.66348;0.69522;False
+21;ResNet12;0.7773;6.64253;0.6976;False
+22;GoogLeNet21;0.7779;6.61453;0.69772;False
+23;openCLIP('ViT-B-32-quickgelu', 'laion400me31');0.7801;6.27692;0.62446;True
+24;VGG24;0.7805;6.59268;0.7038;False
+25;openCLIP('ViT-B-32-quickgelu', 'laion400me32');0.7813;6.27872;0.62446;True
+26;openCLIP('cocaViT-B-32', 'laion2bs13bb90k');0.783;6.23847;0.63328;True
+27;VGG25;0.7862;6.55068;0.71554;False
+28;RN101;0.7865;6.28417;0.6065;True
+29;openCLIP('RN101', 'openai');0.7873;6.28248;0.60692;True
+30;openCLIP('RN101-quickgelu', 'openai');0.7873;6.28248;0.60692;True
+31;VGG16;0.7916;6.58;0.71586;False
+32;VGG17;0.7919;6.576;0.72394;False
+33;vitb32;0.7925;6.15259;0.61826;True
+34;openCLIP('ViT-B-32', 'openai');0.7934;6.15033;0.6189;True
+35;MNASNet19;0.7936;6.59727;0.70882;False
+36;MNASNet20;0.7993;6.53843;0.73468;False
+37;VGG26;0.8048;6.53152;0.7337;False
+38;ResNet13;0.8063;6.53892;0.73302;False
+39;openCLIP('ViT-B-32', 'laion2be16');0.8071;6.22267;0.6544;True
+40;openCLIP('ViT-B-32', 'laion2bs34bb79k');0.8095;6.1789;0.66264;True
+41;openCLIP('RN50x4', 'openai');0.8106;6.17208;0.64098;True
+42;RN50x4;0.8112;6.1656;0.64082;True
+43;VGG10;0.8138;6.4957;0.74242;False
+44;DenseNet27;0.8153;6.5373;0.74438;False
+45;openCLIP('ViT-B-16', 'laion400me31');0.8164;6.15317;0.66558;True
+46;openCLIP('ViT-B-16', 'laion400me32');0.8175;6.15003;0.66626;True
+47;VisionTransformer7;0.8193;6.49365;0.75912;False
+48;MobileNetV331;0.8241;6.48785;0.75314;False
+49;DenseNet29;0.8267;6.45699;0.75588;False
+50;VisionTransformer8;0.8284;6.47105;0.7696;False
+51;ShuffleNetV29;0.8302;6.54942;0.76194;False
+52;DenseNet2;0.8324;6.42575;0.76886;False
+53;openCLIP('RN50x16', 'openai');0.8325;6.07972;0.67728;True
+54;openCLIP('ViT-B-16-plus-240', 'laion400me31');0.8347;6.11289;0.68536;True
+55;MNASNet3;0.8355;6.44031;0.76076;False
+56;vitb16;0.836;6.0016;0.6661;True
+57;openCLIP('ViT-B-16-plus-240', 'laion400me32');0.836;6.11562;0.68602;True
+58;openCLIP('ViT-B-16', 'laion2bs34bb88k');0.8391;6.07565;0.69312;True
+59;EfficientNet1;0.8414;6.37939;0.77672;False
+60;DenseNet28;0.8414;6.42938;0.77112;False
+61;openCLIP('RN50x64', 'openai');0.8527;6.07782;0.7076;True
+62;openCLIP('ViT-L-14', 'laion400me31');0.8617;6.03718;0.722;True
+63;openCLIP('ViT-L-14', 'laion400me32');0.8618;6.03602;0.72254;True
+64;ResNet0;0.8705;6.31044;0.80346;False
+65;vitl14;0.8752;5.96137;0.72868;True
+66;ResNet5;0.8757;6.24573;0.81672;False
+67;RegNet4;0.8759;6.2541;0.80734;False
+68;openCLIP('ViT-L-14', 'laion2bs32bb82k');0.8768;5.93854;0.74526;True
+69;openCLIP('cocaViT-L-14', 'laion2bs13bb90k');0.8779;5.89176;0.75234;True
+70;ResNet11;0.8795;6.22039;0.82348;False
+71;ConvNeXt12;0.8837;6.29169;0.82134;False
+72;ResNet6;0.8844;6.21365;0.82346;False
+73;vitl14336;0.888;5.92473;0.74222;True
+74;SwinTransformer5;0.8948;6.20468;0.83172;False
