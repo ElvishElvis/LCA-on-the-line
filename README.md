@@ -1,4 +1,4 @@
-# LCA-on-the-Line : Benchmarking Out of Distribution Generalization with Class Taxonomies (*ICML 2024 Oral Presentation*)
+# *LCA-on-the-Line*: Benchmarking Out of Distribution Generalization with Class Taxonomies (*ICML 2024 Oral Presentation*)
 
 ## [Project Page](https://elvishelvis.github.io/papers/lca/)
 
@@ -56,7 +56,7 @@ To evaluate the correlation between ID LCA and Soft Labels quality, refer to the
 
 ## Thanks!
 
-The scripts `hier.py`, `datasets/`, and `wordNet_tree.npy` are adopted from [Jack Valmadre's hierarchical classification repository](https://github.com/jvlmdr/hiercls) 
+The scripts `hier.py`, `datasets/`, and `wordNet_tree.npy` are adopted from [Jack Valmadre's hierarchical classification repository](https://github.com/jvlmdr/hiercls). 
 - Valmadre, Jack. "Hierarchical classification at multiple operating points." Advances in Neural Information Processing Systems 35 (2022): 18034-18045.
 
 
