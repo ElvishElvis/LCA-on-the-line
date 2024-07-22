@@ -65,4 +65,6 @@ The scripts `hier.py`, `datasets/`, and `wordNet_tree.npy` are adopted from [Jac
 - [ ] Clean up code for readibility.
 - [ ] Make variables/paths configurable as flags.
 
+## Contact
+jiashi@alumni.cmu.edu 
 
