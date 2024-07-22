@@ -2,6 +2,7 @@
 
 ## [Project Page](https://elvishelvis.github.io/papers/lca/)
 
+![Motivation Figure](./assets/neck.jpeg)
 
 <!-- ## Quick Start
 
@@ -11,7 +12,7 @@ conda activate clip
 ``` -->
 
 
-## Experiment
+## Experiments
 
 ### Correlation Experiment
 
