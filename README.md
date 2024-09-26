@@ -4,12 +4,15 @@
 
 ![Motivation Figure](./assets/neck.jpeg)
 
-<!-- ## Quick Start
+## Quick Start
 
 ```bash
-conda env create -f environment.yml
-conda activate clip
-``` -->
+# Create a Virtual Environment
+conda create --name lca python=3.9
+conda activate lca
+# Install Dependencies
+pip install -r requirements.txt
+``` 
 
 
 ## Experiments
@@ -61,7 +64,6 @@ The scripts `hier.py`, `datasets/`, and `wordNet_tree.npy` are adopted from [Jac
 
 
 ## To-Do
-- [ ] Add environment.
 - [ ] Clean up code for readibility.
 - [ ] Make variables/paths configurable as flags.
 
