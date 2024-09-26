@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.12.0+cu113
+torchaudio==0.12.0+cu113
+torchmetrics==1.4.2
+torchvision==0.13.0+cu113
+tqdm==4.66.5
+numpy==1.26.4
+delu==0.0.25
+matplotlib==3.9.2
+pandas==2.2.2
+scikit-learn==1.5.2
+ftfy==6.2.3
+regex==2024.9.11
+git+https://github.com/openai/CLIP.git
+open_clip_torch==2.26.1
+networkx==3.3
+ml_collections==0.1.1
+seaborn==0.13.2
+statsmodels==0.14.3

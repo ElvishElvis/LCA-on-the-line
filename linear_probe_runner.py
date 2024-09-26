@@ -15,7 +15,7 @@ from torch.utils.data import Dataset, DataLoader
 import datasets
 from scheduler import build_lr_scheduler
 from linear_probe_loss import lca_alignment_loss
-from metric_hierarchy import logit_adaption,eval_metric
+from main import logit_adaption,eval_metric
 from create_hierarchy import read_txt_hierarchy
 from linear_probe_utils import load_lca_matrix_from_tree, process_lca_matrix,Logger,createDirIfDoesntExists
 
@@ -426,7 +426,7 @@ if __name__ == '__main__':
                     interp_model=None
                 else:
                     # assume a baseline model trained with temperature=1, lambda_=0 and alignment_mode=0 existed.
-                interp_model=f"/home/jiashi/LCA-on-the-line-private/results/linear/models/{base_model_prefix}_WordNet_depth_lambda_1_temperature1_alignment0_best.pth"
+                    interp_model=f"/home/jiashi/LCA-on-the-line-private/results/linear/models/{base_model_prefix}_WordNet_depth_lambda_1_temperature1_alignment0_best.pth"
 
                 with torch.no_grad():
                     '''

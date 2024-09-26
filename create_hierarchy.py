@@ -141,7 +141,7 @@ if __name__ == '__main__':
     print()
     print(model_name)
 
-    tree=np.load('tree.npy',allow_pickle=True).item()
+    tree=np.load('wordNet_tree.npy',allow_pickle=True).item()
     '''
     Constract latent hierarchy from current model
     '''
