@@ -83,7 +83,7 @@ def load_lca_matrix_from_tree(tree,tree_values='entropy',double_path=False,num_c
     Construct LCA matrix:
     (num_class, num_class), the difference in values of gt and LCA node 
     '''
-    # standard : values(pred)-values(LCA(pred,gt))
+    # standard : values(gt)-values(LCA(pred,gt))
     # double path : (values(pred)-values(LCA(pred,gt))) + (values(gt)-values(LCA(pred,gt)))
     # it only make a difference with depth, as depth of each leaf is difference
     if tree_values == 'depth' and double_path:
